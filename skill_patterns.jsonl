@@ -98,6 +98,7 @@
 {"label":"SKILL|apache-tomcat","pattern":[{"LOWER":"apache"},{"LOWER":"tomcat"}]}
 {"label":"SKILL|apache-zeppelin","pattern":[{"LOWER":"apache"},{"LOWER":"zeppelin"}]}
 {"label":"SKILL|api","pattern":[{"TEXT":"API"}]}
+{"label":"SKILL|api","pattern":[{"TEXT":"APIs"}]}
 {"label":"SKILL|api-documentation-browser","pattern":[{"LOWER":"api"},{"LOWER":"documentation"},{"LOWER":"browser"}]}
 {"label":"SKILL|api-tools","pattern":[{"LOWER":"api"},{"LOWER":"tools"}]}
 {"label":"SKILL|api.ai","pattern":[{"LOWER":"api.ai"}]}
@@ -459,6 +460,7 @@
 {"label":"SKILL|cryptography","pattern":[{"LOWER":"cryptography"}]}
 {"label":"SKILL|crystal","pattern":[{"LOWER":"crystal"}]}
 {"label":"SKILL|csharp","pattern":[{"TEXT":"C#"}]}
+{"label":"SKILL|csharp","pattern":[{"LOWER":"c#"}]}
 {"label":"SKILL|css","pattern":[{"TEXT":"CSS"}]}
 {"label":"SKILL|css-pre-processors--extensions","pattern":[{"LOWER":"css"},{"LOWER":"pre-processors"},{"LOWER":"/"},{"LOWER":"extensions"}]}
 {"label":"SKILL|css-pre-processors--extensions","pattern":[{"LOWER":"css pre-processors "},{"LOWER":" extensions"}]}
@@ -774,6 +776,8 @@
 {"label":"SKILL|front-end-frameworks","pattern":[{"LOWER":"front"},{"LOWER":"end frameworks"}]}
 {"label":"SKILL|front-end-package-manager","pattern":[{"LOWER":"front"},{"LOWER":"end"},{"LOWER":"package"},{"LOWER":"manager"}]}
 {"label":"SKILL|frontend","pattern":[{"LOWER":"front"},{"LOWER":"end"}]}
+{"label":"SKILL|frontend","pattern":[{"LOWER":"front-end"}]}
+{"label":"SKILL|backend","pattern":[{"LOWER":"back-end"}]}
 {"label":"SKILL|fullstory","pattern":[{"LOWER":"fullstory"}]}
 {"label":"SKILL|functional-dependency","pattern":[{"LOWER":"functional"},{"LOWER":"dependency"}]}
 {"label":"SKILL|functional-programming","pattern":[{"LOWER":"functional"},{"LOWER":"programming"}]}
@@ -2129,3 +2133,4 @@
 {"label":"SKILL|zeromq","pattern":[{"LOWER":"zeromq"}]}
 {"label":"SKILL|zoho-crm","pattern":[{"LOWER":"zoho"},{"LOWER":"crm"}]}
 {"label":"SKILL|zookeeper","pattern":[{"LOWER":"zookeeper"}]}
+{"label":"SKILL|ux","pattern":[{"LOWER":"user"},{"LOWER":"experience"}]}
