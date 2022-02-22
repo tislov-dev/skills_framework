@@ -776,8 +776,8 @@
 {"label":"SKILL|front-end-frameworks","pattern":[{"LOWER":"front"},{"LOWER":"end frameworks"}]}
 {"label":"SKILL|front-end-package-manager","pattern":[{"LOWER":"front"},{"LOWER":"end"},{"LOWER":"package"},{"LOWER":"manager"}]}
 {"label":"SKILL|frontend","pattern":[{"LOWER":"front"},{"LOWER":"end"}]}
-{"label":"SKILL|frontend","pattern":"front-end"}
-{"label":"SKILL|backend","pattern":"back-end"}
+{"label":"SKILL|frontend","pattern":[{"LOWER":"front"},{"IS_PUNCT":True},{"LOWER":"end"}]}
+{"label":"SKILL|backend","pattern":[{"LOWER":"back"},{"IS_PUNCT":True},{"LOWER":"end"}]}
 {"label":"SKILL|fullstory","pattern":[{"LOWER":"fullstory"}]}
 {"label":"SKILL|functional-dependency","pattern":[{"LOWER":"functional"},{"LOWER":"dependency"}]}
 {"label":"SKILL|functional-programming","pattern":[{"LOWER":"functional"},{"LOWER":"programming"}]}
