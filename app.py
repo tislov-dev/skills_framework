@@ -10,10 +10,10 @@ from spacy import displacy
 import json
 
 nlp = spacy.blank('en')
-ruler = nlp.add_pipe("entity_ruler")
-with open('skill_patterns.jsonl') as file:
-    patterns = [json.loads(line) for line in file]
-ruler.add_patterns(patterns)
+ruler = nlp.add_pipe("entity_ruler").from_disk('skill_patterns.jsonl')
+# with open('skill_patterns.jsonl') as file:
+#     patterns = [json.loads(line) for line in file]
+# ruler.add_patterns(patterns)
 # st.title('Skills Extraction Pipeline')
 def main():
     """
