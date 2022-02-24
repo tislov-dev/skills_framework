@@ -1,6 +1,6 @@
-{"label":"SKILL|.net","pattern":[{"TEXT":".NET"}]}
-{"label":"SKILL|.net","pattern":[{"LOWER":""},{"LOWER":"net"}]}
-{"label":"SKILL|1password","pattern":[{"LOWER":"1password"}]}
+{"label":"Tools & Technologies","pattern":[{"TEXT":".NET"}]}
+{"label":"Tools & Technologies","pattern":[{"LOWER":""},{"LOWER":"net"}]}
+{"label":"Tools & Technologies","pattern":[{"LOWER":"1password"}]}
 {"label":"SKILL|3d","pattern":[{"TEXT":"3D"}]}
 {"label":"SKILL|3d-reconstruction","pattern":[{"LOWER":"3d"},{"LOWER":"reconstruction"}]}
 {"label":"SKILL|aboutness","pattern":[{"LOWER":"aboutness"}]}
@@ -10,7 +10,7 @@
 {"label":"SKILL|access-control","pattern":[{"LOWER":"access"},{"LOWER":"control"}]}
 {"label":"SKILL|access-method","pattern":[{"LOWER":"access"},{"LOWER":"method"}]}
 {"label":"SKILL|access-network","pattern":[{"LOWER":"access"},{"LOWER":"network"}]}
-{"label":"SKILL|accounting","pattern":[{"LOWER":"accounting"}]}
+{"label":"Industry Knowledge","pattern":[{"LOWER":"accounting"}]}
 {"label":"SKILL|active-appearance-model","pattern":[{"LOWER":"active"},{"LOWER":"appearance"},{"LOWER":"model"}]}
 {"label":"SKILL|active-database","pattern":[{"LOWER":"active"},{"LOWER":"database"}]}
 {"label":"SKILL|active-networking","pattern":[{"LOWER":"active"},{"LOWER":"networking"}]}
@@ -23,8 +23,8 @@
 {"label":"SKILL|adaptive-routing","pattern":[{"LOWER":"adaptive"},{"LOWER":"routing"}]}
 {"label":"SKILL|adaptive-system","pattern":[{"LOWER":"adaptive"},{"LOWER":"system"}]}
 {"label":"SKILL|adder","pattern":[{"LOWER":"adder"}]}
-{"label":"SKILL|adobe-illustrator","pattern":[{"LOWER":"adobe"},{"LOWER":"illustrator"}]}
-{"label":"SKILL|adobe-photoshop","pattern":[{"LOWER":"adobe"},{"LOWER":"photoshop"}]}
+{"label":"Tools & Technologies","pattern":[{"LOWER":"adobe"},{"LOWER":"illustrator"}]}
+{"label":"Tools & Technologies","pattern":[{"LOWER":"adobe"},{"LOWER":"photoshop"}]}
 {"label":"SKILL|advertising","pattern":[{"LOWER":"advertising"}]}
 {"label":"SKILL|aerial-photography","pattern":[{"LOWER":"aerial"},{"LOWER":"photography"}]}
 {"label":"SKILL|aeronautics","pattern":[{"LOWER":"aeronautics"}]}
@@ -32,9 +32,9 @@
 {"label":"SKILL|aerospike","pattern":[{"LOWER":"aerospike"}]}
 {"label":"SKILL|agile-project-management","pattern":[{"LOWER":"agile"},{"LOWER":"project"},{"LOWER":"management"}]}
 {"label":"SKILL|agricultural-engineering","pattern":[{"LOWER":"agricultural"},{"LOWER":"engineering"}]}
-{"label":"SKILL|airflow","pattern":[{"LOWER":"airflow"}]}
-{"label":"SKILL|airtable","pattern":[{"LOWER":"airtable"}]}
-{"label":"SKILL|ajax","pattern":[{"LOWER":"ajax"}]}
+{"label":"Tools & Technologies","pattern":[{"LOWER":"airflow"}]}
+{"label":"Tools & Technologies","pattern":[{"LOWER":"airtable"}]}
+{"label":"Tools & Technologies","pattern":[{"LOWER":"ajax"}]}
 {"label":"SKILL|akamai","pattern":[{"LOWER":"akamai"}]}
 {"label":"SKILL|akka","pattern":[{"LOWER":"akka"}]}
 {"label":"SKILL|algolia","pattern":[{"LOWER":"algolia"}]}
@@ -42,32 +42,32 @@
 {"label":"SKILL|algorithm","pattern":[{"LOWER":"algorithm"}]}
 {"label":"SKILL|algorithm-design","pattern":[{"LOWER":"algorithm"},{"LOWER":"design"}]}
 {"label":"SKILL|alpine-linux","pattern":[{"LOWER":"alpine"},{"LOWER":"linux"}]}
-{"label":"SKILL|amazon-api-gateway","pattern":[{"LOWER":"amazon"},{"LOWER":"api"},{"LOWER":"gateway"}]}
-{"label":"SKILL|amazon-athena","pattern":[{"LOWER":"amazon"},{"LOWER":"athena"}]}
-{"label":"SKILL|amazon-cloudfront","pattern":[{"LOWER":"amazon"},{"LOWER":"cloudfront"}]}
-{"label":"SKILL|amazon-cloudwatch","pattern":[{"LOWER":"amazon"},{"LOWER":"cloudwatch"}]}
-{"label":"SKILL|amazon-cognito","pattern":[{"LOWER":"amazon"},{"LOWER":"cognito"}]}
-{"label":"SKILL|amazon-dynamodb","pattern":[{"LOWER":"amazon"},{"LOWER":"dynamodb"}]}
-{"label":"SKILL|amazon-ebs","pattern":[{"LOWER":"amazon"},{"LOWER":"ebs"}]}
-{"label":"SKILL|amazon-ec2","pattern":[{"LOWER":"amazon"},{"LOWER":"ec2"}]}
-{"label":"SKILL|amazon-ec2-container-service","pattern":[{"LOWER":"amazon"},{"LOWER":"ec2"},{"LOWER":"container"},{"LOWER":"service"}]}
-{"label":"SKILL|amazon-eks","pattern":[{"LOWER":"amazon"},{"LOWER":"eks"}]}
-{"label":"SKILL|amazon-elasticache","pattern":[{"LOWER":"amazon"},{"LOWER":"elasticache"}]}
-{"label":"SKILL|amazon-elasticsearch-service","pattern":[{"LOWER":"amazon"},{"LOWER":"elasticsearch"},{"LOWER":"service"}]}
-{"label":"SKILL|amazon-emr","pattern":[{"LOWER":"amazon"},{"LOWER":"emr"}]}
-{"label":"SKILL|amazon-kinesis","pattern":[{"LOWER":"amazon"},{"LOWER":"kinesis"}]}
-{"label":"SKILL|amazon-kinesis-firehose","pattern":[{"LOWER":"amazon"},{"LOWER":"kinesis"},{"LOWER":"firehose"}]}
-{"label":"SKILL|amazon-machine-learning","pattern":[{"LOWER":"amazon"},{"LOWER":"machine"},{"LOWER":"learning"}]}
-{"label":"SKILL|amazon-rds","pattern":[{"LOWER":"amazon"},{"LOWER":"rds"}]}
-{"label":"SKILL|amazon-rds-for-aurora","pattern":[{"LOWER":"amazon"},{"LOWER":"rds"},{"LOWER":"for"},{"LOWER":"aurora"}]}
-{"label":"SKILL|amazon-rds-for-postgresql","pattern":[{"LOWER":"amazon"},{"LOWER":"rds"},{"LOWER":"for"},{"LOWER":"postgresql"}]}
-{"label":"SKILL|amazon-redshift","pattern":[{"LOWER":"amazon"},{"LOWER":"redshift"}]}
-{"label":"SKILL|amazon-route-53","pattern":[{"LOWER":"amazon"},{"LOWER":"route"},{"LOWER":"53"}]}
-{"label":"SKILL|amazon-s3","pattern":[{"LOWER":"amazon"},{"LOWER":"s3"}]}
-{"label":"SKILL|amazon-ses","pattern":[{"LOWER":"amazon"},{"LOWER":"ses"}]}
-{"label":"SKILL|amazon-sns","pattern":[{"LOWER":"amazon"},{"LOWER":"sns"}]}
-{"label":"SKILL|amazon-sqs","pattern":[{"LOWER":"amazon"},{"LOWER":"sqs"}]}
-{"label":"SKILL|amazon-vpc","pattern":[{"LOWER":"amazon"},{"LOWER":"vpc"}]}
+{"label":"Tools & Technologies","pattern":[{"LOWER":"amazon"},{"LOWER":"api"},{"LOWER":"gateway"}]}
+{"label":"Tools & Technologies","pattern":[{"LOWER":"amazon"},{"LOWER":"athena"}]}
+{"label":"Tools & Technologies","pattern":[{"LOWER":"amazon"},{"LOWER":"cloudfront"}]}
+{"label":"Tools & Technologies","pattern":[{"LOWER":"amazon"},{"LOWER":"cloudwatch"}]}
+{"label":"Tools & Technologies","pattern":[{"LOWER":"amazon"},{"LOWER":"cognito"}]}
+{"label":"Tools & Technologies","pattern":[{"LOWER":"amazon"},{"LOWER":"dynamodb"}]}
+{"label":"Tools & Technologies","pattern":[{"LOWER":"amazon"},{"LOWER":"ebs"}]}
+{"label":"Tools & Technologies","pattern":[{"LOWER":"amazon"},{"LOWER":"ec2"}]}
+{"label":"Tools & Technologies","pattern":[{"LOWER":"amazon"},{"LOWER":"ec2"},{"LOWER":"container"},{"LOWER":"service"}]}
+{"label":"Tools & Technologies","pattern":[{"LOWER":"amazon"},{"LOWER":"eks"}]}
+{"label":"Tools & Technologies","pattern":[{"LOWER":"amazon"},{"LOWER":"elasticache"}]}
+{"label":"Tools & Technologies","pattern":[{"LOWER":"amazon"},{"LOWER":"elasticsearch"},{"LOWER":"service"}]}
+{"label":"Tools & Technologies","pattern":[{"LOWER":"amazon"},{"LOWER":"emr"}]}
+{"label":"Tools & Technologies","pattern":[{"LOWER":"amazon"},{"LOWER":"kinesis"}]}
+{"label":"Tools & Technologies","pattern":[{"LOWER":"amazon"},{"LOWER":"kinesis"},{"LOWER":"firehose"}]}
+{"label":"Tools & Technologies","pattern":[{"LOWER":"amazon"},{"LOWER":"machine"},{"LOWER":"learning"}]}
+{"label":"Tools & Technologies","pattern":[{"LOWER":"amazon"},{"LOWER":"rds"}]}
+{"label":"Tools & Technologies","pattern":[{"LOWER":"amazon"},{"LOWER":"rds"},{"LOWER":"for"},{"LOWER":"aurora"}]}
+{"label":"Tools & Technologies","pattern":[{"LOWER":"amazon"},{"LOWER":"rds"},{"LOWER":"for"},{"LOWER":"postgresql"}]}
+{"label":"Tools & Technologies","pattern":[{"LOWER":"amazon"},{"LOWER":"redshift"}]}
+{"label":"Tools & Technologies","pattern":[{"LOWER":"amazon"},{"LOWER":"route"},{"LOWER":"53"}]}
+{"label":"Tools & Technologies","pattern":[{"LOWER":"amazon"},{"LOWER":"s3"}]}
+{"label":"Tools & Technologies","pattern":[{"LOWER":"amazon"},{"LOWER":"ses"}]}
+{"label":"Tools & Technologies","pattern":[{"LOWER":"amazon"},{"LOWER":"sns"}]}
+{"label":"Tools & Technologies","pattern":[{"LOWER":"amazon"},{"LOWER":"sqs"}]}
+{"label":"Tools & Technologies","pattern":[{"LOWER":"amazon"},{"LOWER":"vpc"}]}
 {"label":"SKILL|ambiguity","pattern":[{"LOWER":"ambiguity"}]}
 {"label":"SKILL|amphp","pattern":[{"LOWER":"amp"}]}
 {"label":"SKILL|amplitude","pattern":[{"LOWER":"amplitude"}]}
@@ -76,27 +76,27 @@
 {"label":"SKILL|analysis-of-algorithms","pattern":[{"LOWER":"analysis"},{"LOWER":"of"},{"LOWER":"algorithms"}]}
 {"label":"SKILL|analysis-of-covariance","pattern":[{"LOWER":"analysis"},{"LOWER":"of"},{"LOWER":"covariance"}]}
 {"label":"SKILL|analysis-of-variance","pattern":[{"LOWER":"analysis"},{"LOWER":"of"},{"LOWER":"variance"}]}
-{"label":"SKILL|analytics","pattern":[{"LOWER":"analytics"}]}
+{"label":"Industry Knowledge","pattern":[{"LOWER":"analytics"}]}
 {"label":"SKILL|analytics-integrator","pattern":[{"LOWER":"analytics"},{"LOWER":"integrator"}]}
-{"label":"SKILL|android","pattern":[{"LOWER":"android"}]}
-{"label":"SKILL|android-sdk","pattern":[{"LOWER":"android"},{"LOWER":"sdk"}]}
-{"label":"SKILL|android-studio","pattern":[{"LOWER":"android"},{"LOWER":"studio"}]}
-{"label":"SKILL|angular","pattern":[{"LOWER":"angular"}]}
-{"label":"SKILL|angular-2","pattern":[{"LOWER":"angular"},{"LOWER":"2"}]}
-{"label":"SKILL|angularjs","pattern":[{"LOWER":"angularjs"}]}
-{"label":"SKILL|angularui","pattern":[{"LOWER":"angularui"}]}
+{"label":"Tools & Technologies","pattern":[{"LOWER":"android"}]}
+{"label":"Tools & Technologies","pattern":[{"LOWER":"android"},{"LOWER":"sdk"}]}
+{"label":"Tools & Technologies","pattern":[{"LOWER":"android"},{"LOWER":"studio"}]}
+{"label":"Tools & Technologies","pattern":[{"LOWER":"angular"}]}
+{"label":"Tools & Technologies","pattern":[{"LOWER":"angular"},{"LOWER":"2"}]}
+{"label":"Tools & Technologies","pattern":[{"LOWER":"angularjs"}]}
+{"label":"Tools & Technologies","pattern":[{"LOWER":"angularui"}]}
 {"label":"SKILL|anomaly-detection","pattern":[{"LOWER":"anomaly"},{"LOWER":"detection"}]}
-{"label":"SKILL|ansible","pattern":[{"LOWER":"ansible"}]}
+{"label":"Tools & Technologies","pattern":[{"LOWER":"ansible"}]}
 {"label":"SKILL|ant-design","pattern":[{"LOWER":"ant"},{"LOWER":"design"}]}
-{"label":"SKILL|apache-ant","pattern":[{"LOWER":"apache"},{"LOWER":"ant"}]}
-{"label":"SKILL|apache-cordova","pattern":[{"LOWER":"apache"},{"LOWER":"cordova"}]}
-{"label":"SKILL|apache-flink","pattern":[{"LOWER":"apache"},{"LOWER":"flink"}]}
-{"label":"SKILL|apache-http-server","pattern":[{"LOWER":"apache"},{"LOWER":"http"},{"LOWER":"server"}]}
-{"label":"SKILL|apache-maven","pattern":[{"LOWER":"apache"},{"LOWER":"maven"}]}
-{"label":"SKILL|apache-mesos","pattern":[{"LOWER":"apache"},{"LOWER":"mesos"}]}
-{"label":"SKILL|apache-spark","pattern":[{"LOWER":"apache"},{"LOWER":"spark"}]}
-{"label":"SKILL|apache-tomcat","pattern":[{"LOWER":"apache"},{"LOWER":"tomcat"}]}
-{"label":"SKILL|apache-zeppelin","pattern":[{"LOWER":"apache"},{"LOWER":"zeppelin"}]}
+{"label":"Tools & Technologies","pattern":[{"LOWER":"apache"},{"LOWER":"ant"}]}
+{"label":"Tools & Technologies","pattern":[{"LOWER":"apache"},{"LOWER":"cordova"}]}
+{"label":"Tools & Technologies","pattern":[{"LOWER":"apache"},{"LOWER":"flink"}]}
+{"label":"Tools & Technologies","pattern":[{"LOWER":"apache"},{"LOWER":"http"},{"LOWER":"server"}]}
+{"label":"Tools & Technologies","pattern":[{"LOWER":"apache"},{"LOWER":"maven"}]}
+{"label":"Tools & Technologies","pattern":[{"LOWER":"apache"},{"LOWER":"mesos"}]}
+{"label":"Tools & Technologies","pattern":[{"LOWER":"apache"},{"LOWER":"spark"}]}
+{"label":"Tools & Technologies","pattern":[{"LOWER":"apache"},{"LOWER":"tomcat"}]}
+{"label":"Tools & Technologies","pattern":[{"LOWER":"apache"},{"LOWER":"zeppelin"}]}
 {"label":"SKILL|api","pattern":[{"TEXT":"API"}]}
 {"label":"SKILL|api","pattern":[{"TEXT":"APIs"}]}
 {"label":"SKILL|api-documentation-browser","pattern":[{"LOWER":"api"},{"LOWER":"documentation"},{"LOWER":"browser"}]}
@@ -115,7 +115,7 @@
 {"label":"SKILL|application-specific-integrated-circuit","pattern":[{"LOWER":"application"},{"LOWER":"specific integrated circuit"}]}
 {"label":"SKILL|application-utilities","pattern":[{"LOWER":"application"},{"LOWER":"utilities"}]}
 {"label":"SKILL|appveyor","pattern":[{"LOWER":"appveyor"}]}
-{"label":"SKILL|arangodb","pattern":[{"LOWER":"arangodb"}]}
+{"label":"Tools & Technologies","pattern":[{"LOWER":"arangodb"}]}
 {"label":"SKILL|arbol","pattern":[{"LOWER":"arbol"}]}
 {"label":"SKILL|arboriculture","pattern":[{"LOWER":"arboriculture"}]}
 {"label":"SKILL|arborist","pattern":[{"LOWER":"arborist"}]}
@@ -123,9 +123,9 @@
 {"label":"SKILL|architectural-engineering","pattern":[{"LOWER":"architectural"},{"LOWER":"engineering"}]}
 {"label":"SKILL|arduino","pattern":[{"LOWER":"arduino"}]}
 {"label":"SKILL|art--architecture-thesaurus","pattern":[{"LOWER":"art"},{"LOWER":"&"},{"LOWER":"architecture"},{"LOWER":"thesaurus"}]}
-{"label":"SKILL|artificial-intelligence","pattern":[{"LOWER":"ai"}]}
-{"label":"SKILL|artificial-intelligence","pattern":[{"LOWER":"artificial"},{"LOWER":"intelligence"}]}
-{"label":"SKILL|artificial-neural-network","pattern":[{"LOWER":"artificial"},{"LOWER":"neural"},{"LOWER":"network"}]}
+{"label":"Industry Knowledge","pattern":[{"LOWER":"ai"}]}
+{"label":"Industry Knowledge","pattern":[{"LOWER":"artificial"},{"LOWER":"intelligence"}]}
+{"label":"Industry Knowledge","pattern":[{"LOWER":"artificial"},{"LOWER":"neural"},{"LOWER":"network"}]}
 {"label":"SKILL|asana","pattern":[{"LOWER":"asana"}]}
 {"label":"SKILL|asp.net","pattern":[{"TEXT":"ASP.NET"}]}
 {"label":"SKILL|asp.net","pattern":[{"LOWER":"asp"},{"LOWER":"net"}]}
@@ -153,31 +153,31 @@
 {"label":"SKILL|automotive-engineering","pattern":[{"LOWER":"automotive"},{"LOWER":"engineering"}]}
 {"label":"SKILL|autonomic-computing","pattern":[{"LOWER":"autonomic"},{"LOWER":"computing"}]}
 {"label":"SKILL|ava","pattern":[{"TEXT":"AVA"}]}
-{"label":"SKILL|awesome","pattern":[{"LOWER":"awesome"},{"LOWER":"lists"}]}
-{"label":"SKILL|aws","pattern":[{"LOWER":"amazon"},{"LOWER":"web"},{"LOWER":"services"}]}
-{"label":"SKILL|aws-cloudformation","pattern":[{"LOWER":"aws"},{"LOWER":"cloudformation"}]}
-{"label":"SKILL|aws-codebuild","pattern":[{"LOWER":"aws"},{"LOWER":"codebuild"}]}
-{"label":"SKILL|aws-codecommit","pattern":[{"LOWER":"aws"},{"LOWER":"codecommit"}]}
-{"label":"SKILL|aws-codedeploy","pattern":[{"LOWER":"aws"},{"LOWER":"codedeploy"}]}
-{"label":"SKILL|aws-codepipeline","pattern":[{"LOWER":"aws"},{"LOWER":"codepipeline"}]}
-{"label":"SKILL|aws-direct-connect","pattern":[{"LOWER":"aws"},{"LOWER":"direct"},{"LOWER":"connect"}]}
-{"label":"SKILL|aws-elastic-beanstalk","pattern":[{"LOWER":"aws"},{"LOWER":"elastic"},{"LOWER":"beanstalk"}]}
-{"label":"SKILL|aws-elastic-load-balancing-elb","pattern":[{"LOWER":"aws"},{"LOWER":"elastic"},{"LOWER":"load"},{"LOWER":"balancing"},{"LOWER":"(elb)"}]}
-{"label":"SKILL|aws-fargate","pattern":[{"LOWER":"aws"},{"LOWER":"fargate"}]}
-{"label":"SKILL|aws-iam","pattern":[{"LOWER":"aws"},{"LOWER":"iam"}]}
-{"label":"SKILL|aws-lambda","pattern":[{"LOWER":"aws"},{"LOWER":"lambda"}]}
-{"label":"SKILL|aws-opsworks","pattern":[{"LOWER":"aws"},{"LOWER":"opsworks"}]}
+{"label":"Tools & Technologies","pattern":[{"LOWER":"awesome"},{"LOWER":"lists"}]}
+{"label":"Tools & Technologies","pattern":[{"LOWER":"amazon"},{"LOWER":"web"},{"LOWER":"services"}]}
+{"label":"Tools & Technologies","pattern":[{"LOWER":"aws"},{"LOWER":"cloudformation"}]}
+{"label":"Tools & Technologies","pattern":[{"LOWER":"aws"},{"LOWER":"codebuild"}]}
+{"label":"Tools & Technologies","pattern":[{"LOWER":"aws"},{"LOWER":"codecommit"}]}
+{"label":"Tools & Technologies","pattern":[{"LOWER":"aws"},{"LOWER":"codedeploy"}]}
+{"label":"Tools & Technologies","pattern":[{"LOWER":"aws"},{"LOWER":"codepipeline"}]}
+{"label":"Tools & Technologies","pattern":[{"LOWER":"aws"},{"LOWER":"direct"},{"LOWER":"connect"}]}
+{"label":"Tools & Technologies","pattern":[{"LOWER":"aws"},{"LOWER":"elastic"},{"LOWER":"beanstalk"}]}
+{"label":"Tools & Technologies","pattern":[{"LOWER":"aws"},{"LOWER":"elastic"},{"LOWER":"load"},{"LOWER":"balancing"},{"LOWER":"(elb)"}]}
+{"label":"Tools & Technologies","pattern":[{"LOWER":"aws"},{"LOWER":"fargate"}]}
+{"label":"Tools & Technologies","pattern":[{"LOWER":"aws"},{"LOWER":"iam"}]}
+{"label":"Tools & Technologies","pattern":[{"LOWER":"aws"},{"LOWER":"lambda"}]}
+{"label":"Tools & Technologies","pattern":[{"LOWER":"aws"},{"LOWER":"opsworks"}]}
 {"label":"SKILL|awx","pattern":[{"TEXT":"AWX"}]}
-{"label":"SKILL|azure","pattern":[{"LOWER":"azure"}]}
-{"label":"SKILL|azure-cosmos-db","pattern":[{"LOWER":"azure"},{"LOWER":"cosmos"},{"LOWER":"db"}]}
-{"label":"SKILL|azure-functions","pattern":[{"LOWER":"azure"},{"LOWER":"functions"}]}
-{"label":"SKILL|azure-machine-learning","pattern":[{"LOWER":"azure"},{"LOWER":"machine"},{"LOWER":"learning"}]}
-{"label":"SKILL|azure-storage","pattern":[{"LOWER":"azure"},{"LOWER":"storage"}]}
-{"label":"SKILL|azure-websites","pattern":[{"LOWER":"azure"},{"LOWER":"websites"}]}
+{"label":"Tools & Technologies","pattern":[{"LOWER":"azure"}]}
+{"label":"Tools & Technologies","pattern":[{"LOWER":"azure"},{"LOWER":"cosmos"},{"LOWER":"db"}]}
+{"label":"Tools & Technologies","pattern":[{"LOWER":"azure"},{"LOWER":"functions"}]}
+{"label":"Tools & Technologies","pattern":[{"LOWER":"azure"},{"LOWER":"machine"},{"LOWER":"learning"}]}
+{"label":"Tools & Technologies","pattern":[{"LOWER":"azure"},{"LOWER":"storage"}]}
+{"label":"Tools & Technologies","pattern":[{"LOWER":"azure"},{"LOWER":"websites"}]}
 {"label":"SKILL|babel","pattern":[{"LOWER":"babel"}]}
 {"label":"SKILL|back-office","pattern":[{"LOWER":"back"},{"LOWER":"office"}]}
-{"label":"SKILL|backbone.js","pattern":[{"LOWER":"backbone.js"}]}
-{"label":"SKILL|backbone.js","pattern":[{"LOWER":"backbone"},{"LOWER":"js"}]}
+{"label":"Tools & Technologies","pattern":[{"LOWER":"backbone.js"}]}
+{"label":"Tools & Technologies","pattern":[{"LOWER":"backbone"},{"LOWER":"js"}]}
 {"label":"SKILL|background-processing","pattern":[{"LOWER":"background"},{"LOWER":"processing"}]}
 {"label":"SKILL|background-subtraction","pattern":[{"LOWER":"background"},{"LOWER":"subtraction"}]}
 {"label":"SKILL|bag-of-words-model","pattern":[{"LOWER":"bag-of-words"},{"LOWER":"model"}]}
@@ -206,7 +206,7 @@
 {"label":"SKILL|biological-database","pattern":[{"LOWER":"biological"},{"LOWER":"database"}]}
 {"label":"SKILL|biomedical-engineering","pattern":[{"LOWER":"biomedical"},{"LOWER":"engineering"}]}
 {"label":"SKILL|biometrics","pattern":[{"LOWER":"biometrics"}]}
-{"label":"SKILL|bitbucket","pattern":[{"LOWER":"bitbucket"}]}
+{"label":"Tools & Technologies","pattern":[{"LOWER":"bitbucket"}]}
 {"label":"SKILL|bitcoin","pattern":[{"LOWER":"bitcoin"}]}
 {"label":"SKILL|bitrise","pattern":[{"LOWER":"bitrise"}]}
 {"label":"SKILL|blind-signal-separation","pattern":[{"LOWER":"blind"},{"LOWER":"signal"},{"LOWER":"separation"}]}
@@ -216,7 +216,7 @@
 {"label":"SKILL|boolean-expression","pattern":[{"LOWER":"boolean"},{"LOWER":"expression"}]}
 {"label":"SKILL|boosting-machine-learning","pattern":[{"LOWER":"boosting"},{"LOWER":"(machine"},{"LOWER":"learning)"}]}
 {"label":"SKILL|boot2docker","pattern":[{"LOWER":"boot2docker"}]}
-{"label":"SKILL|bootstrap","pattern":[{"LOWER":"bootstrap"}]}
+{"label":"Tools & Technologies","pattern":[{"LOWER":"bootstrap"}]}
 {"label":"SKILL|bootswatch","pattern":[{"LOWER":"bootswatch"}]}
 {"label":"SKILL|bot","pattern":[{"LOWER":"bot"}]}
 {"label":"SKILL|bourbon","pattern":[{"LOWER":"bourbon"}]}
@@ -253,22 +253,22 @@
 {"label":"SKILL|business-process","pattern":[{"LOWER":"business"},{"LOWER":"process"}]}
 {"label":"SKILL|business-tools","pattern":[{"LOWER":"business"},{"LOWER":"tools"}]}
 {"label":"SKILL|business-analysis","pattern":[{"LOWER":"business"},{"LOWER":"analysis"}]}
-{"label":"SKILL|c","pattern":[{"TEXT":"C++"}]}
-{"label":"SKILL|c","pattern":[{"TEXT":"C"}]}
-{"label":"SKILL|c3.js","pattern":[{"LOWER":"c3.js"}]}
-{"label":"SKILL|c3.js","pattern":[{"LOWER":"c3"},{"LOWER":"js"}]}
+{"label":"Tools & Technologies","pattern":[{"TEXT":"C++"}]}
+{"label":"Tools & Technologies","pattern":[{"TEXT":"C"}]}
+{"label":"Tools & Technologies","pattern":[{"LOWER":"c3.js"}]}
+{"label":"Tools & Technologies","pattern":[{"LOWER":"c3"},{"LOWER":"js"}]}
 {"label":"SKILL|caddy","pattern":[{"LOWER":"caddy"}]}
-{"label":"SKILL|cakephp","pattern":[{"LOWER":"cakephp"}]}
+{"label":"Tools & Technologies","pattern":[{"LOWER":"cakephp"}]}
 {"label":"SKILL|canonical-correlation","pattern":[{"LOWER":"canonical"},{"LOWER":"correlation"}]}
 {"label":"SKILL|canonical-model","pattern":[{"LOWER":"canonical"},{"LOWER":"model"}]}
 {"label":"SKILL|capistrano","pattern":[{"LOWER":"capistrano"}]}
 {"label":"SKILL|capybara","pattern":[{"LOWER":"capybara"}]}
 {"label":"SKILL|case-based-reasoning","pattern":[{"LOWER":"case-based"},{"LOWER":"reasoning"}]}
 {"label":"SKILL|case-based-reasoning","pattern":[{"LOWER":"case"},{"LOWER":"based reasoning"}]}
-{"label":"SKILL|cassandra","pattern":[{"LOWER":"cassandra"}]}
+{"label":"Tools & Technologies","pattern":[{"LOWER":"cassandra"}]}
 {"label":"SKILL|cataloging","pattern":[{"LOWER":"cataloging"}]}
-{"label":"SKILL|cdnjs","pattern":[{"LOWER":"cdnjs"}]}
-{"label":"SKILL|celery","pattern":[{"LOWER":"celery"}]}
+{"label":"Tools & Technologies","pattern":[{"LOWER":"cdnjs"}]}
+{"label":"Tools & Technologies","pattern":[{"LOWER":"celery"}]}
 {"label":"SKILL|cellular-network","pattern":[{"LOWER":"cellular"},{"LOWER":"network"}]}
 {"label":"SKILL|centos","pattern":[{"LOWER":"centos"}]}
 {"label":"SKILL|central-processing-unit","pattern":[{"LOWER":"central"},{"LOWER":"processing"},{"LOWER":"unit"}]}
@@ -298,8 +298,8 @@
 {"label":"SKILL|clientserver-model","pattern":[{"LOWER":"client\u2013server"},{"LOWER":"model"}]}
 {"label":"SKILL|clinicalkey","pattern":[{"LOWER":"clinicalkey"}]}
 {"label":"SKILL|clion","pattern":[{"LOWER":"clion"}]}
-{"label":"SKILL|clojure","pattern":[{"LOWER":"clojure"}]}
-{"label":"SKILL|clojurescript","pattern":[{"LOWER":"clojurescript"}]}
+{"label":"Tools & Technologies","pattern":[{"LOWER":"clojure"}]}
+{"label":"Tools & Technologies","pattern":[{"LOWER":"clojurescript"}]}
 {"label":"SKILL|clone-java-method","pattern":[{"LOWER":"clone"},{"LOWER":"(java"},{"LOWER":"method)"}]}
 {"label":"SKILL|cloud-access-management","pattern":[{"LOWER":"cloud"},{"LOWER":"access"},{"LOWER":"management"}]}
 {"label":"SKILL|cloud-content-management-system","pattern":[{"LOWER":"cloud"},{"LOWER":"content"},{"LOWER":"management"},{"LOWER":"system"}]}
@@ -431,8 +431,8 @@
 {"label":"SKILL|correctness","pattern":[{"LOWER":"correctness"}]}
 {"label":"SKILL|correlation-coefficient","pattern":[{"LOWER":"correlation"},{"LOWER":"coefficient"}]}
 {"label":"SKILL|cost-database","pattern":[{"LOWER":"cost"},{"LOWER":"database"}]}
-{"label":"SKILL|couchbase","pattern":[{"LOWER":"couchbase"}]}
-{"label":"SKILL|couchdb","pattern":[{"LOWER":"couchdb"}]}
+{"label":"Tools & Technologies","pattern":[{"LOWER":"couchbase"}]}
+{"label":"Tools & Technologies","pattern":[{"LOWER":"couchdb"}]}
 {"label":"SKILL|coveralls","pattern":[{"LOWER":"coveralls"}]}
 {"label":"SKILL|cpp","pattern":[{"TEXT":"C++"}]}
 {"label":"SKILL|cranfield-experiments","pattern":[{"LOWER":"cranfield"},{"LOWER":"experiments"}]}
@@ -443,7 +443,7 @@
 {"label":"SKILL|critical-mass-software-engineering","pattern":[{"LOWER":"critical"},{"LOWER":"mass"},{"LOWER":"(software"},{"LOWER":"engineering)"}]}
 {"label":"SKILL|critical-path-method","pattern":[{"LOWER":"critical"},{"LOWER":"path"},{"LOWER":"method"}]}
 {"label":"SKILL|critical-section","pattern":[{"LOWER":"critical"},{"LOWER":"section"}]}
-{"label":"SKILL|crm","pattern":[{"TEXT":"CRM"}]}
+{"label":"Tools & Technologies","pattern":[{"TEXT":"CRM"}]}
 {"label":"SKILL|cross-correlation","pattern":[{"LOWER":"cross-correlation"}]}
 {"label":"SKILL|cross-correlation","pattern":[{"LOWER":"cross"},{"LOWER":"correlation"}]}
 {"label":"SKILL|cross-platform-desktop-development","pattern":[{"LOWER":"cross-platform"},{"LOWER":"desktop"},{"LOWER":"development"}]}
@@ -459,12 +459,12 @@
 {"label":"SKILL|cryptographic-protocol","pattern":[{"LOWER":"cryptographic"},{"LOWER":"protocol"}]}
 {"label":"SKILL|cryptography","pattern":[{"LOWER":"cryptography"}]}
 {"label":"SKILL|crystal","pattern":[{"LOWER":"crystal"}]}
-{"label":"SKILL|csharp","pattern":[{"TEXT":"C#"}]}
-{"label":"SKILL|csharp","pattern":[{"LOWER":"c#"}]}
-{"label":"SKILL|css","pattern":[{"TEXT":"CSS"}]}
-{"label":"SKILL|css-pre-processors--extensions","pattern":[{"LOWER":"css"},{"LOWER":"pre-processors"},{"LOWER":"/"},{"LOWER":"extensions"}]}
-{"label":"SKILL|css-pre-processors--extensions","pattern":[{"LOWER":"css pre-processors "},{"LOWER":" extensions"}]}
-{"label":"SKILL|css-pre-processors--extensions","pattern":[{"LOWER":"css pre"},{"LOWER":"processors / extensions"}]}
+{"label":"Tools & Technologies","pattern":[{"TEXT":"C#"}]}
+{"label":"Tools & Technologies","pattern":[{"LOWER":"c#"}]}
+{"label":"Tools & Technologies","pattern":[{"TEXT":"CSS"}]}
+{"label":"Tools & Technologies","pattern":[{"LOWER":"css"},{"LOWER":"pre-processors"},{"LOWER":"/"},{"LOWER":"extensions"}]}
+{"label":"Tools & Technologies","pattern":[{"LOWER":"css pre-processors "},{"LOWER":" extensions"}]}
+{"label":"Tools & Technologies","pattern":[{"LOWER":"css pre"},{"LOWER":"processors / extensions"}]}
 {"label":"SKILL|cucumber","pattern":[{"LOWER":"cucumber"}]}
 {"label":"SKILL|curse-of-dimensionality","pattern":[{"LOWER":"curse"},{"LOWER":"of"},{"LOWER":"dimensionality"}]}
 {"label":"SKILL|curve-fitting","pattern":[{"LOWER":"curve"},{"LOWER":"fitting"}]}
@@ -473,9 +473,9 @@
 {"label":"SKILL|customer-relationship-management","pattern":[{"LOWER":"customer"},{"LOWER":"relationship"},{"LOWER":"management"}]}
 {"label":"SKILL|customer-support-chat","pattern":[{"LOWER":"customer"},{"LOWER":"support"},{"LOWER":"chat"}]}
 {"label":"SKILL|cypress","pattern":[{"LOWER":"cypress"}]}
-{"label":"SKILL|d3.js","pattern":[{"LOWER":"d3.js"}]}
-{"label":"SKILL|d3.js","pattern":[{"LOWER":"d3"},{"LOWER":"js"}]}
-{"label":"SKILL|dart","pattern":[{"LOWER":"dart"}]}
+{"label":"Tools & Technologies","pattern":[{"LOWER":"d3.js"}]}
+{"label":"Tools & Technologies","pattern":[{"LOWER":"d3"},{"LOWER":"js"}]}
+{"label":"Tools & Technologies","pattern":[{"LOWER":"dart"}]}
 {"label":"SKILL|dash","pattern":[{"LOWER":"dash"}]}
 {"label":"SKILL|data-access","pattern":[{"LOWER":"data"},{"LOWER":"access"}]}
 {"label":"SKILL|data-acquisition","pattern":[{"LOWER":"data"},{"LOWER":"acquisition"}]}
@@ -591,12 +591,12 @@
 {"label":"SKILL|django-rest-framework","pattern":[{"LOWER":"django"},{"LOWER":"rest"},{"LOWER":"framework"}]}
 {"label":"SKILL|dns-management","pattern":[{"LOWER":"dns"},{"LOWER":"management"}]}
 {"label":"SKILL|dnsimple","pattern":[{"LOWER":"dnsimple"}]}
-{"label":"SKILL|docker","pattern":[{"LOWER":"docker"}]}
-{"label":"SKILL|docker-cloud","pattern":[{"LOWER":"docker"},{"LOWER":"cloud"}]}
-{"label":"SKILL|docker-compose","pattern":[{"LOWER":"docker"},{"LOWER":"compose"}]}
-{"label":"SKILL|docker-for-aws","pattern":[{"LOWER":"docker"},{"LOWER":"for"},{"LOWER":"aws"}]}
-{"label":"SKILL|docker-machine","pattern":[{"LOWER":"docker"},{"LOWER":"machine"}]}
-{"label":"SKILL|docker-swarm","pattern":[{"LOWER":"docker"},{"LOWER":"swarm"}]}
+{"label":"Tools & Technologies","pattern":[{"LOWER":"docker"}]}
+{"label":"Tools & Technologies","pattern":[{"LOWER":"docker"},{"LOWER":"cloud"}]}
+{"label":"Tools & Technologies","pattern":[{"LOWER":"docker"},{"LOWER":"compose"}]}
+{"label":"Tools & Technologies","pattern":[{"LOWER":"docker"},{"LOWER":"for"},{"LOWER":"aws"}]}
+{"label":"Tools & Technologies","pattern":[{"LOWER":"docker"},{"LOWER":"machine"}]}
+{"label":"Tools & Technologies","pattern":[{"LOWER":"docker"},{"LOWER":"swarm"}]}
 {"label":"SKILL|doctrine-2","pattern":[{"LOWER":"doctrine"},{"LOWER":"2"}]}
 {"label":"SKILL|document-classification","pattern":[{"LOWER":"document"},{"LOWER":"classification"}]}
 {"label":"SKILL|document-collaboration","pattern":[{"LOWER":"document"},{"LOWER":"collaboration"}]}
@@ -611,11 +611,11 @@
 {"label":"SKILL|domain-knowledge","pattern":[{"LOWER":"domain"},{"LOWER":"knowledge"}]}
 {"label":"SKILL|domain-model","pattern":[{"LOWER":"domain"},{"LOWER":"model"}]}
 {"label":"SKILL|domain-registration","pattern":[{"LOWER":"domain"},{"LOWER":"registration"}]}
-{"label":"SKILL|dotnet","pattern":[{"TEXT":".NET"}]}
-{"label":"SKILL|dotnet","pattern":[{"LOWER":""},{"LOWER":"net"}]}
+{"label":"Tools & Technologies","pattern":[{"TEXT":".NET"}]}
+{"label":"Tools & Technologies","pattern":[{"LOWER":""},{"LOWER":"net"}]}
 {"label":"SKILL|drone.io","pattern":[{"LOWER":"drone.io"}]}
 {"label":"SKILL|drone.io","pattern":[{"LOWER":"drone"},{"LOWER":"io"}]}
-{"label":"SKILL|dropbox","pattern":[{"LOWER":"dropbox"}]}
+{"label":"Tools & Technologies","pattern":[{"LOWER":"dropbox"}]}
 {"label":"SKILL|dropwizard","pattern":[{"LOWER":"dropwizard"}]}
 {"label":"SKILL|druid","pattern":[{"LOWER":"druid"}]}
 {"label":"SKILL|drupal","pattern":[{"LOWER":"drupal"}]}
@@ -635,15 +635,15 @@
 {"label":"SKILL|econometric-model","pattern":[{"LOWER":"econometric"},{"LOWER":"model"}]}
 {"label":"SKILL|economic-policy","pattern":[{"LOWER":"economic"},{"LOWER":"policy"}]}
 {"label":"SKILL|edit-distance","pattern":[{"LOWER":"edit"},{"LOWER":"distance"}]}
-{"label":"SKILL|elasticsearch","pattern":[{"LOWER":"elasticsearch"}]}
-{"label":"SKILL|elasticsearch","pattern":[{"LOWER":"elastic"},{"LOWER":"search"}]}
+{"label":"Tools & Technologies","pattern":[{"LOWER":"elasticsearch"}]}
+{"label":"Tools & Technologies","pattern":[{"LOWER":"elastic"},{"LOWER":"search"}]}
 {"label":"SKILL|electrical-engineering","pattern":[{"LOWER":"electrical"},{"LOWER":"engineering"}]}
 {"label":"SKILL|electroencephalography","pattern":[{"LOWER":"electroencephalography"}]}
 {"label":"SKILL|electron","pattern":[{"LOWER":"electron"}]}
 {"label":"SKILL|electronic-data-interchange","pattern":[{"LOWER":"electronic"},{"LOWER":"data"},{"LOWER":"interchange"}]}
 {"label":"SKILL|electronic-document","pattern":[{"LOWER":"electronic"},{"LOWER":"document"}]}
 {"label":"SKILL|electronic-engineering","pattern":[{"LOWER":"electronic"},{"LOWER":"engineering"}]}
-{"label":"SKILL|elixir","pattern":[{"LOWER":"elixir"}]}
+{"label":"Tools & Technologies","pattern":[{"LOWER":"elixir"}]}
 {"label":"SKILL|elm","pattern":[{"LOWER":"elm"}]}
 {"label":"SKILL|emacs","pattern":[{"LOWER":"emacs"}]}
 {"label":"SKILL|email-marketing","pattern":[{"LOWER":"email"},{"LOWER":"marketing"}]}
@@ -670,12 +670,12 @@
 {"label":"SKILL|environmental-engineering","pattern":[{"LOWER":"environmental"},{"LOWER":"engineering"}]}
 {"label":"SKILL|enzyme","pattern":[{"LOWER":"enzyme"}]}
 {"label":"SKILL|erasure-code","pattern":[{"LOWER":"erasure"},{"LOWER":"code"}]}
-{"label":"SKILL|erlang","pattern":[{"LOWER":"erlang"}]}
+{"label":"Tools & Technologies","pattern":[{"LOWER":"erlang"}]}
 {"label":"SKILL|error-concealment","pattern":[{"LOWER":"error"},{"LOWER":"concealment"}]}
 {"label":"SKILL|error-detection-and-correction","pattern":[{"LOWER":"error"},{"LOWER":"detection"},{"LOWER":"and"},{"LOWER":"correction"}]}
 {"label":"SKILL|errors-in-variables-models","pattern":[{"LOWER":"errors-in-variables"},{"LOWER":"models"}]}
 {"label":"SKILL|errors-in-variables-models","pattern":[{"LOWER":"errors"},{"LOWER":"in"},{"LOWER":"variables models"}]}
-{"label":"SKILL|es6","pattern":[{"TEXT":"ES6"}]}
+{"label":"Tools & Technologies","pattern":[{"TEXT":"ES6"}]}
 {"label":"SKILL|eslint","pattern":[{"LOWER":"eslint"}]}
 {"label":"SKILL|espace","pattern":[{"TEXT":"ESPACE"}]}
 {"label":"SKILL|etcd","pattern":[{"LOWER":"etcd"}]}
@@ -808,17 +808,17 @@
 {"label":"SKILL|geotechnical-engineering","pattern":[{"LOWER":"geotechnical"},{"LOWER":"engineering"}]}
 {"label":"SKILL|gerrit-code-review","pattern":[{"LOWER":"gerrit"},{"LOWER":"code"},{"LOWER":"review"}]}
 {"label":"SKILL|gist","pattern":[{"LOWER":"gist"}]}
-{"label":"SKILL|git","pattern":[{"LOWER":"git"}]}
-{"label":"SKILL|git-tools","pattern":[{"LOWER":"git"},{"LOWER":"tools"}]}
-{"label":"SKILL|gitbucket","pattern":[{"LOWER":"gitbucket"}]}
-{"label":"SKILL|github","pattern":[{"LOWER":"github"}]}
-{"label":"SKILL|github-api","pattern":[{"LOWER":"github"},{"LOWER":"api"}]}
-{"label":"SKILL|github-enterprise","pattern":[{"LOWER":"github"},{"LOWER":"enterprise"}]}
-{"label":"SKILL|github-pages","pattern":[{"LOWER":"github"},{"LOWER":"pages"}]}
-{"label":"SKILL|gitkraken","pattern":[{"LOWER":"gitkraken"}]}
-{"label":"SKILL|gitlab","pattern":[{"LOWER":"gitlab"}]}
+{"label":"Tools & Technologies","pattern":[{"LOWER":"git"}]}
+{"label":"Tools & Technologies","pattern":[{"LOWER":"git"},{"LOWER":"tools"}]}
+{"label":"Tools & Technologies","pattern":[{"LOWER":"gitbucket"}]}
+{"label":"Tools & Technologies","pattern":[{"LOWER":"github"}]}
+{"label":"Tools & Technologies","pattern":[{"LOWER":"github"},{"LOWER":"api"}]}
+{"label":"Tools & Technologies","pattern":[{"LOWER":"github"},{"LOWER":"enterprise"}]}
+{"label":"Tools & Technologies","pattern":[{"LOWER":"github"},{"LOWER":"pages"}]}
+{"label":"Tools & Technologies","pattern":[{"LOWER":"gitkraken"}]}
+{"label":"Tools & Technologies","pattern":[{"LOWER":"gitlab"}]}
 {"label":"SKILL|gitlab-ci","pattern":[{"LOWER":"gitlab"},{"LOWER":"ci"}]}
-{"label":"SKILL|gitlab-pages","pattern":[{"LOWER":"gitlab"},{"LOWER":"pages"}]}
+{"label":"Tools & Technologies","pattern":[{"LOWER":"gitlab"},{"LOWER":"pages"}]}
 {"label":"SKILL|gluon","pattern":[{"LOWER":"gluon"}]}
 {"label":"SKILL|gnu-bash","pattern":[{"LOWER":"gnu"},{"LOWER":"bash"}]}
 {"label":"SKILL|go.cd","pattern":[{"LOWER":"go.cd"}]}
@@ -827,29 +827,29 @@
 {"label":"SKILL|gogs","pattern":[{"LOWER":"gogs"}]}
 {"label":"SKILL|goodness-of-fit","pattern":[{"LOWER":"goodness"},{"LOWER":"of"},{"LOWER":"fit"}]}
 {"label":"SKILL|google","pattern":[{"LOWER":"google"}]}
-{"label":"SKILL|google-analytics","pattern":[{"LOWER":"google"},{"LOWER":"analytics"}]}
-{"label":"SKILL|google-app-engine","pattern":[{"LOWER":"google"},{"LOWER":"app"},{"LOWER":"engine"}]}
-{"label":"SKILL|google-app-maker","pattern":[{"LOWER":"google"},{"LOWER":"app"},{"LOWER":"maker"}]}
-{"label":"SKILL|google-bigquery","pattern":[{"LOWER":"google"},{"LOWER":"bigquery"}]}
-{"label":"SKILL|google-cloud-bigtable","pattern":[{"LOWER":"google"},{"LOWER":"cloud"},{"LOWER":"bigtable"}]}
-{"label":"SKILL|google-cloud-container-builder","pattern":[{"LOWER":"google"},{"LOWER":"cloud"},{"LOWER":"container"},{"LOWER":"builder"}]}
-{"label":"SKILL|google-cloud-dataflow","pattern":[{"LOWER":"google"},{"LOWER":"cloud"},{"LOWER":"dataflow"}]}
-{"label":"SKILL|google-cloud-datastore","pattern":[{"LOWER":"google"},{"LOWER":"cloud"},{"LOWER":"datastore"}]}
-{"label":"SKILL|google-cloud-dns","pattern":[{"LOWER":"google"},{"LOWER":"cloud"},{"LOWER":"dns"}]}
-{"label":"SKILL|google-cloud-functions","pattern":[{"LOWER":"google"},{"LOWER":"cloud"},{"LOWER":"functions"}]}
-{"label":"SKILL|google-cloud-memorystore","pattern":[{"LOWER":"google"},{"LOWER":"cloud"},{"LOWER":"memorystore"}]}
-{"label":"SKILL|google-cloud-messaging","pattern":[{"LOWER":"google"},{"LOWER":"cloud"},{"LOWER":"messaging"}]}
-{"label":"SKILL|google-cloud-pubsub","pattern":[{"LOWER":"google"},{"LOWER":"cloud"},{"LOWER":"pub/sub"}]}
-{"label":"SKILL|google-cloud-pubsub","pattern":[{"LOWER":"google cloud pub"},{"LOWER":"sub"}]}
-{"label":"SKILL|google-cloud-sql","pattern":[{"LOWER":"google"},{"LOWER":"cloud"},{"LOWER":"sql"}]}
-{"label":"SKILL|google-cloud-storage","pattern":[{"LOWER":"google"},{"LOWER":"cloud"},{"LOWER":"storage"}]}
-{"label":"SKILL|google-cloud-vision-api","pattern":[{"LOWER":"google"},{"LOWER":"cloud"},{"LOWER":"vision"},{"LOWER":"api"}]}
-{"label":"SKILL|google-compute-engine","pattern":[{"LOWER":"google"},{"LOWER":"compute"},{"LOWER":"engine"}]}
-{"label":"SKILL|google-drive","pattern":[{"LOWER":"google"},{"LOWER":"drive"}]}
-{"label":"SKILL|google-kubernetes-engine","pattern":[{"LOWER":"google"},{"LOWER":"kubernetes"},{"LOWER":"engine"}]}
-{"label":"SKILL|google-maps","pattern":[{"LOWER":"google"},{"LOWER":"maps"}]}
-{"label":"SKILL|google-scholar-and-academic-libraries","pattern":[{"LOWER":"google"},{"LOWER":"scholar"},{"LOWER":"and"},{"LOWER":"academic"},{"LOWER":"libraries"}]}
-{"label":"SKILL|google-sheets","pattern":[{"LOWER":"google"},{"LOWER":"sheets"}]}
+{"label":"Tools & Technologies","pattern":[{"LOWER":"google"},{"LOWER":"analytics"}]}
+{"label":"Tools & Technologies","pattern":[{"LOWER":"google"},{"LOWER":"app"},{"LOWER":"engine"}]}
+{"label":"Tools & Technologies","pattern":[{"LOWER":"google"},{"LOWER":"app"},{"LOWER":"maker"}]}
+{"label":"Tools & Technologies","pattern":[{"LOWER":"google"},{"LOWER":"bigquery"}]}
+{"label":"Tools & Technologies","pattern":[{"LOWER":"google"},{"LOWER":"cloud"},{"LOWER":"bigtable"}]}
+{"label":"Tools & Technologies","pattern":[{"LOWER":"google"},{"LOWER":"cloud"},{"LOWER":"container"},{"LOWER":"builder"}]}
+{"label":"Tools & Technologies","pattern":[{"LOWER":"google"},{"LOWER":"cloud"},{"LOWER":"dataflow"}]}
+{"label":"Tools & Technologies","pattern":[{"LOWER":"google"},{"LOWER":"cloud"},{"LOWER":"datastore"}]}
+{"label":"Tools & Technologies","pattern":[{"LOWER":"google"},{"LOWER":"cloud"},{"LOWER":"dns"}]}
+{"label":"Tools & Technologies","pattern":[{"LOWER":"google"},{"LOWER":"cloud"},{"LOWER":"functions"}]}
+{"label":"Tools & Technologies","pattern":[{"LOWER":"google"},{"LOWER":"cloud"},{"LOWER":"memorystore"}]}
+{"label":"Tools & Technologies","pattern":[{"LOWER":"google"},{"LOWER":"cloud"},{"LOWER":"messaging"}]}
+{"label":"Tools & Technologies","pattern":[{"LOWER":"google"},{"LOWER":"cloud"},{"LOWER":"pub/sub"}]}
+{"label":"Tools & Technologies","pattern":[{"LOWER":"google cloud pub"},{"LOWER":"sub"}]}
+{"label":"Tools & Technologies","pattern":[{"LOWER":"google"},{"LOWER":"cloud"},{"LOWER":"sql"}]}
+{"label":"Tools & Technologies","pattern":[{"LOWER":"google"},{"LOWER":"cloud"},{"LOWER":"storage"}]}
+{"label":"Tools & Technologies","pattern":[{"LOWER":"google"},{"LOWER":"cloud"},{"LOWER":"vision"},{"LOWER":"api"}]}
+{"label":"Tools & Technologies","pattern":[{"LOWER":"google"},{"LOWER":"compute"},{"LOWER":"engine"}]}
+{"label":"Tools & Technologies","pattern":[{"LOWER":"google"},{"LOWER":"drive"}]}
+{"label":"Tools & Technologies","pattern":[{"LOWER":"google"},{"LOWER":"kubernetes"},{"LOWER":"engine"}]}
+{"label":"Tools & Technologies","pattern":[{"LOWER":"google"},{"LOWER":"maps"}]}
+{"label":"Tools & Technologies","pattern":[{"LOWER":"google"},{"LOWER":"scholar"},{"LOWER":"and"},{"LOWER":"academic"},{"LOWER":"libraries"}]}
+{"label":"Tools & Technologies","pattern":[{"LOWER":"google"},{"LOWER":"sheets"}]}
 {"label":"SKILL|google-tag-manager","pattern":[{"LOWER":"google"},{"LOWER":"tag"},{"LOWER":"manager"}]}
 {"label":"SKILL|gradient-descent","pattern":[{"LOWER":"gradient"},{"LOWER":"descent"}]}
 {"label":"SKILL|gradle","pattern":[{"LOWER":"gradle"}]}
@@ -861,7 +861,7 @@
 {"label":"SKILL|graphical-model","pattern":[{"LOWER":"graphical"},{"LOWER":"model"}]}
 {"label":"SKILL|graphical-user-interface","pattern":[{"LOWER":"graphical"},{"LOWER":"user"},{"LOWER":"interface"}]}
 {"label":"SKILL|graphite","pattern":[{"LOWER":"graphite"}]}
-{"label":"SKILL|graphql","pattern":[{"LOWER":"graphql"}]}
+{"label":"Tools & Technologies","pattern":[{"LOWER":"graphql"}]}
 {"label":"SKILL|greedy-algorithm","pattern":[{"LOWER":"greedy"},{"LOWER":"algorithm"}]}
 {"label":"SKILL|groovy","pattern":[{"LOWER":"groovy"}]}
 {"label":"SKILL|ground-truth","pattern":[{"LOWER":"ground"},{"LOWER":"truth"}]}
@@ -875,16 +875,16 @@
 {"label":"SKILL|gulp","pattern":[{"LOWER":"gulp"}]}
 {"label":"SKILL|gunicorn","pattern":[{"LOWER":"gunicorn"}]}
 {"label":"SKILL|guzzle","pattern":[{"LOWER":"guzzle"}]}
-{"label":"SKILL|hadoop","pattern":[{"LOWER":"hadoop"}]}
+{"label":"Tools & Technologies","pattern":[{"LOWER":"hadoop"}]}
 {"label":"SKILL|haml","pattern":[{"TEXT":"HAML"}]}
-{"label":"SKILL|handlebars.js","pattern":[{"LOWER":"handlebars.js"}]}
-{"label":"SKILL|handlebars.js","pattern":[{"LOWER":"handlebars"},{"LOWER":"js"}]}
+{"label":"Tools & Technologies","pattern":[{"LOWER":"handlebars.js"}]}
+{"label":"Tools & Technologies","pattern":[{"LOWER":"handlebars"},{"LOWER":"js"}]}
 {"label":"SKILL|handover","pattern":[{"LOWER":"handover"}]}
 {"label":"SKILL|hapi","pattern":[{"LOWER":"hapi"}]}
 {"label":"SKILL|haproxy","pattern":[{"LOWER":"haproxy"}]}
 {"label":"SKILL|haptic-technology","pattern":[{"LOWER":"haptic"},{"LOWER":"technology"}]}
 {"label":"SKILL|hash-function","pattern":[{"LOWER":"hash"},{"LOWER":"function"}]}
-{"label":"SKILL|haskell","pattern":[{"LOWER":"haskell"}]}
+{"label":"Tools & Technologies","pattern":[{"LOWER":"haskell"}]}
 {"label":"SKILL|hasura","pattern":[{"LOWER":"hasura"}]}
 {"label":"SKILL|hazelcast","pattern":[{"LOWER":"hazelcast"}]}
 {"label":"SKILL|hbase","pattern":[{"LOWER":"hbase"}]}
@@ -894,10 +894,10 @@
 {"label":"SKILL|heatmap-analytics","pattern":[{"LOWER":"heatmap"},{"LOWER":"analytics"}]}
 {"label":"SKILL|helm","pattern":[{"LOWER":"helm"}]}
 {"label":"SKILL|help-desk","pattern":[{"LOWER":"help"},{"LOWER":"desk"}]}
-{"label":"SKILL|heroku","pattern":[{"LOWER":"heroku"}]}
-{"label":"SKILL|heroku-ci","pattern":[{"LOWER":"heroku"},{"LOWER":"ci"}]}
-{"label":"SKILL|heroku-postgres","pattern":[{"LOWER":"heroku"},{"LOWER":"postgres"}]}
-{"label":"SKILL|heroku-redis","pattern":[{"LOWER":"heroku"},{"LOWER":"redis"}]}
+{"label":"Tools & Technologies","pattern":[{"LOWER":"heroku"}]}
+{"label":"Tools & Technologies","pattern":[{"LOWER":"heroku"},{"LOWER":"ci"}]}
+{"label":"Tools & Technologies","pattern":[{"LOWER":"heroku"},{"LOWER":"postgres"}]}
+{"label":"Tools & Technologies","pattern":[{"LOWER":"heroku"},{"LOWER":"redis"}]}
 {"label":"SKILL|hetzner-online-ag","pattern":[{"LOWER":"hetzner"},{"LOWER":"online"},{"LOWER":"ag"}]}
 {"label":"SKILL|hexo","pattern":[{"LOWER":"hexo"}]}
 {"label":"SKILL|hhvm-hiphop-virtual-machine","pattern":[{"LOWER":"hhvm"},{"LOWER":"(hiphop"},{"LOWER":"virtual"},{"LOWER":"machine)"}]}
@@ -916,16 +916,16 @@
 {"label":"SKILL|hipchat","pattern":[{"LOWER":"hipchat"}]}
 {"label":"SKILL|histogram","pattern":[{"LOWER":"histogram"}]}
 {"label":"SKILL|hockeyapp","pattern":[{"LOWER":"hockeyapp"}]}
-{"label":"SKILL|hogan.js","pattern":[{"LOWER":"hogan.js"}]}
-{"label":"SKILL|hogan.js","pattern":[{"LOWER":"hogan"},{"LOWER":"js"}]}
+{"label":"Tools & Technologies","pattern":[{"LOWER":"hogan.js"}]}
+{"label":"Tools & Technologies","pattern":[{"LOWER":"hogan"},{"LOWER":"js"}]}
 {"label":"SKILL|homebrew","pattern":[{"LOWER":"homebrew"}]}
 {"label":"SKILL|homebridge","pattern":[{"LOWER":"homebridge"}]}
 {"label":"SKILL|homogeneity-statistics","pattern":[{"LOWER":"homogeneity"},{"LOWER":"(statistics)"}]}
 {"label":"SKILL|hosted-blogging-platforms","pattern":[{"LOWER":"hosted"},{"LOWER":"blogging"},{"LOWER":"platforms"}]}
 {"label":"SKILL|hotjar","pattern":[{"LOWER":"hotjar"}]}
 {"label":"SKILL|hough-transform","pattern":[{"LOWER":"hough"},{"LOWER":"transform"}]}
-{"label":"SKILL|html","pattern":[{"TEXT":"HTML"}]}
-{"label":"SKILL|html5","pattern":[{"TEXT":"HTML5"}]}
+{"label":"Tools & Technologies","pattern":[{"TEXT":"HTML"}]}
+{"label":"Tools & Technologies","pattern":[{"TEXT":"HTML5"}]}
 {"label":"SKILL|http","pattern":[{"TEXT":"HTTP"}]}
 {"label":"SKILL|hubspot","pattern":[{"LOWER":"hubspot"}]}
 {"label":"SKILL|hugo","pattern":[{"LOWER":"hugo"}]}
@@ -936,9 +936,9 @@
 {"label":"SKILL|hybrid-system","pattern":[{"LOWER":"hybrid"},{"LOWER":"system"}]}
 {"label":"SKILL|hypercube","pattern":[{"LOWER":"hypercube"}]}
 {"label":"SKILL|hyperspectral-imaging","pattern":[{"LOWER":"hyperspectral"},{"LOWER":"imaging"}]}
-{"label":"SKILL|ibm---api-connect","pattern":[{"LOWER":"ibm"},{"LOWER":"-"},{"LOWER":"api"},{"LOWER":"connect"}]}
-{"label":"SKILL|ibm---api-connect","pattern":[{"LOWER":"ibm "},{"LOWER":" api connect"}]}
-{"label":"SKILL|ibm-db2","pattern":[{"LOWER":"ibm"},{"LOWER":"db2"}]}
+{"label":"Tools & Technologies","pattern":[{"LOWER":"ibm"},{"LOWER":"-"},{"LOWER":"api"},{"LOWER":"connect"}]}
+{"label":"Tools & Technologies","pattern":[{"LOWER":"ibm "},{"LOWER":" api connect"}]}
+{"label":"Tools & Technologies","pattern":[{"LOWER":"ibm"},{"LOWER":"db2"}]}
 {"label":"SKILL|icon-font","pattern":[{"LOWER":"icon"},{"LOWER":"font"}]}
 {"label":"SKILL|iframely","pattern":[{"LOWER":"iframely"}]}
 {"label":"SKILL|ifttt","pattern":[{"TEXT":"IFTTT"}]}
@@ -954,9 +954,9 @@
 {"label":"SKILL|image-segmentation","pattern":[{"LOWER":"image"},{"LOWER":"segmentation"}]}
 {"label":"SKILL|image-sensor","pattern":[{"LOWER":"image"},{"LOWER":"sensor"}]}
 {"label":"SKILL|imgix","pattern":[{"LOWER":"imgix"}]}
-{"label":"SKILL|immutable.js","pattern":[{"LOWER":"immutable.js"}]}
-{"label":"SKILL|immutable.js","pattern":[{"LOWER":"immutable"},{"LOWER":"js"}]}
-{"label":"SKILL|impala","pattern":[{"LOWER":"impala"}]}
+{"label":"Tools & Technologies","pattern":[{"LOWER":"immutable.js"}]}
+{"label":"Tools & Technologies","pattern":[{"LOWER":"immutable"},{"LOWER":"js"}]}
+{"label":"Tools & Technologies","pattern":[{"LOWER":"impala"}]}
 {"label":"SKILL|in-memory-databases","pattern":[{"LOWER":"in-memory"},{"LOWER":"databases"}]}
 {"label":"SKILL|in-memory-databases","pattern":[{"LOWER":"in"},{"LOWER":"memory databases"}]}
 {"label":"SKILL|incapsula","pattern":[{"LOWER":"incapsula"}]}
@@ -968,7 +968,7 @@
 {"label":"SKILL|industrial-engineering","pattern":[{"LOWER":"industrial"},{"LOWER":"engineering"}]}
 {"label":"SKILL|industrial-organization","pattern":[{"LOWER":"industrial"},{"LOWER":"organization"}]}
 {"label":"SKILL|inference","pattern":[{"LOWER":"inference"}]}
-{"label":"SKILL|influxdb","pattern":[{"LOWER":"influxdb"}]}
+{"label":"Tools & Technologies","pattern":[{"LOWER":"influxdb"}]}
 {"label":"SKILL|infobox","pattern":[{"LOWER":"infobox"}]}
 {"label":"SKILL|information-discovery","pattern":[{"LOWER":"information"},{"LOWER":"discovery"}]}
 {"label":"SKILL|information-extraction","pattern":[{"LOWER":"information"},{"LOWER":"extraction"}]}
@@ -997,7 +997,7 @@
 {"label":"SKILL|intelligent-agent","pattern":[{"LOWER":"intelligent"},{"LOWER":"agent"}]}
 {"label":"SKILL|intelligent-document","pattern":[{"LOWER":"intelligent"},{"LOWER":"document"}]}
 {"label":"SKILL|intelligent-network","pattern":[{"LOWER":"intelligent"},{"LOWER":"network"}]}
-{"label":"SKILL|intellij-idea","pattern":[{"LOWER":"intellij"},{"LOWER":"idea"}]}
+{"label":"Tools & Technologies","pattern":[{"LOWER":"intellij"},{"LOWER":"idea"}]}
 {"label":"SKILL|inter-process-communication","pattern":[{"LOWER":"inter-process"},{"LOWER":"communication"}]}
 {"label":"SKILL|inter-process-communication","pattern":[{"LOWER":"inter"},{"LOWER":"process communication"}]}
 {"label":"SKILL|interaction","pattern":[{"LOWER":"interaction"}]}
@@ -1019,42 +1019,42 @@
 {"label":"SKILL|ipfs","pattern":[{"TEXT":"IPFS"}]}
 {"label":"SKILL|ir-evaluation","pattern":[{"LOWER":"ir"},{"LOWER":"evaluation"}]}
 {"label":"SKILL|issue-tracking","pattern":[{"LOWER":"issue"},{"LOWER":"tracking"}]}
-{"label":"SKILL|istio","pattern":[{"LOWER":"istio"}]}
+{"label":"Tools & Technologies","pattern":[{"LOWER":"istio"}]}
 {"label":"SKILL|iterative-reconstruction","pattern":[{"LOWER":"iterative"},{"LOWER":"reconstruction"}]}
 {"label":"SKILL|jasmine","pattern":[{"LOWER":"jasmine"}]}
-{"label":"SKILL|java","pattern":[{"LOWER":"java"}]}
-{"label":"SKILL|java-build-tools","pattern":[{"LOWER":"java"},{"LOWER":"build"},{"LOWER":"tools"}]}
-{"label":"SKILL|javascript","pattern":[{"LOWER":"javascript"}]}
-{"label":"SKILL|javascript-framework-components","pattern":[{"LOWER":"javascript"},{"LOWER":"framework"},{"LOWER":"components"}]}
-{"label":"SKILL|javascript-mvc-frameworks","pattern":[{"LOWER":"javascript"},{"LOWER":"mvc"},{"LOWER":"frameworks"}]}
-{"label":"SKILL|javascript-testing-framework","pattern":[{"LOWER":"javascript"},{"LOWER":"testing"},{"LOWER":"framework"}]}
-{"label":"SKILL|javascript-ui-libraries","pattern":[{"LOWER":"javascript"},{"LOWER":"ui"},{"LOWER":"libraries"}]}
-{"label":"SKILL|javascript-utilities--libraries","pattern":[{"LOWER":"javascript"},{"LOWER":"utilities"},{"LOWER":"&"},{"LOWER":"libraries"}]}
-{"label":"SKILL|jekyll","pattern":[{"LOWER":"jekyll"}]}
-{"label":"SKILL|jenkins","pattern":[{"LOWER":"jenkins"}]}
+{"label":"Tools & Technologies","pattern":[{"LOWER":"java"}]}
+{"label":"Tools & Technologies","pattern":[{"LOWER":"java"},{"LOWER":"build"},{"LOWER":"tools"}]}
+{"label":"Tools & Technologies","pattern":[{"LOWER":"javascript"}]}
+{"label":"Tools & Technologies","pattern":[{"LOWER":"javascript"},{"LOWER":"framework"},{"LOWER":"components"}]}
+{"label":"Tools & Technologies","pattern":[{"LOWER":"javascript"},{"LOWER":"mvc"},{"LOWER":"frameworks"}]}
+{"label":"Tools & Technologies","pattern":[{"LOWER":"javascript"},{"LOWER":"testing"},{"LOWER":"framework"}]}
+{"label":"Tools & Technologies","pattern":[{"LOWER":"javascript"},{"LOWER":"ui"},{"LOWER":"libraries"}]}
+{"label":"Tools & Technologies","pattern":[{"LOWER":"javascript"},{"LOWER":"utilities"},{"LOWER":"&"},{"LOWER":"libraries"}]}
+{"label":"Tools & Technologies","pattern":[{"LOWER":"jekyll"}]}
+{"label":"Tools & Technologies","pattern":[{"LOWER":"jenkins"}]}
 {"label":"SKILL|jest","pattern":[{"LOWER":"jest"}]}
 {"label":"SKILL|jetty","pattern":[{"LOWER":"jetty"}]}
-{"label":"SKILL|jira","pattern":[{"TEXT":"JIRA"}]}
+{"label":"Tools & Technologies","pattern":[{"TEXT":"JIRA"}]}
 {"label":"SKILL|jitter","pattern":[{"LOWER":"jitter"}]}
-{"label":"SKILL|jquery","pattern":[{"LOWER":"jquery"}]}
-{"label":"SKILL|jquery-mobile","pattern":[{"LOWER":"jquery"},{"LOWER":"mobile"}]}
-{"label":"SKILL|jquery-ui","pattern":[{"LOWER":"jquery"},{"LOWER":"ui"}]}
-{"label":"SKILL|jruby","pattern":[{"LOWER":"jruby"}]}
-{"label":"SKILL|js-build-tools--js-task-runners","pattern":[{"LOWER":"js"},{"LOWER":"build"},{"LOWER":"tools"},{"LOWER":"/"},{"LOWER":"js"},{"LOWER":"task"},{"LOWER":"runners"}]}
-{"label":"SKILL|js-build-tools--js-task-runners","pattern":[{"LOWER":"js build tools "},{"LOWER":" js task runners"}]}
-{"label":"SKILL|jsdoc","pattern":[{"LOWER":"jsdoc"}]}
-{"label":"SKILL|json","pattern":[{"TEXT":"JSON"}]}
-{"label":"SKILL|json-server","pattern":[{"LOWER":"json"},{"LOWER":"server"}]}
-{"label":"SKILL|julia","pattern":[{"LOWER":"the"},{"LOWER":"julia"},{"LOWER":"language"}]}
-{"label":"SKILL|julia","pattern":[{"LOWER":"julia"}]}
-{"label":"SKILL|junit","pattern":[{"LOWER":"junit"}]}
+{"label":"Tools & Technologies","pattern":[{"LOWER":"jquery"}]}
+{"label":"Tools & Technologies","pattern":[{"LOWER":"jquery"},{"LOWER":"mobile"}]}
+{"label":"Tools & Technologies","pattern":[{"LOWER":"jquery"},{"LOWER":"ui"}]}
+{"label":"Tools & Technologies","pattern":[{"LOWER":"jruby"}]}
+{"label":"Tools & Technologies","pattern":[{"LOWER":"js"},{"LOWER":"build"},{"LOWER":"tools"},{"LOWER":"/"},{"LOWER":"js"},{"LOWER":"task"},{"LOWER":"runners"}]}
+{"label":"Tools & Technologies","pattern":[{"LOWER":"js build tools "},{"LOWER":" js task runners"}]}
+{"label":"Tools & Technologies","pattern":[{"LOWER":"jsdoc"}]}
+{"label":"Tools & Technologies","pattern":[{"TEXT":"JSON"}]}
+{"label":"Tools & Technologies","pattern":[{"LOWER":"json"},{"LOWER":"server"}]}
+{"label":"Tools & Technologies","pattern":[{"LOWER":"the"},{"LOWER":"julia"},{"LOWER":"language"}]}
+{"label":"Tools & Technologies","pattern":[{"LOWER":"julia"}]}
+{"label":"Tools & Technologies","pattern":[{"LOWER":"junit"}]}
 {"label":"SKILL|jupyter","pattern":[{"LOWER":"jupyter"}]}
-{"label":"SKILL|jupyter-notebook","pattern":[{"LOWER":"jupyter"},{"LOWER":"notebook"}]}
+{"label":"Tools & Technologies","pattern":[{"LOWER":"jupyter"},{"LOWER":"notebook"}]}
 {"label":"SKILL|k-d-tree","pattern":[{"LOWER":"k-d"},{"LOWER":"tree"}]}
 {"label":"SKILL|k-d-tree","pattern":[{"LOWER":"k"},{"LOWER":"d tree"}]}
 {"label":"SKILL|k-nearest-neighbors-algorithm","pattern":[{"LOWER":"k-nearest"},{"LOWER":"neighbors"},{"LOWER":"algorithm"}]}
 {"label":"SKILL|k-nearest-neighbors-algorithm","pattern":[{"LOWER":"k"},{"LOWER":"nearest neighbors algorithm"}]}
-{"label":"SKILL|kafka","pattern":[{"LOWER":"kafka"}]}
+{"label":"Tools & Technologies","pattern":[{"LOWER":"kafka"}]}
 {"label":"SKILL|kalman-filter","pattern":[{"LOWER":"kalman"},{"LOWER":"filter"}]}
 {"label":"SKILL|kanban-for-github-issues","pattern":[{"LOWER":"kanban"},{"LOWER":"for"},{"LOWER":"github"},{"LOWER":"issues"}]}
 {"label":"SKILL|kanban-tool","pattern":[{"LOWER":"kanban"},{"LOWER":"tool"}]}
@@ -1067,13 +1067,13 @@
 {"label":"SKILL|key-lock","pattern":[{"LOWER":"key"},{"LOWER":"(lock)"}]}
 {"label":"SKILL|keycdn","pattern":[{"LOWER":"keycdn"}]}
 {"label":"SKILL|keyword-extraction","pattern":[{"LOWER":"keyword"},{"LOWER":"extraction"}]}
-{"label":"SKILL|kibana","pattern":[{"LOWER":"kibana"}]}
+{"label":"Tools & Technologies","pattern":[{"LOWER":"kibana"}]}
 {"label":"SKILL|kissmetrics","pattern":[{"LOWER":"kissmetrics"}]}
 {"label":"SKILL|kitematic","pattern":[{"LOWER":"kitematic"}]}
 {"label":"SKILL|knapsack-problem","pattern":[{"LOWER":"knapsack"},{"LOWER":"problem"}]}
-{"label":"SKILL|knex.js","pattern":[{"LOWER":"knex.js"}]}
-{"label":"SKILL|knex.js","pattern":[{"LOWER":"knex"},{"LOWER":"js"}]}
-{"label":"SKILL|knockoutjs","pattern":[{"LOWER":"knockoutjs"}]}
+{"label":"Tools & Technologies","pattern":[{"LOWER":"knex.js"}]}
+{"label":"Tools & Technologies","pattern":[{"LOWER":"knex"},{"LOWER":"js"}]}
+{"label":"Tools & Technologies","pattern":[{"LOWER":"knockoutjs"}]}
 {"label":"SKILL|knowledge-acquisition","pattern":[{"LOWER":"knowledge"},{"LOWER":"acquisition"}]}
 {"label":"SKILL|knowledge-base","pattern":[{"LOWER":"knowledge"},{"LOWER":"base"}]}
 {"label":"SKILL|knowledge-based-systems","pattern":[{"LOWER":"knowledge-based"},{"LOWER":"systems"}]}
@@ -1087,7 +1087,7 @@
 {"label":"SKILL|koding","pattern":[{"LOWER":"koding"}]}
 {"label":"SKILL|kong","pattern":[{"LOWER":"kong"}]}
 {"label":"SKILL|kotlin","pattern":[{"LOWER":"kotlin"}]}
-{"label":"SKILL|kubernetes","pattern":[{"LOWER":"kubernetes"}]}
+{"label":"Tools & Technologies","pattern":[{"LOWER":"kubernetes"}]}
 {"label":"SKILL|kullbackleibler-divergence","pattern":[{"LOWER":"kullback\u2013leibler"},{"LOWER":"divergence"}]}
 {"label":"SKILL|lambda-calculus","pattern":[{"LOWER":"lambda"},{"LOWER":"calculus"}]}
 {"label":"SKILL|lambdatest","pattern":[{"LOWER":"lambdatest"}]}
@@ -1096,7 +1096,7 @@
 {"label":"SKILL|language-model","pattern":[{"LOWER":"language"},{"LOWER":"model"}]}
 {"label":"SKILL|languages","pattern":[{"LOWER":"languages"}]}
 {"label":"SKILL|languages--frameworks","pattern":[{"LOWER":"languages"},{"LOWER":"&"},{"LOWER":"frameworks"}]}
-{"label":"SKILL|laravel","pattern":[{"LOWER":"laravel"}]}
+{"label":"Tools & Technologies","pattern":[{"LOWER":"laravel"}]}
 {"label":"SKILL|laravel-forge","pattern":[{"LOWER":"laravel"},{"LOWER":"forge"}]}
 {"label":"SKILL|laravel-homestead","pattern":[{"LOWER":"laravel"},{"LOWER":"homestead"}]}
 {"label":"SKILL|lastpass","pattern":[{"LOWER":"lastpass"}]}
@@ -1151,7 +1151,7 @@
 {"label":"SKILL|location-based-service","pattern":[{"LOWER":"location-based"},{"LOWER":"service"}]}
 {"label":"SKILL|location-based-service","pattern":[{"LOWER":"location"},{"LOWER":"based service"}]}
 {"label":"SKILL|locust","pattern":[{"LOWER":"locust"}]}
-{"label":"SKILL|lodash","pattern":[{"LOWER":"lodash"}]}
+{"label":"Tools & Technologies","pattern":[{"LOWER":"lodash"}]}
 {"label":"SKILL|log-management","pattern":[{"LOWER":"log"},{"LOWER":"management"}]}
 {"label":"SKILL|loggly","pattern":[{"LOWER":"loggly"}]}
 {"label":"SKILL|logic-gate","pattern":[{"LOWER":"logic"},{"LOWER":"gate"}]}
@@ -1161,7 +1161,7 @@
 {"label":"SKILL|logical-framework","pattern":[{"LOWER":"logical"},{"LOWER":"framework"}]}
 {"label":"SKILL|logistic-regression","pattern":[{"LOWER":"logistic"},{"LOWER":"regression"}]}
 {"label":"SKILL|logrocket","pattern":[{"LOWER":"logrocket"}]}
-{"label":"SKILL|logstash","pattern":[{"LOWER":"logstash"}]}
+{"label":"Tools & Technologies","pattern":[{"LOWER":"logstash"}]}
 {"label":"SKILL|look-ahead","pattern":[{"LOWER":"look-ahead"}]}
 {"label":"SKILL|look-ahead","pattern":[{"LOWER":"look"},{"LOWER":"ahead"}]}
 {"label":"SKILL|lookup-table","pattern":[{"LOWER":"lookup"},{"LOWER":"table"}]}
@@ -1210,9 +1210,9 @@
 {"label":"SKILL|material-ui","pattern":[{"LOWER":"material"},{"LOWER":"ui"}]}
 {"label":"SKILL|materialize","pattern":[{"LOWER":"materialize"}]}
 {"label":"SKILL|mathematical-logic","pattern":[{"LOWER":"mathematical"},{"LOWER":"logic"}]}
-{"label":"SKILL|matlab","pattern":[{"TEXT":"MATLAB"}]}
+{"label":"Tools & Technologies","pattern":[{"TEXT":"MATLAB"}]}
 {"label":"SKILL|mattermost","pattern":[{"LOWER":"mattermost"}]}
-{"label":"SKILL|maven","pattern":[{"LOWER":"maven"}]}
+{"label":"Tools & Technologies","pattern":[{"LOWER":"maven"}]}
 {"label":"SKILL|maxcdn","pattern":[{"LOWER":"maxcdn"}]}
 {"label":"SKILL|maximum-a-posteriori-estimation","pattern":[{"LOWER":"maximum"},{"LOWER":"a"},{"LOWER":"posteriori"},{"LOWER":"estimation"}]}
 {"label":"SKILL|mean","pattern":[{"TEXT":"MEAN"}]}
@@ -1287,13 +1287,13 @@
 {"label":"SKILL|modular-design","pattern":[{"LOWER":"modular"},{"LOWER":"design"}]}
 {"label":"SKILL|momentjs","pattern":[{"LOWER":"momentjs"}]}
 {"label":"SKILL|monero","pattern":[{"LOWER":"monero"}]}
-{"label":"SKILL|mongodb","pattern":[{"LOWER":"mongodb"}]}
-{"label":"SKILL|mongodb-atlas","pattern":[{"LOWER":"mongodb"},{"LOWER":"atlas"}]}
-{"label":"SKILL|mongodb-hosting","pattern":[{"LOWER":"mongodb"},{"LOWER":"hosting"}]}
-{"label":"SKILL|mongodb-stitch","pattern":[{"LOWER":"mongodb"},{"LOWER":"stitch"}]}
-{"label":"SKILL|mongoid","pattern":[{"LOWER":"mongoid"}]}
-{"label":"SKILL|mongolab","pattern":[{"LOWER":"mongolab"}]}
-{"label":"SKILL|mongoose","pattern":[{"LOWER":"mongoose"}]}
+{"label":"Tools & Technologies","pattern":[{"LOWER":"mongodb"}]}
+{"label":"Tools & Technologies","pattern":[{"LOWER":"mongodb"},{"LOWER":"atlas"}]}
+{"label":"Tools & Technologies","pattern":[{"LOWER":"mongodb"},{"LOWER":"hosting"}]}
+{"label":"Tools & Technologies","pattern":[{"LOWER":"mongodb"},{"LOWER":"stitch"}]}
+{"label":"Tools & Technologies","pattern":[{"LOWER":"mongoid"}]}
+{"label":"Tools & Technologies","pattern":[{"LOWER":"mongolab"}]}
+{"label":"Tools & Technologies","pattern":[{"LOWER":"mongoose"}]}
 {"label":"SKILL|monitoring","pattern":[{"LOWER":"monitoring"}]}
 {"label":"SKILL|monitoring-aggregation","pattern":[{"LOWER":"monitoring"},{"LOWER":"aggregation"}]}
 {"label":"SKILL|monitoring-tools","pattern":[{"LOWER":"monitoring"},{"LOWER":"tools"}]}
@@ -1329,7 +1329,7 @@
 {"label":"SKILL|mutual-information","pattern":[{"LOWER":"mutual"},{"LOWER":"information"}]}
 {"label":"SKILL|mvc-tools","pattern":[{"LOWER":"mvc"},{"LOWER":"tools"}]}
 {"label":"SKILL|mvvmcross","pattern":[{"LOWER":"mvvmcross"}]}
-{"label":"SKILL|mysql","pattern":[{"LOWER":"mysql"}]}
+{"label":"Tools & Technologies","pattern":[{"LOWER":"mysql"}]}
 {"label":"SKILL|naive-bayes-classifier","pattern":[{"LOWER":"naive"},{"LOWER":"bayes"},{"LOWER":"classifier"}]}
 {"label":"SKILL|namecheap","pattern":[{"LOWER":"namecheap"}]}
 {"label":"SKILL|named-entity","pattern":[{"LOWER":"named"},{"LOWER":"entity"}]}
@@ -1342,10 +1342,10 @@
 {"label":"SKILL|natural-language-understanding","pattern":[{"LOWER":"natural"},{"LOWER":"language"},{"LOWER":"understanding"}]}
 {"label":"SKILL|natural-language-understanding","pattern":[{"LOWER":"nlu"}]}
 {"label":"SKILL|navigation-system","pattern":[{"LOWER":"navigation"},{"LOWER":"system"}]}
-{"label":"SKILL|neo4j","pattern":[{"LOWER":"neo4j"}]}
-{"label":"SKILL|neovim","pattern":[{"LOWER":"neovim"}]}
-{"label":"SKILL|netbeans-ide","pattern":[{"LOWER":"netbeans"},{"LOWER":"ide"}]}
-{"label":"SKILL|netlify","pattern":[{"LOWER":"netlify"}]}
+{"label":"Tools & Technologies","pattern":[{"LOWER":"neo4j"}]}
+{"label":"Tools & Technologies","pattern":[{"LOWER":"neovim"}]}
+{"label":"Tools & Technologies","pattern":[{"LOWER":"netbeans"},{"LOWER":"ide"}]}
+{"label":"Tools & Technologies","pattern":[{"LOWER":"netlify"}]}
 {"label":"SKILL|netty","pattern":[{"LOWER":"netty"}]}
 {"label":"SKILL|network-architecture","pattern":[{"LOWER":"network"},{"LOWER":"architecture"}]}
 {"label":"SKILL|network-congestion","pattern":[{"LOWER":"network"},{"LOWER":"congestion"}]}
@@ -1364,21 +1364,21 @@
 {"label":"SKILL|nexmo","pattern":[{"LOWER":"nexmo"}]}
 {"label":"SKILL|next-generation-network","pattern":[{"LOWER":"next-generation"},{"LOWER":"network"}]}
 {"label":"SKILL|next-generation-network","pattern":[{"LOWER":"next"},{"LOWER":"generation network"}]}
-{"label":"SKILL|next.js","pattern":[{"LOWER":"next.js"}]}
-{"label":"SKILL|next.js","pattern":[{"LOWER":"next"},{"LOWER":"js"}]}
-{"label":"SKILL|nginx","pattern":[{"LOWER":"nginx"}]}
-{"label":"SKILL|ngrok","pattern":[{"LOWER":"ngrok"}]}
-{"label":"SKILL|nightwatchjs","pattern":[{"LOWER":"nightwatchjs"}]}
+{"label":"Tools & Technologies","pattern":[{"LOWER":"next.js"}]}
+{"label":"Tools & Technologies","pattern":[{"LOWER":"next"},{"LOWER":"js"}]}
+{"label":"Tools & Technologies","pattern":[{"LOWER":"nginx"}]}
+{"label":"Tools & Technologies","pattern":[{"LOWER":"ngrok"}]}
+{"label":"Tools & Technologies","pattern":[{"LOWER":"nightwatchjs"}]}
 {"label":"SKILL|nim","pattern":[{"LOWER":"nim"}]}
 {"label":"SKILL|nitrous.io","pattern":[{"LOWER":"nitrous.io"}]}
 {"label":"SKILL|nitrous.io","pattern":[{"LOWER":"nitrous"},{"LOWER":"io"}]}
 {"label":"SKILL|node-networking","pattern":[{"LOWER":"node"},{"LOWER":"(networking)"}]}
-{"label":"SKILL|node.js","pattern":[{"LOWER":"node.js"}]}
-{"label":"SKILL|node.js","pattern":[{"LOWER":"node"},{"LOWER":"js"}]}
-{"label":"SKILL|node.js-process-manager","pattern":[{"LOWER":"node.js"},{"LOWER":"process"},{"LOWER":"manager"}]}
-{"label":"SKILL|node.js-process-manager","pattern":[{"LOWER":"node"},{"LOWER":"js process manager"}]}
-{"label":"SKILL|nodejs","pattern":[{"LOWER":"node.js"}]}
-{"label":"SKILL|nodejs","pattern":[{"LOWER":"node"},{"LOWER":"js"}]}
+{"label":"Tools & Technologies","pattern":[{"LOWER":"node.js"}]}
+{"label":"Tools & Technologies","pattern":[{"LOWER":"node"},{"LOWER":"js"}]}
+{"label":"Tools & Technologies","pattern":[{"LOWER":"node.js"},{"LOWER":"process"},{"LOWER":"manager"}]}
+{"label":"Tools & Technologies","pattern":[{"LOWER":"node"},{"LOWER":"js process manager"}]}
+{"label":"Tools & Technologies","pattern":[{"LOWER":"node.js"}]}
+{"label":"Tools & Technologies","pattern":[{"LOWER":"node"},{"LOWER":"js"}]}
 {"label":"SKILL|noise-measurement","pattern":[{"LOWER":"noise"},{"LOWER":"measurement"}]}
 {"label":"SKILL|noise-reduction","pattern":[{"LOWER":"noise"},{"LOWER":"reduction"}]}
 {"label":"SKILL|noisy-data","pattern":[{"LOWER":"noisy"},{"LOWER":"data"}]}
@@ -1388,12 +1388,12 @@
 {"label":"SKILL|nosql","pattern":[{"LOWER":"nosql"}]}
 {"label":"SKILL|nosql-database-as-a-service","pattern":[{"LOWER":"nosql"},{"LOWER":"database"},{"LOWER":"as"},{"LOWER":"a"},{"LOWER":"service"}]}
 {"label":"SKILL|notepad","pattern":[{"LOWER":"notepad++"}]}
-{"label":"SKILL|npm","pattern":[{"LOWER":"npm"}]}
+{"label":"Tools & Technologies","pattern":[{"LOWER":"npm"}]}
 {"label":"SKILL|nsq","pattern":[{"TEXT":"NSQ"}]}
 {"label":"SKILL|nuclear-engineering","pattern":[{"LOWER":"nuclear"},{"LOWER":"engineering"}]}
 {"label":"SKILL|numerical-stability","pattern":[{"LOWER":"numerical"},{"LOWER":"stability"}]}
-{"label":"SKILL|numpy","pattern":[{"LOWER":"numpy"}]}
-{"label":"SKILL|nuxt","pattern":[{"LOWER":"nuxt"}]}
+{"label":"Tools & Technologies","pattern":[{"LOWER":"numpy"}]}
+{"label":"Tools & Technologies","pattern":[{"LOWER":"nuxt"}]}
 {"label":"SKILL|object-detection","pattern":[{"LOWER":"object"},{"LOWER":"detection"}]}
 {"label":"SKILL|object-document-mapper-odm","pattern":[{"LOWER":"object"},{"LOWER":"document"},{"LOWER":"mapper"},{"LOWER":"(odm)"}]}
 {"label":"SKILL|object-model","pattern":[{"LOWER":"object"},{"LOWER":"model"}]}
@@ -1418,9 +1418,9 @@
 {"label":"SKILL|opengl","pattern":[{"LOWER":"opengl"}]}
 {"label":"SKILL|openlayers","pattern":[{"LOWER":"openlayers"}]}
 {"label":"SKILL|openresty","pattern":[{"LOWER":"openresty"}]}
-{"label":"SKILL|openshift","pattern":[{"LOWER":"openshift"}]}
-{"label":"SKILL|openstack","pattern":[{"LOWER":"openstack"}]}
-{"label":"SKILL|opensuse","pattern":[{"LOWER":"opensuse"}]}
+{"label":"Tools & Technologies","pattern":[{"LOWER":"openshift"}]}
+{"label":"Tools & Technologies","pattern":[{"LOWER":"openstack"}]}
+{"label":"Tools & Technologies","pattern":[{"LOWER":"opensuse"}]}
 {"label":"SKILL|operating-system","pattern":[{"LOWER":"operating"},{"LOWER":"system"}]}
 {"label":"SKILL|operating-systems","pattern":[{"LOWER":"operating"},{"LOWER":"systems"}]}
 {"label":"SKILL|operational-transformation","pattern":[{"LOWER":"operational"},{"LOWER":"transformation"}]}
@@ -1445,7 +1445,7 @@
 {"label":"SKILL|package-manager","pattern":[{"LOWER":"package"},{"LOWER":"manager"}]}
 {"label":"SKILL|package-managers","pattern":[{"LOWER":"package"},{"LOWER":"managers"}]}
 {"label":"SKILL|packer","pattern":[{"LOWER":"packer"}]}
-{"label":"SKILL|pandas","pattern":[{"LOWER":"pandas"}]}
+{"label":"Tools & Technologies","pattern":[{"LOWER":"pandas"}]}
 {"label":"SKILL|parallel-algorithm","pattern":[{"LOWER":"parallel"},{"LOWER":"algorithm"}]}
 {"label":"SKILL|parallel-computing","pattern":[{"LOWER":"parallel"},{"LOWER":"computing"}]}
 {"label":"SKILL|parcel","pattern":[{"LOWER":"parcel"}]}
@@ -1468,7 +1468,7 @@
 {"label":"SKILL|paw","pattern":[{"LOWER":"paw"}]}
 {"label":"SKILL|payment-services","pattern":[{"LOWER":"payment"},{"LOWER":"services"}]}
 {"label":"SKILL|payments","pattern":[{"LOWER":"payments"}]}
-{"label":"SKILL|paypal","pattern":[{"LOWER":"paypal"}]}
+{"label":"Tools & Technologies","pattern":[{"LOWER":"paypal"}]}
 {"label":"SKILL|peak-signal-to-noise-ratio","pattern":[{"LOWER":"peak"},{"LOWER":"signal-to-noise"},{"LOWER":"ratio"}]}
 {"label":"SKILL|peak-signal-to-noise-ratio","pattern":[{"LOWER":"peak signal"},{"LOWER":"to"},{"LOWER":"noise ratio"}]}
 {"label":"SKILL|peer-to-peer","pattern":[{"LOWER":"peer-to-peer"}]}
@@ -1476,23 +1476,23 @@
 {"label":"SKILL|performance-metric","pattern":[{"LOWER":"performance"},{"LOWER":"metric"}]}
 {"label":"SKILL|performance-monitoring","pattern":[{"LOWER":"performance"},{"LOWER":"monitoring"}]}
 {"label":"SKILL|performance-prediction","pattern":[{"LOWER":"performance"},{"LOWER":"prediction"}]}
-{"label":"SKILL|perl","pattern":[{"LOWER":"perl"}]}
-{"label":"SKILL|perl6","pattern":[{"LOWER":"perl"},{"LOWER":"6"}]}
+{"label":"Tools & Technologies","pattern":[{"LOWER":"perl"}]}
+{"label":"Tools & Technologies","pattern":[{"LOWER":"perl"},{"LOWER":"6"}]}
 {"label":"SKILL|persistence-computer-science","pattern":[{"LOWER":"persistence"},{"LOWER":"(computer"},{"LOWER":"science)"}]}
 {"label":"SKILL|petri-net","pattern":[{"LOWER":"petri"},{"LOWER":"net"}]}
 {"label":"SKILL|petroleum-engineering","pattern":[{"LOWER":"petroleum"},{"LOWER":"engineering"}]}
 {"label":"SKILL|phabricator","pattern":[{"LOWER":"phabricator"}]}
 {"label":"SKILL|phalcon","pattern":[{"LOWER":"phalcon"}]}
-{"label":"SKILL|phantomjs","pattern":[{"LOWER":"phantomjs"}]}
+{"label":"Tools & Technologies","pattern":[{"LOWER":"phantomjs"}]}
 {"label":"SKILL|phaser","pattern":[{"LOWER":"phaser"}]}
 {"label":"SKILL|phoenix-framework","pattern":[{"LOWER":"phoenix"},{"LOWER":"framework"}]}
 {"label":"SKILL|phonegap","pattern":[{"LOWER":"phonegap"}]}
 {"label":"SKILL|photogrammetry","pattern":[{"LOWER":"photogrammetry"}]}
-{"label":"SKILL|php","pattern":[{"TEXT":"PHP"}]}
-{"label":"SKILL|php-mvc","pattern":[{"TEXT":"PHP-MVC"}]}
-{"label":"SKILL|php-mvc","pattern":[{"LOWER":"php"},{"LOWER":"mvc"}]}
-{"label":"SKILL|phpstorm","pattern":[{"LOWER":"phpstorm"}]}
-{"label":"SKILL|phpunit","pattern":[{"LOWER":"phpunit"}]}
+{"label":"Tools & Technologies","pattern":[{"TEXT":"PHP"}]}
+{"label":"Tools & Technologies","pattern":[{"TEXT":"PHP-MVC"}]}
+{"label":"Tools & Technologies","pattern":[{"LOWER":"php"},{"LOWER":"mvc"}]}
+{"label":"Tools & Technologies","pattern":[{"LOWER":"phpstorm"}]}
+{"label":"Tools & Technologies","pattern":[{"LOWER":"phpunit"}]}
 {"label":"SKILL|pico-8","pattern":[{"TEXT":"PICO-8"}]}
 {"label":"SKILL|pico-8","pattern":[{"LOWER":"pico"},{"LOWER":"8"}]}
 {"label":"SKILL|pile","pattern":[{"LOWER":"pile"}]}
@@ -1504,7 +1504,7 @@
 {"label":"SKILL|platform-as-a-service","pattern":[{"LOWER":"platform"},{"LOWER":"as"},{"LOWER":"a"},{"LOWER":"service"}]}
 {"label":"SKILL|platform-as-a-service-tools","pattern":[{"LOWER":"platform"},{"LOWER":"as"},{"LOWER":"a"},{"LOWER":"service"},{"LOWER":"tools"}]}
 {"label":"SKILL|play","pattern":[{"LOWER":"play"}]}
-{"label":"SKILL|plotly","pattern":[{"LOWER":"plotly"}]}
+{"label":"Tools & Technologies","pattern":[{"LOWER":"plotly"}]}
 {"label":"SKILL|point-location","pattern":[{"LOWER":"point"},{"LOWER":"location"}]}
 {"label":"SKILL|point-spread-function","pattern":[{"LOWER":"point"},{"LOWER":"spread"},{"LOWER":"function"}]}
 {"label":"SKILL|point-to-point","pattern":[{"LOWER":"point-to-point"}]}
@@ -1514,13 +1514,13 @@
 {"label":"SKILL|port-computer-networking","pattern":[{"LOWER":"port"},{"LOWER":"(computer"},{"LOWER":"networking)"}]}
 {"label":"SKILL|portainer","pattern":[{"LOWER":"portainer"}]}
 {"label":"SKILL|pose","pattern":[{"LOWER":"pose"}]}
-{"label":"SKILL|postcss","pattern":[{"LOWER":"postcss"}]}
-{"label":"SKILL|postgis","pattern":[{"LOWER":"postgis"}]}
-{"label":"SKILL|postgresql","pattern":[{"LOWER":"postgresql"}]}
-{"label":"SKILL|postgresql-as-a-service","pattern":[{"LOWER":"postgresql"},{"LOWER":"as"},{"LOWER":"a"},{"LOWER":"service"}]}
-{"label":"SKILL|postman","pattern":[{"LOWER":"postman"}]}
+{"label":"Tools & Technologies","pattern":[{"LOWER":"postcss"}]}
+{"label":"Tools & Technologies","pattern":[{"LOWER":"postgis"}]}
+{"label":"Tools & Technologies","pattern":[{"LOWER":"postgresql"}]}
+{"label":"Tools & Technologies","pattern":[{"LOWER":"postgresql"},{"LOWER":"as"},{"LOWER":"a"},{"LOWER":"service"}]}
+{"label":"Tools & Technologies","pattern":[{"LOWER":"postman"}]}
 {"label":"SKILL|postmark","pattern":[{"LOWER":"postmark"}]}
-{"label":"SKILL|pouchdb","pattern":[{"LOWER":"pouchdb"}]}
+{"label":"Tools & Technologies","pattern":[{"LOWER":"pouchdb"}]}
 {"label":"SKILL|power-control","pattern":[{"LOWER":"power"},{"LOWER":"control"}]}
 {"label":"SKILL|power-management","pattern":[{"LOWER":"power"},{"LOWER":"management"}]}
 {"label":"SKILL|preact","pattern":[{"LOWER":"preact"}]}
@@ -1529,9 +1529,9 @@
 {"label":"SKILL|predictive-value-of-tests","pattern":[{"LOWER":"predictive"},{"LOWER":"value"},{"LOWER":"of"},{"LOWER":"tests"}]}
 {"label":"SKILL|presentation-semantics","pattern":[{"LOWER":"presentation"},{"LOWER":"semantics"}]}
 {"label":"SKILL|prestashop","pattern":[{"LOWER":"prestashop"}]}
-{"label":"SKILL|presto","pattern":[{"LOWER":"presto"}]}
+{"label":"Tools & Technologies","pattern":[{"LOWER":"presto"}]}
 {"label":"SKILL|principal-component-analysis","pattern":[{"LOWER":"principal"},{"LOWER":"component"},{"LOWER":"analysis"}]}
-{"label":"SKILL|prisma","pattern":[{"LOWER":"prisma"}]}
+{"label":"Tools & Technologies","pattern":[{"LOWER":"prisma"}]}
 {"label":"SKILL|process-calculus","pattern":[{"LOWER":"process"},{"LOWER":"calculus"}]}
 {"label":"SKILL|process-engineering","pattern":[{"LOWER":"process"},{"LOWER":"engineering"}]}
 {"label":"SKILL|process-management","pattern":[{"LOWER":"process"},{"LOWER":"management"}]}
@@ -1548,7 +1548,7 @@
 {"label":"SKILL|project-management","pattern":[{"LOWER":"project"},{"LOWER":"management"}]}
 {"label":"SKILL|project-management","pattern":[{"LOWER":"project"},{"LOWER":"management"}]}
 {"label":"SKILL|prolog","pattern":[{"LOWER":"prolog"}]}
-{"label":"SKILL|prometheus","pattern":[{"LOWER":"prometheus"}]}
+{"label":"Tools & Technologies","pattern":[{"LOWER":"prometheus"}]}
 {"label":"SKILL|propagation-delay","pattern":[{"LOWER":"propagation"},{"LOWER":"delay"}]}
 {"label":"SKILL|propositional-calculus","pattern":[{"LOWER":"propositional"},{"LOWER":"calculus"}]}
 {"label":"SKILL|prosthesis","pattern":[{"LOWER":"prosthesis"}]}
@@ -1567,9 +1567,9 @@
 {"label":"SKILL|pusher","pattern":[{"LOWER":"pusher"}]}
 {"label":"SKILL|pushwoosh","pattern":[{"LOWER":"pushwoosh"}]}
 {"label":"SKILL|pwa","pattern":[{"TEXT":"PWA"}]}
-{"label":"SKILL|pycharm","pattern":[{"LOWER":"pycharm"}]}
-{"label":"SKILL|python","pattern":[{"LOWER":"python"}]}
-{"label":"SKILL|pytorch","pattern":[{"LOWER":"pytorch"}]}
+{"label":"Tools & Technologies","pattern":[{"LOWER":"pycharm"}]}
+{"label":"Tools & Technologies","pattern":[{"LOWER":"python"}]}
+{"label":"Tools & Technologies","pattern":[{"LOWER":"pytorch"}]}
 {"label":"SKILL|qt","pattern":[{"LOWER":"qt"}]}
 {"label":"SKILL|quality-of-service","pattern":[{"LOWER":"quality"},{"LOWER":"of"},{"LOWER":"service"}]}
 {"label":"SKILL|quantifier-elimination","pattern":[{"LOWER":"quantifier"},{"LOWER":"elimination"}]}
@@ -1585,11 +1585,11 @@
 {"label":"SKILL|queue","pattern":[{"LOWER":"queue"}]}
 {"label":"SKILL|queueing-theory","pattern":[{"LOWER":"queueing"},{"LOWER":"theory"}]}
 {"label":"SKILL|qunit","pattern":[{"LOWER":"qunit"}]}
-{"label":"SKILL|r","pattern":[{"TEXT":"R"}]}
-{"label":"SKILL|rabbitmq","pattern":[{"LOWER":"rabbitmq"}]}
+{"label":"Tools & Technologies","pattern":[{"TEXT":"R"}]}
+{"label":"Tools & Technologies","pattern":[{"LOWER":"rabbitmq"}]}
 {"label":"SKILL|rackspace-cloud-servers","pattern":[{"LOWER":"rackspace"},{"LOWER":"cloud"},{"LOWER":"servers"}]}
-{"label":"SKILL|rails","pattern":[{"LOWER":"rails"}]}
-{"label":"SKILL|rails-api","pattern":[{"LOWER":"rails"},{"LOWER":"api"}]}
+{"label":"Tools & Technologies","pattern":[{"LOWER":"rails"}]}
+{"label":"Tools & Technologies","pattern":[{"LOWER":"rails"},{"LOWER":"api"}]}
 {"label":"SKILL|raml","pattern":[{"TEXT":"RAML"}]}
 {"label":"SKILL|rancher","pattern":[{"LOWER":"rancher"}]}
 {"label":"SKILL|random-access","pattern":[{"LOWER":"random"},{"LOWER":"access"}]}
@@ -1603,14 +1603,14 @@
 {"label":"SKILL|ratchet","pattern":[{"LOWER":"ratchet"}]}
 {"label":"SKILL|rdf","pattern":[{"TEXT":"RDF"}]}
 {"label":"SKILL|reachability","pattern":[{"LOWER":"reachability"}]}
-{"label":"SKILL|react","pattern":[{"LOWER":"react"}]}
-{"label":"SKILL|react-hot-loader","pattern":[{"LOWER":"react"},{"LOWER":"hot"},{"LOWER":"loader"}]}
-{"label":"SKILL|react-native","pattern":[{"LOWER":"react"},{"LOWER":"native"}]}
-{"label":"SKILL|react-navigation","pattern":[{"LOWER":"react"},{"LOWER":"navigation"}]}
-{"label":"SKILL|react-router","pattern":[{"LOWER":"react"},{"LOWER":"router"}]}
-{"label":"SKILL|react-storybook","pattern":[{"LOWER":"react"},{"LOWER":"storybook"}]}
-{"label":"SKILL|react.js-boilerplate","pattern":[{"LOWER":"react.js"},{"LOWER":"boilerplate"}]}
-{"label":"SKILL|react.js-boilerplate","pattern":[{"LOWER":"react"},{"LOWER":"js boilerplate"}]}
+{"label":"Tools & Technologies","pattern":[{"LOWER":"react"}]}
+{"label":"Tools & Technologies","pattern":[{"LOWER":"react"},{"LOWER":"hot"},{"LOWER":"loader"}]}
+{"label":"Tools & Technologies","pattern":[{"LOWER":"react"},{"LOWER":"native"}]}
+{"label":"Tools & Technologies","pattern":[{"LOWER":"react"},{"LOWER":"navigation"}]}
+{"label":"Tools & Technologies","pattern":[{"LOWER":"react"},{"LOWER":"router"}]}
+{"label":"Tools & Technologies","pattern":[{"LOWER":"react"},{"LOWER":"storybook"}]}
+{"label":"Tools & Technologies","pattern":[{"LOWER":"react.js"},{"LOWER":"boilerplate"}]}
+{"label":"Tools & Technologies","pattern":[{"LOWER":"react"},{"LOWER":"js boilerplate"}]}
 {"label":"SKILL|reactiveui","pattern":[{"LOWER":"reactiveui"}]}
 {"label":"SKILL|read-only-memory","pattern":[{"LOWER":"read-only"},{"LOWER":"memory"}]}
 {"label":"SKILL|read-only-memory","pattern":[{"LOWER":"read"},{"LOWER":"only memory"}]}
@@ -1637,19 +1637,19 @@
 {"label":"SKILL|record-linkage","pattern":[{"LOWER":"record"},{"LOWER":"linkage"}]}
 {"label":"SKILL|recurly","pattern":[{"LOWER":"recurly"}]}
 {"label":"SKILL|recursion","pattern":[{"LOWER":"recursion"}]}
-{"label":"SKILL|redash","pattern":[{"LOWER":"redash"}]}
-{"label":"SKILL|redis","pattern":[{"LOWER":"redis"}]}
-{"label":"SKILL|redis-cloud","pattern":[{"LOWER":"redis"},{"LOWER":"cloud"}]}
-{"label":"SKILL|redis-hosting","pattern":[{"LOWER":"redis"},{"LOWER":"hosting"}]}
+{"label":"Tools & Technologies","pattern":[{"LOWER":"redash"}]}
+{"label":"Tools & Technologies","pattern":[{"LOWER":"redis"}]}
+{"label":"Tools & Technologies","pattern":[{"LOWER":"redis"},{"LOWER":"cloud"}]}
+{"label":"Tools & Technologies","pattern":[{"LOWER":"redis"},{"LOWER":"hosting"}]}
 {"label":"SKILL|redmine","pattern":[{"LOWER":"redmine"}]}
 {"label":"SKILL|redundancy-engineering","pattern":[{"LOWER":"redundancy"},{"LOWER":"(engineering)"}]}
-{"label":"SKILL|redux","pattern":[{"LOWER":"redux"}]}
-{"label":"SKILL|redux-saga","pattern":[{"LOWER":"redux-saga"}]}
-{"label":"SKILL|redux-saga","pattern":[{"LOWER":"redux"},{"LOWER":"saga"}]}
-{"label":"SKILL|redux-thunk","pattern":[{"LOWER":"redux-thunk"}]}
-{"label":"SKILL|redux-thunk","pattern":[{"LOWER":"redux"},{"LOWER":"thunk"}]}
-{"label":"SKILL|redux.js","pattern":[{"LOWER":"redux.js"}]}
-{"label":"SKILL|redux.js","pattern":[{"LOWER":"redux"},{"LOWER":"js"}]}
+{"label":"Tools & Technologies","pattern":[{"LOWER":"redux"}]}
+{"label":"Tools & Technologies","pattern":[{"LOWER":"redux-saga"}]}
+{"label":"Tools & Technologies","pattern":[{"LOWER":"redux"},{"LOWER":"saga"}]}
+{"label":"Tools & Technologies","pattern":[{"LOWER":"redux-thunk"}]}
+{"label":"Tools & Technologies","pattern":[{"LOWER":"redux"},{"LOWER":"thunk"}]}
+{"label":"Tools & Technologies","pattern":[{"LOWER":"redux.js"}]}
+{"label":"Tools & Technologies","pattern":[{"LOWER":"redux"},{"LOWER":"js"}]}
 {"label":"SKILL|reference-frame","pattern":[{"LOWER":"reference"},{"LOWER":"frame"}]}
 {"label":"SKILL|region-of-interest","pattern":[{"LOWER":"region"},{"LOWER":"of"},{"LOWER":"interest"}]}
 {"label":"SKILL|regression-analysis","pattern":[{"LOWER":"regression"},{"LOWER":"analysis"}]}
@@ -1691,7 +1691,7 @@
 {"label":"SKILL|routing-protocol","pattern":[{"LOWER":"routing"},{"LOWER":"protocol"}]}
 {"label":"SKILL|rspec","pattern":[{"LOWER":"rspec"}]}
 {"label":"SKILL|rubocop","pattern":[{"LOWER":"rubocop"}]}
-{"label":"SKILL|ruby","pattern":[{"LOWER":"ruby"}]}
+{"label":"Tools & Technologies","pattern":[{"LOWER":"ruby"}]}
 {"label":"SKILL|rubymine","pattern":[{"LOWER":"rubymine"}]}
 {"label":"SKILL|rule-based-system","pattern":[{"LOWER":"rule-based"},{"LOWER":"system"}]}
 {"label":"SKILL|rule-based-system","pattern":[{"LOWER":"rule"},{"LOWER":"based system"}]}
@@ -1699,16 +1699,16 @@
 {"label":"SKILL|rule-of-thumb","pattern":[{"LOWER":"rule"},{"LOWER":"of"},{"LOWER":"thumb"}]}
 {"label":"SKILL|runscope","pattern":[{"LOWER":"runscope"}]}
 {"label":"SKILL|runtime-system","pattern":[{"LOWER":"runtime"},{"LOWER":"system"}]}
-{"label":"SKILL|rust","pattern":[{"LOWER":"rust"}]}
-{"label":"SKILL|rxjs","pattern":[{"LOWER":"rxjs"}]}
-{"label":"SKILL|sails.js","pattern":[{"LOWER":"sails.js"}]}
-{"label":"SKILL|sails.js","pattern":[{"LOWER":"sails"},{"LOWER":"js"}]}
-{"label":"SKILL|salesforce-sales-cloud","pattern":[{"LOWER":"salesforce"},{"LOWER":"sales"},{"LOWER":"cloud"}]}
-{"label":"SKILL|sass","pattern":[{"LOWER":"sass"}]}
+{"label":"Tools & Technologies","pattern":[{"LOWER":"rust"}]}
+{"label":"Tools & Technologies","pattern":[{"LOWER":"rxjs"}]}
+{"label":"Tools & Technologies","pattern":[{"LOWER":"sails.js"}]}
+{"label":"Tools & Technologies","pattern":[{"LOWER":"sails"},{"LOWER":"js"}]}
+{"label":"Tools & Technologies","pattern":[{"LOWER":"salesforce"},{"LOWER":"sales"},{"LOWER":"cloud"}]}
+{"label":"Tools & Technologies","pattern":[{"LOWER":"sass"}]}
 {"label":"SKILL|satisfiability","pattern":[{"LOWER":"satisfiability"}]}
 {"label":"SKILL|sauce-labs","pattern":[{"LOWER":"sauce"},{"LOWER":"labs"}]}
 {"label":"SKILL|scaffold","pattern":[{"LOWER":"scaffold"}]}
-{"label":"SKILL|scala","pattern":[{"LOWER":"scala"}]}
+{"label":"Tools & Technologies","pattern":[{"LOWER":"scala"}]}
 {"label":"SKILL|scalability","pattern":[{"LOWER":"scalability"}]}
 {"label":"SKILL|scalable-vector-graphics","pattern":[{"LOWER":"scalable"},{"LOWER":"vector"},{"LOWER":"graphics"}]}
 {"label":"SKILL|scale-space","pattern":[{"LOWER":"scale"},{"LOWER":"space"}]}
@@ -1717,8 +1717,8 @@
 {"label":"SKILL|schedule","pattern":[{"LOWER":"schedule"}]}
 {"label":"SKILL|scheduling-computing","pattern":[{"LOWER":"scheduling"},{"LOWER":"(computing)"}]}
 {"label":"SKILL|scientometrics","pattern":[{"LOWER":"scientometrics"}]}
-{"label":"SKILL|scikit-learn","pattern":[{"LOWER":"scikit-learn"}]}
-{"label":"SKILL|scikit-learn","pattern":[{"LOWER":"scikit"},{"LOWER":"learn"}]}
+{"label":"Tools & Technologies","pattern":[{"LOWER":"scikit-learn"}]}
+{"label":"Tools & Technologies","pattern":[{"LOWER":"scikit"},{"LOWER":"learn"}]}
 {"label":"SKILL|screen-sharing","pattern":[{"LOWER":"screen"},{"LOWER":"sharing"}]}
 {"label":"SKILL|scripting-language","pattern":[{"LOWER":"scripting"},{"LOWER":"language"}]}
 {"label":"SKILL|scrutinizer","pattern":[{"LOWER":"scrutinizer"}]}
@@ -1790,7 +1790,7 @@
 {"label":"SKILL|shields.io","pattern":[{"LOWER":"shields"},{"LOWER":"io"}]}
 {"label":"SKILL|shift-register","pattern":[{"LOWER":"shift"},{"LOWER":"register"}]}
 {"label":"SKILL|shippable","pattern":[{"LOWER":"shippable"}]}
-{"label":"SKILL|shopify","pattern":[{"LOWER":"shopify"}]}
+{"label":"Tools & Technologies","pattern":[{"LOWER":"shopify"}]}
 {"label":"SKILL|shortest-path-problem","pattern":[{"LOWER":"shortest"},{"LOWER":"path"},{"LOWER":"problem"}]}
 {"label":"SKILL|shrinkage","pattern":[{"LOWER":"shrinkage"}]}
 {"label":"SKILL|sidekiq","pattern":[{"LOWER":"sidekiq"}]}
@@ -1805,7 +1805,7 @@
 {"label":"SKILL|skeleton-computer-programming","pattern":[{"LOWER":"skeleton"},{"LOWER":"(computer"},{"LOWER":"programming)"}]}
 {"label":"SKILL|sketch","pattern":[{"LOWER":"sketch"}]}
 {"label":"SKILL|skype","pattern":[{"LOWER":"skype"}]}
-{"label":"SKILL|slack","pattern":[{"LOWER":"slack"}]}
+{"label":"Tools & Technologies","pattern":[{"LOWER":"slack"}]}
 {"label":"SKILL|sliding-window-protocol","pattern":[{"LOWER":"sliding"},{"LOWER":"window"},{"LOWER":"protocol"}]}
 {"label":"SKILL|slim","pattern":[{"LOWER":"slim"}]}
 {"label":"SKILL|slim-lang","pattern":[{"LOWER":"slim"},{"LOWER":"lang"}]}
@@ -1814,7 +1814,7 @@
 {"label":"SKILL|smart-information-retrieval-system","pattern":[{"LOWER":"smart"},{"LOWER":"information"},{"LOWER":"retrieval"},{"LOWER":"system"}]}
 {"label":"SKILL|smoothing","pattern":[{"LOWER":"smoothing"}]}
 {"label":"SKILL|snippet","pattern":[{"LOWER":"snippet"}]}
-{"label":"SKILL|snowflake","pattern":[{"LOWER":"snowflake"}]}
+{"label":"Tools & Technologies","pattern":[{"LOWER":"snowflake"}]}
 {"label":"SKILL|snyk","pattern":[{"LOWER":"snyk"}]}
 {"label":"SKILL|social-media-tools","pattern":[{"LOWER":"social"},{"LOWER":"media"},{"LOWER":"tools"}]}
 {"label":"SKILL|socket.io","pattern":[{"LOWER":"socket.io"}]}
