@@ -626,7 +626,8 @@
 {"label":"SKILL|document-processing","pattern":[{"LOWER":"document"},{"LOWER":"processing"}]}
 {"label":"SKILL|document-retrieval","pattern":[{"LOWER":"document"},{"LOWER":"retrieval"}]}
 {"label":"SKILL|document-signature","pattern":[{"LOWER":"document"},{"LOWER":"signature"}]}
-{"label":"SKILL|documentation","pattern":[{"LOWER":"documentation"}]}
+{"label":"Industry Knowledge","pattern":[{"LOWER":"documentation"}]}
+{"label":"Industry Knowledge","pattern":[{"LOWER":"technical"},{"LOWER":"documentation"}]}
 {"label":"SKILL|documentation-as-a-service--tools","pattern":[{"LOWER":"documentation"},{"LOWER":"as"},{"LOWER":"a"},{"LOWER":"service"},{"LOWER":"&"},{"LOWER":"tools"}]}
 {"label":"SKILL|dokku","pattern":[{"LOWER":"dokku"}]}
 {"label":"SKILL|domain-knowledge","pattern":[{"LOWER":"domain"},{"LOWER":"knowledge"}]}
@@ -1230,6 +1231,7 @@
 {"label":"SKILL|marine-engineering","pattern":[{"LOWER":"marine"},{"LOWER":"engineering"}]}
 {"label":"SKILL|marionette","pattern":[{"LOWER":"marionette"}]}
 {"label":"SKILL|markdown","pattern":[{"LOWER":"markdown"}]}
+{"label":"Industry Knowledge","pattern":[{"LOWER":"market"},{"LOWER":"research"}]}
 {"label":"SKILL|marketing","pattern":[{"LOWER":"marketing"}]}
 {"label":"SKILL|marketing-automation","pattern":[{"LOWER":"marketing"},{"LOWER":"automation"}]}
 {"label":"SKILL|markov-chain","pattern":[{"LOWER":"markov"},{"LOWER":"chain"}]}
@@ -1925,6 +1927,7 @@
 {"label":"SKILL|stop-words","pattern":[{"LOWER":"stop"},{"LOWER":"words"}]}
 {"label":"SKILL|storm","pattern":[{"LOWER":"storm"}]}
 {"label":"SKILL|storybook","pattern":[{"LOWER":"storybook"}]}
+{"label":"Industry Knowledge","pattern":[{"LOWER":"strategic"},{"LOWER":"sourcing"}]}
 {"label":"SKILL|stream-processing","pattern":[{"LOWER":"stream"},{"LOWER":"processing"}]}
 {"label":"SKILL|stream-processing","pattern":[{"LOWER":"stream"},{"LOWER":"processing"}]}
 {"label":"SKILL|streams","pattern":[{"TEXT":"STREAMS"}]}
