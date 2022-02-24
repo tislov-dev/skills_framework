@@ -155,6 +155,7 @@
 {"label":"SKILL|ava","pattern":[{"TEXT":"AVA"}]}
 {"label":"Tools & Technologies","pattern":[{"LOWER":"awesome"},{"LOWER":"lists"}]}
 {"label":"Tools & Technologies","pattern":[{"LOWER":"amazon"},{"LOWER":"web"},{"LOWER":"services"}]}
+{"label":"Tools & Technologies","pattern":[{"LOWER":"aws"}]}
 {"label":"Tools & Technologies","pattern":[{"LOWER":"aws"},{"LOWER":"cloudformation"}]}
 {"label":"Tools & Technologies","pattern":[{"LOWER":"aws"},{"LOWER":"codebuild"}]}
 {"label":"Tools & Technologies","pattern":[{"LOWER":"aws"},{"LOWER":"codecommit"}]}
@@ -198,7 +199,9 @@
 {"label":"SKILL|beta-testing--mobile-app-distribution","pattern":[{"LOWER":"beta testing "},{"LOWER":" mobile app distribution"}]}
 {"label":"SKILL|bibliographic-database","pattern":[{"LOWER":"bibliographic"},{"LOWER":"database"}]}
 {"label":"SKILL|bibliometrics","pattern":[{"LOWER":"bibliometrics"}]}
-{"label":"SKILL|big-data","pattern":[{"LOWER":"big"},{"LOWER":"data"}]}
+{"label":"Industry Knowledge","pattern":[{"LOWER":"big"},{"LOWER":"data"},{"LOWER":"systems"}]}
+{"label":"Industry Knowledge","pattern":[{"LOWER":"big"},{"LOWER":"data"}]}
+{"label":"Industry Knowledge","pattern":[{"LOWER":"big"},{"LOWER":"data"},{"LOWER":"analytics"}]}
 {"label":"SKILL|big-data-as-a-service","pattern":[{"LOWER":"big"},{"LOWER":"data"},{"LOWER":"as"},{"LOWER":"a"},{"LOWER":"service"}]}
 {"label":"SKILL|big-data-tools","pattern":[{"LOWER":"big"},{"LOWER":"data"},{"LOWER":"tools"}]}
 {"label":"SKILL|binary-search-tree","pattern":[{"LOWER":"binary"},{"LOWER":"search"},{"LOWER":"tree"}]}
@@ -253,6 +256,8 @@
 {"label":"SKILL|business-process","pattern":[{"LOWER":"business"},{"LOWER":"process"}]}
 {"label":"SKILL|business-tools","pattern":[{"LOWER":"business"},{"LOWER":"tools"}]}
 {"label":"SKILL|business-analysis","pattern":[{"LOWER":"business"},{"LOWER":"analysis"}]}
+{"label":"Industry Knowledge","pattern":[{"LOWER":"business"},{"LOWER":"transformation"}]}
+{"label":"Industry Knowledge","pattern":[{"LOWER":"business"},{"LOWER":"process"}]}
 {"label":"Tools & Technologies","pattern":[{"TEXT":"C++"}]}
 {"label":"Tools & Technologies","pattern":[{"TEXT":"C"}]}
 {"label":"Tools & Technologies","pattern":[{"LOWER":"c3.js"}]}
@@ -338,7 +343,7 @@
 {"label":"SKILL|coding-social-sciences","pattern":[{"LOWER":"coding"},{"LOWER":"(social"},{"LOWER":"sciences)"}]}
 {"label":"SKILL|coffeescript","pattern":[{"LOWER":"coffeescript"}]}
 {"label":"SKILL|cognitive-neuroscience-of-visual-object-recognition","pattern":[{"LOWER":"cognitive"},{"LOWER":"neuroscience"},{"LOWER":"of"},{"LOWER":"visual"},{"LOWER":"object"},{"LOWER":"recognition"}]}
-{"label":"SKILL|collaboration","pattern":[{"LOWER":"collaboration"}]}
+{"label":"Interpersonal Skill","pattern":[{"LOWER":"collaboration"}]}
 {"label":"SKILL|collision","pattern":[{"LOWER":"collision"}]}
 {"label":"SKILL|color-vision","pattern":[{"LOWER":"color"},{"LOWER":"vision"}]}
 {"label":"SKILL|colorimetry","pattern":[{"LOWER":"colorimetry"}]}
@@ -435,6 +440,9 @@
 {"label":"Tools & Technologies","pattern":[{"LOWER":"couchdb"}]}
 {"label":"SKILL|coveralls","pattern":[{"LOWER":"coveralls"}]}
 {"label":"SKILL|cpp","pattern":[{"TEXT":"C++"}]}
+{"label":"Industry Knowledge","pattern":[{"LOWER":"cisco"},{"LOWER":"product"},{"LOWER":"development"},{"LOWER":"methodology"}]}
+{"label":"Industry Knowledge","pattern":[{"LOWER":"product"},{"LOWER":"lifecycle"},{"LOWER":"management"}]}
+{"label":"Industry Knowledge","pattern":[{"LOWER":"cisco"},{"LOWER":"secure"},{"LOWER":"development"},{"LOWER":"lifecycle"}]}
 {"label":"SKILL|cranfield-experiments","pattern":[{"LOWER":"cranfield"},{"LOWER":"experiments"}]}
 {"label":"SKILL|crashlytics","pattern":[{"LOWER":"crashlytics"}]}
 {"label":"SKILL|crazy-egg","pattern":[{"LOWER":"crazy"},{"LOWER":"egg"}]}
@@ -470,6 +478,7 @@
 {"label":"SKILL|curve-fitting","pattern":[{"LOWER":"curve"},{"LOWER":"fitting"}]}
 {"label":"SKILL|custom-analytics","pattern":[{"LOWER":"custom"},{"LOWER":"analytics"}]}
 {"label":"SKILL|customer-analytics","pattern":[{"LOWER":"customer"},{"LOWER":"analytics"}]}
+{"label":"Industry Knowledge","pattern":[{"LOWER":"customer"},{"LOWER":"experience"}]}
 {"label":"SKILL|customer-relationship-management","pattern":[{"LOWER":"customer"},{"LOWER":"relationship"},{"LOWER":"management"}]}
 {"label":"SKILL|customer-support-chat","pattern":[{"LOWER":"customer"},{"LOWER":"support"},{"LOWER":"chat"}]}
 {"label":"SKILL|cypress","pattern":[{"LOWER":"cypress"}]}
@@ -542,6 +551,7 @@
 {"label":"SKILL|dedicated-cloud-hosting","pattern":[{"LOWER":"dedicated"},{"LOWER":"cloud"},{"LOWER":"hosting"}]}
 {"label":"SKILL|deductive-database","pattern":[{"LOWER":"deductive"},{"LOWER":"database"}]}
 {"label":"SKILL|deep-learning","pattern":[{"LOWER":"deep"},{"LOWER":"learning"}]}
+{"label":"Industry Knowledge","pattern":[{"LOWER":"defect"},{"LOWER":"analysis"}]}
 {"label":"SKILL|dempstershafer-theory","pattern":[{"LOWER":"dempster\u2013shafer"},{"LOWER":"theory"}]}
 {"label":"SKILL|denial-of-service-attack","pattern":[{"LOWER":"denial-of-service"},{"LOWER":"attack"}]}
 {"label":"SKILL|denial-of-service-attack","pattern":[{"LOWER":"denial"},{"LOWER":"of"},{"LOWER":"service attack"}]}
@@ -578,6 +588,7 @@
 {"label":"SKILL|display-device","pattern":[{"LOWER":"display"},{"LOWER":"device"}]}
 {"label":"SKILL|disqus","pattern":[{"LOWER":"disqus"}]}
 {"label":"SKILL|distance-transform","pattern":[{"LOWER":"distance"},{"LOWER":"transform"}]}
+{"label":"Industry Knowledge","pattern":[{"LOWER":"distributed"},{"LOWER":"systems"}]}
 {"label":"SKILL|distributed-algorithm","pattern":[{"LOWER":"distributed"},{"LOWER":"algorithm"}]}
 {"label":"SKILL|distributed-computing","pattern":[{"LOWER":"distributed"},{"LOWER":"computing"}]}
 {"label":"SKILL|distributed-computing-environment","pattern":[{"LOWER":"distributed"},{"LOWER":"computing"},{"LOWER":"environment"}]}
@@ -1385,8 +1396,8 @@
 {"label":"SKILL|nomad","pattern":[{"LOWER":"nomad"}]}
 {"label":"SKILL|non-volatile-memory","pattern":[{"LOWER":"non-volatile"},{"LOWER":"memory"}]}
 {"label":"SKILL|non-volatile-memory","pattern":[{"LOWER":"non"},{"LOWER":"volatile memory"}]}
-{"label":"SKILL|nosql","pattern":[{"LOWER":"nosql"}]}
-{"label":"SKILL|nosql-database-as-a-service","pattern":[{"LOWER":"nosql"},{"LOWER":"database"},{"LOWER":"as"},{"LOWER":"a"},{"LOWER":"service"}]}
+{"label":"Tools & Technologies","pattern":[{"LOWER":"nosql"}]}
+{"label":"Tools & Technologies","pattern":[{"LOWER":"nosql"},{"LOWER":"database"},{"LOWER":"as"},{"LOWER":"a"},{"LOWER":"service"}]}
 {"label":"SKILL|notepad","pattern":[{"LOWER":"notepad++"}]}
 {"label":"Tools & Technologies","pattern":[{"LOWER":"npm"}]}
 {"label":"SKILL|nsq","pattern":[{"TEXT":"NSQ"}]}
@@ -1603,7 +1614,7 @@
 {"label":"SKILL|ratchet","pattern":[{"LOWER":"ratchet"}]}
 {"label":"SKILL|rdf","pattern":[{"TEXT":"RDF"}]}
 {"label":"SKILL|reachability","pattern":[{"LOWER":"reachability"}]}
-{"label":"Tools & Technologies","pattern":[{"LOWER":"react"}]}
+{"label":"Tools & Technologies","pattern":[{"TEXT":"React"}]}
 {"label":"Tools & Technologies","pattern":[{"LOWER":"react"},{"LOWER":"hot"},{"LOWER":"loader"}]}
 {"label":"Tools & Technologies","pattern":[{"LOWER":"react"},{"LOWER":"native"}]}
 {"label":"Tools & Technologies","pattern":[{"LOWER":"react"},{"LOWER":"navigation"}]}
@@ -1821,6 +1832,7 @@
 {"label":"SKILL|socket.io","pattern":[{"LOWER":"socket"},{"LOWER":"io"}]}
 {"label":"SKILL|softlayer","pattern":[{"LOWER":"softlayer"}]}
 {"label":"SKILL|software","pattern":[{"LOWER":"software"}]}
+{"label":"Industry Knowledge","pattern":[{"LOWER":"software"},{"LOWER":"systems"}]}
 {"label":"SKILL|software-agent","pattern":[{"LOWER":"software"},{"LOWER":"agent"}]}
 {"label":"SKILL|software-defined-radio","pattern":[{"LOWER":"software-defined"},{"LOWER":"radio"}]}
 {"label":"SKILL|software-defined-radio","pattern":[{"LOWER":"software"},{"LOWER":"defined radio"}]}
@@ -1860,12 +1872,12 @@
 {"label":"SKILL|spring-boot","pattern":[{"LOWER":"spring"},{"LOWER":"boot"}]}
 {"label":"SKILL|spring-boot","pattern":[{"LOWER":"spring"},{"LOWER":"boot"}]}
 {"label":"SKILL|spring-cloud","pattern":[{"LOWER":"spring"},{"LOWER":"cloud"}]}
-{"label":"SKILL|sql","pattern":[{"TEXT":"SQL"}]}
+{"label":"Tools & Technologies","pattern":[{"TEXT":"SQL"}]}
 {"label":"SKILL|sql-database-as-a-service","pattern":[{"LOWER":"sql"},{"LOWER":"database"},{"LOWER":"as"},{"LOWER":"a"},{"LOWER":"service"}]}
-{"label":"SKILL|sqlalchemy","pattern":[{"LOWER":"sqlalchemy"}]}
-{"label":"SKILL|sqlite","pattern":[{"LOWER":"sqlite"}]}
+{"label":"Tools & Technologies","pattern":[{"LOWER":"sqlalchemy"}]}
+{"label":"Tools & Technologies","pattern":[{"LOWER":"sqlite"}]}
 {"label":"SKILL|squarespace","pattern":[{"LOWER":"squarespace"}]}
-{"label":"SKILL|stack-overflow","pattern":[{"LOWER":"stack"},{"LOWER":"overflow"}]}
+{"label":"Tools & Technologies","pattern":[{"LOWER":"stack"},{"LOWER":"overflow"}]}
 {"label":"SKILL|stackdriver","pattern":[{"LOWER":"stackdriver"}]}
 {"label":"SKILL|stamplay","pattern":[{"LOWER":"stamplay"}]}
 {"label":"SKILL|standard-ml","pattern":[{"LOWER":"standard"},{"LOWER":"ml"}]}
