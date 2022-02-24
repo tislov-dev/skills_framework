@@ -11,6 +11,12 @@
 {"label":"SKILL|access-method","pattern":[{"LOWER":"access"},{"LOWER":"method"}]}
 {"label":"SKILL|access-network","pattern":[{"LOWER":"access"},{"LOWER":"network"}]}
 {"label":"Industry Knowledge","pattern":[{"LOWER":"accounting"}]}
+{"label":"Industry Knowledge","pattern":[{"LOWER":"account"},{"LOWER":"management"}]}
+{"label":"Industry Knowledge","pattern":[{"LOWER":"account"},{"LOWER":"reconciliation"}]}
+{"label":"Industry Knowledge","pattern":[{"LOWER":"accruals"}]}
+{"label":"Interpersonal Skill","pattern":[{"LOWER":"attention"},{"LOWER":"to"},{"LOWER":"detail"}]}
+{"label":"Interpersonal Skill","pattern":[{"LOWER":"acting"}]}
+{"label":"Interpersonal Skill","pattern":[{"LOWER":"active"},{"LOWER":"listening"}]}
 {"label":"SKILL|active-appearance-model","pattern":[{"LOWER":"active"},{"LOWER":"appearance"},{"LOWER":"model"}]}
 {"label":"SKILL|active-database","pattern":[{"LOWER":"active"},{"LOWER":"database"}]}
 {"label":"SKILL|active-networking","pattern":[{"LOWER":"active"},{"LOWER":"networking"}]}
@@ -41,7 +47,7 @@
 {"label":"SKILL|algorithm","pattern":[{"LOWER":"algorithms"}]}
 {"label":"SKILL|algorithm","pattern":[{"LOWER":"algorithm"}]}
 {"label":"SKILL|algorithm-design","pattern":[{"LOWER":"algorithm"},{"LOWER":"design"}]}
-{"label":"SKILL|alpine-linux","pattern":[{"LOWER":"alpine"},{"LOWER":"linux"}]}
+{"label":"Tools & Technologies","pattern":[{"LOWER":"alpine"},{"LOWER":"linux"}]}
 {"label":"Tools & Technologies","pattern":[{"LOWER":"amazon"},{"LOWER":"api"},{"LOWER":"gateway"}]}
 {"label":"Tools & Technologies","pattern":[{"LOWER":"amazon"},{"LOWER":"athena"}]}
 {"label":"Tools & Technologies","pattern":[{"LOWER":"amazon"},{"LOWER":"cloudfront"}]}
@@ -97,8 +103,8 @@
 {"label":"Tools & Technologies","pattern":[{"LOWER":"apache"},{"LOWER":"spark"}]}
 {"label":"Tools & Technologies","pattern":[{"LOWER":"apache"},{"LOWER":"tomcat"}]}
 {"label":"Tools & Technologies","pattern":[{"LOWER":"apache"},{"LOWER":"zeppelin"}]}
-{"label":"SKILL|api","pattern":[{"TEXT":"API"}]}
-{"label":"SKILL|api","pattern":[{"TEXT":"APIs"}]}
+{"label":"Tools & Technologies","pattern":[{"TEXT":"API"}]}
+{"label":"Tools & Technologies","pattern":[{"TEXT":"APIs"}]}
 {"label":"SKILL|api-documentation-browser","pattern":[{"LOWER":"api"},{"LOWER":"documentation"},{"LOWER":"browser"}]}
 {"label":"SKILL|api-tools","pattern":[{"LOWER":"api"},{"LOWER":"tools"}]}
 {"label":"SKILL|api.ai","pattern":[{"LOWER":"api.ai"}]}
@@ -126,13 +132,13 @@
 {"label":"Industry Knowledge","pattern":[{"LOWER":"ai"}]}
 {"label":"Industry Knowledge","pattern":[{"LOWER":"artificial"},{"LOWER":"intelligence"}]}
 {"label":"Industry Knowledge","pattern":[{"LOWER":"artificial"},{"LOWER":"neural"},{"LOWER":"network"}]}
-{"label":"SKILL|asana","pattern":[{"LOWER":"asana"}]}
-{"label":"SKILL|asp.net","pattern":[{"TEXT":"ASP.NET"}]}
-{"label":"SKILL|asp.net","pattern":[{"LOWER":"asp"},{"LOWER":"net"}]}
+{"label":"Tools & Technologies","pattern":[{"LOWER":"asana"}]}
+{"label":"Tools & Technologies","pattern":[{"TEXT":"ASP.NET"}]}
+{"label":"Tools & Technologies","pattern":[{"LOWER":"asp"},{"LOWER":"net"}]}
 {"label":"SKILL|aspect-oriented-programming","pattern":[{"LOWER":"aspect-oriented"},{"LOWER":"programming"}]}
 {"label":"SKILL|aspect-oriented-programming","pattern":[{"LOWER":"aspect"},{"LOWER":"oriented programming"}]}
-{"label":"SKILL|aspnet","pattern":[{"TEXT":"ASP.NET"}]}
-{"label":"SKILL|aspnet","pattern":[{"LOWER":"asp"},{"LOWER":"net"}]}
+{"label":"Tools & Technologies","pattern":[{"TEXT":"ASP.NET"}]}
+{"label":"Tools & Technologies","pattern":[{"LOWER":"asp"},{"LOWER":"net"}]}
 {"label":"SKILL|assets-and-media","pattern":[{"LOWER":"assets"},{"LOWER":"and"},{"LOWER":"media"}]}
 {"label":"SKILL|association-rule-learning","pattern":[{"LOWER":"association"},{"LOWER":"rule"},{"LOWER":"learning"}]}
 {"label":"SKILL|asynchronous-communication","pattern":[{"LOWER":"asynchronous"},{"LOWER":"communication"}]}
@@ -247,17 +253,17 @@
 {"label":"SKILL|buildkite","pattern":[{"LOWER":"buildkite"}]}
 {"label":"SKILL|built-in-self-test","pattern":[{"LOWER":"built-in"},{"LOWER":"self-test"}]}
 {"label":"SKILL|built-in-self-test","pattern":[{"LOWER":"built"},{"LOWER":"in self"},{"LOWER":"test"}]}
-{"label":"SKILL|bulma","pattern":[{"LOWER":"bulma"}]}
-{"label":"SKILL|business","pattern":[{"LOWER":"business"}]}
-{"label":"SKILL|business-administration","pattern":[{"LOWER":"business"},{"LOWER":"administration"}]}
+{"label":"Tools & Technologies","pattern":[{"LOWER":"bulma"}]}
+{"label":"Industry Knowledge","pattern":[{"LOWER":"business"}]}
+{"label":"Interpersonal Skill","pattern":[{"LOWER":"business"},{"LOWER":"acumen"}]}
+{"label":"Industry Knowledge","pattern":[{"LOWER":"business"},{"LOWER":"administration"}]}
 {"label":"SKILL|business-dashboards","pattern":[{"LOWER":"business"},{"LOWER":"dashboards"}]}
-{"label":"SKILL|business-intelligence","pattern":[{"LOWER":"business"},{"LOWER":"intelligence"}]}
-{"label":"SKILL|business-intelligence","pattern":[{"LOWER":"business"},{"LOWER":"intelligence"}]}
-{"label":"SKILL|business-process","pattern":[{"LOWER":"business"},{"LOWER":"process"}]}
-{"label":"SKILL|business-tools","pattern":[{"LOWER":"business"},{"LOWER":"tools"}]}
-{"label":"SKILL|business-analysis","pattern":[{"LOWER":"business"},{"LOWER":"analysis"}]}
-{"label":"Industry Knowledge","pattern":[{"LOWER":"business"},{"LOWER":"transformation"}]}
+{"label":"Industry Knowledge","pattern":[{"LOWER":"business"},{"LOWER":"intelligence"}]}
 {"label":"Industry Knowledge","pattern":[{"LOWER":"business"},{"LOWER":"process"}]}
+{"label":"Industry Knowledge","pattern":[{"LOWER":"business"},{"LOWER":"processes"}]}
+{"label":"SKILL|business-tools","pattern":[{"LOWER":"business"},{"LOWER":"tools"}]}
+{"label":"Industry Knowledge","pattern":[{"LOWER":"business"},{"LOWER":"analysis"}]}
+{"label":"Industry Knowledge","pattern":[{"LOWER":"business"},{"LOWER":"transformation"}]}
 {"label":"Tools & Technologies","pattern":[{"TEXT":"C++"}]}
 {"label":"Tools & Technologies","pattern":[{"TEXT":"C"}]}
 {"label":"Tools & Technologies","pattern":[{"LOWER":"c3.js"}]}
@@ -275,12 +281,13 @@
 {"label":"Tools & Technologies","pattern":[{"LOWER":"cdnjs"}]}
 {"label":"Tools & Technologies","pattern":[{"LOWER":"celery"}]}
 {"label":"SKILL|cellular-network","pattern":[{"LOWER":"cellular"},{"LOWER":"network"}]}
-{"label":"SKILL|centos","pattern":[{"LOWER":"centos"}]}
+{"label":"Tools & Technologies","pattern":[{"LOWER":"centos"}]}
 {"label":"SKILL|central-processing-unit","pattern":[{"LOWER":"central"},{"LOWER":"processing"},{"LOWER":"unit"}]}
 {"label":"SKILL|cepstrum","pattern":[{"LOWER":"cepstrum"}]}
 {"label":"SKILL|certificate","pattern":[{"LOWER":"certificate"}]}
 {"label":"SKILL|certificate-authority","pattern":[{"LOWER":"certificate"},{"LOWER":"authority"}]}
 {"label":"SKILL|change-detection","pattern":[{"LOWER":"change"},{"LOWER":"detection"}]}
+{"label":"Industry Knowledge","pattern":[{"LOWER":"change"},{"LOWER":"management"}]}
 {"label":"SKILL|chartbeat","pattern":[{"LOWER":"chartbeat"}]}
 {"label":"SKILL|charting-libraries","pattern":[{"LOWER":"charting"},{"LOWER":"libraries"}]}
 {"label":"SKILL|chatbot-platforms--tools","pattern":[{"LOWER":"chatbot"},{"LOWER":"platforms"},{"LOWER":"&"},{"LOWER":"tools"}]}
@@ -288,9 +295,9 @@
 {"label":"SKILL|chef","pattern":[{"LOWER":"chef"}]}
 {"label":"SKILL|chemical-engineering","pattern":[{"LOWER":"chemical"},{"LOWER":"engineering"}]}
 {"label":"SKILL|chemometrics","pattern":[{"LOWER":"chemometrics"}]}
-{"label":"SKILL|chrome","pattern":[{"LOWER":"chrome"}]}
-{"label":"SKILL|chrome-extension","pattern":[{"LOWER":"chrome"},{"LOWER":"extension"}]}
-{"label":"SKILL|circleci","pattern":[{"LOWER":"circleci"}]}
+{"label":"Tools & Technologies","pattern":[{"LOWER":"chrome"}]}
+{"label":"Tools & Technologies","pattern":[{"LOWER":"chrome"},{"LOWER":"extension"}]}
+{"label":"Tools & Technologies","pattern":[{"LOWER":"circleci"}]}
 {"label":"SKILL|circumscription","pattern":[{"LOWER":"circumscription"}]}
 {"label":"SKILL|civil-engineering","pattern":[{"LOWER":"civil"},{"LOWER":"engineering"}]}
 {"label":"SKILL|classical-logic","pattern":[{"LOWER":"classical"},{"LOWER":"logic"}]}
@@ -344,6 +351,7 @@
 {"label":"SKILL|coffeescript","pattern":[{"LOWER":"coffeescript"}]}
 {"label":"SKILL|cognitive-neuroscience-of-visual-object-recognition","pattern":[{"LOWER":"cognitive"},{"LOWER":"neuroscience"},{"LOWER":"of"},{"LOWER":"visual"},{"LOWER":"object"},{"LOWER":"recognition"}]}
 {"label":"Interpersonal Skill","pattern":[{"LOWER":"collaboration"}]}
+{"label":"Interpersonal Skill","pattern":[{"LOWER":"collaborating"},{"LOWER":"globally"},{"TEXT":"&"},{"LOWER":"inclusively"}]}
 {"label":"SKILL|collision","pattern":[{"LOWER":"collision"}]}
 {"label":"SKILL|color-vision","pattern":[{"LOWER":"color"},{"LOWER":"vision"}]}
 {"label":"SKILL|colorimetry","pattern":[{"LOWER":"colorimetry"}]}
@@ -404,7 +412,8 @@
 {"label":"SKILL|conditional-random-field","pattern":[{"LOWER":"conditional"},{"LOWER":"random"},{"LOWER":"field"}]}
 {"label":"SKILL|conductor","pattern":[{"LOWER":"conductor"}]}
 {"label":"SKILL|confirmatory-factor-analysis","pattern":[{"LOWER":"confirmatory"},{"LOWER":"factor"},{"LOWER":"analysis"}]}
-{"label":"SKILL|confluence","pattern":[{"LOWER":"confluence"}]}
+{"label":"Tools & Technologies","pattern":[{"LOWER":"confluence"}]}
+{"label":"Industry Knowledge","pattern":[{"LOWER":"consulting"}]}
 {"label":"SKILL|consistency-model","pattern":[{"LOWER":"consistency"},{"LOWER":"model"}]}
 {"label":"SKILL|constant-false-alarm-rate","pattern":[{"LOWER":"constant"},{"LOWER":"false"},{"LOWER":"alarm"},{"LOWER":"rate"}]}
 {"label":"SKILL|construction-engineering","pattern":[{"LOWER":"construction"},{"LOWER":"engineering"}]}
@@ -417,9 +426,8 @@
 {"label":"SKILL|context-free-language","pattern":[{"LOWER":"context"},{"LOWER":"free language"}]}
 {"label":"SKILL|contextual-query-language","pattern":[{"LOWER":"contextual"},{"LOWER":"query"},{"LOWER":"language"}]}
 {"label":"SKILL|contingency-table","pattern":[{"LOWER":"contingency"},{"LOWER":"table"}]}
-{"label":"SKILL|continuous-deployment","pattern":[{"LOWER":"continuous"},{"LOWER":"deployment"}]}
-{"label":"SKILL|continuous-integration","pattern":[{"LOWER":"continuous"},{"LOWER":"integration"}]}
-{"label":"SKILL|continuous-integration","pattern":[{"LOWER":"continuous"},{"LOWER":"integration"}]}
+{"label":"Industry Knowledge","pattern":[{"LOWER":"continuous"},{"LOWER":"deployment"}]}
+{"label":"Industry Knowledge","pattern":[{"LOWER":"continuous"},{"LOWER":"integration"}]}
 {"label":"SKILL|continuum-design-consultancy","pattern":[{"LOWER":"continuum"},{"LOWER":"(design"},{"LOWER":"consultancy)"}]}
 {"label":"SKILL|control-engineering","pattern":[{"LOWER":"control"},{"LOWER":"engineering"}]}
 {"label":"SKILL|control-flow","pattern":[{"LOWER":"control"},{"LOWER":"flow"}]}
@@ -431,7 +439,7 @@
 {"label":"SKILL|coordinate-system","pattern":[{"LOWER":"coordinate"},{"LOWER":"system"}]}
 {"label":"SKILL|copy-protection","pattern":[{"LOWER":"copy"},{"LOWER":"protection"}]}
 {"label":"SKILL|core-network","pattern":[{"LOWER":"core"},{"LOWER":"network"}]}
-{"label":"SKILL|coreos","pattern":[{"LOWER":"coreos"}]}
+{"label":"Tools & Technologies","pattern":[{"LOWER":"coreos"}]}
 {"label":"SKILL|corner-detection","pattern":[{"LOWER":"corner"},{"LOWER":"detection"}]}
 {"label":"SKILL|correctness","pattern":[{"LOWER":"correctness"}]}
 {"label":"SKILL|correlation-coefficient","pattern":[{"LOWER":"correlation"},{"LOWER":"coefficient"}]}
@@ -439,7 +447,7 @@
 {"label":"Tools & Technologies","pattern":[{"LOWER":"couchbase"}]}
 {"label":"Tools & Technologies","pattern":[{"LOWER":"couchdb"}]}
 {"label":"SKILL|coveralls","pattern":[{"LOWER":"coveralls"}]}
-{"label":"SKILL|cpp","pattern":[{"TEXT":"C++"}]}
+{"label":"Tools & Technologies","pattern":[{"TEXT":"C++"}]}
 {"label":"Industry Knowledge","pattern":[{"LOWER":"cisco"},{"LOWER":"product"},{"LOWER":"development"},{"LOWER":"methodology"}]}
 {"label":"Industry Knowledge","pattern":[{"LOWER":"product"},{"LOWER":"lifecycle"},{"LOWER":"management"}]}
 {"label":"Industry Knowledge","pattern":[{"LOWER":"cisco"},{"LOWER":"secure"},{"LOWER":"development"},{"LOWER":"lifecycle"}]}
@@ -479,7 +487,7 @@
 {"label":"SKILL|custom-analytics","pattern":[{"LOWER":"custom"},{"LOWER":"analytics"}]}
 {"label":"SKILL|customer-analytics","pattern":[{"LOWER":"customer"},{"LOWER":"analytics"}]}
 {"label":"Industry Knowledge","pattern":[{"LOWER":"customer"},{"LOWER":"experience"}]}
-{"label":"SKILL|customer-relationship-management","pattern":[{"LOWER":"customer"},{"LOWER":"relationship"},{"LOWER":"management"}]}
+{"label":"Industry Knowledge","pattern":[{"LOWER":"customer"},{"LOWER":"relationship"},{"LOWER":"management"}]}
 {"label":"SKILL|customer-support-chat","pattern":[{"LOWER":"customer"},{"LOWER":"support"},{"LOWER":"chat"}]}
 {"label":"SKILL|cypress","pattern":[{"LOWER":"cypress"}]}
 {"label":"Tools & Technologies","pattern":[{"LOWER":"d3.js"}]}
@@ -488,7 +496,8 @@
 {"label":"SKILL|dash","pattern":[{"LOWER":"dash"}]}
 {"label":"SKILL|data-access","pattern":[{"LOWER":"data"},{"LOWER":"access"}]}
 {"label":"SKILL|data-acquisition","pattern":[{"LOWER":"data"},{"LOWER":"acquisition"}]}
-{"label":"SKILL|data-analysis","pattern":[{"LOWER":"data"},{"LOWER":"analysis"}]}
+{"label":"Industry Knowledge","pattern":[{"LOWER":"data"},{"LOWER":"analysis"}]}
+{"label":"Industry Knowledge","pattern":[{"LOWER":"data"},{"LOWER":"analytics"}]}
 {"label":"SKILL|data-as-a-service","pattern":[{"LOWER":"data"},{"LOWER":"as"},{"LOWER":"a"},{"LOWER":"service"}]}
 {"label":"SKILL|data-center","pattern":[{"LOWER":"data"},{"LOWER":"center"}]}
 {"label":"SKILL|data-classification","pattern":[{"LOWER":"data"},{"LOWER":"classification"}]}
@@ -504,7 +513,7 @@
 {"label":"SKILL|data-logger","pattern":[{"LOWER":"data"},{"LOWER":"logger"}]}
 {"label":"SKILL|data-management","pattern":[{"LOWER":"data"},{"LOWER":"management"}]}
 {"label":"SKILL|data-manipulation-language","pattern":[{"LOWER":"data"},{"LOWER":"manipulation"},{"LOWER":"language"}]}
-{"label":"SKILL|data-mining","pattern":[{"LOWER":"data"},{"LOWER":"mining"}]}
+{"label":"Industry Knowledge","pattern":[{"LOWER":"data"},{"LOWER":"mining"}]}
 {"label":"SKILL|data-model","pattern":[{"LOWER":"data"},{"LOWER":"model"}]}
 {"label":"SKILL|data-modeling","pattern":[{"LOWER":"data"},{"LOWER":"modeling"}]}
 {"label":"SKILL|data-pre-processing","pattern":[{"LOWER":"data"},{"LOWER":"pre-processing"}]}
@@ -513,7 +522,7 @@
 {"label":"SKILL|data-quality","pattern":[{"LOWER":"data"},{"LOWER":"quality"}]}
 {"label":"SKILL|data-reduction","pattern":[{"LOWER":"data"},{"LOWER":"reduction"}]}
 {"label":"SKILL|data-retrieval","pattern":[{"LOWER":"data"},{"LOWER":"retrieval"}]}
-{"label":"SKILL|data-science","pattern":[{"LOWER":"data"},{"LOWER":"science"}]}
+{"label":"Industry Knowledge","pattern":[{"LOWER":"data"},{"LOWER":"science"}]}
 {"label":"SKILL|data-science-notebooks","pattern":[{"LOWER":"data"},{"LOWER":"science"},{"LOWER":"notebooks"}]}
 {"label":"SKILL|data-science-tools","pattern":[{"LOWER":"data"},{"LOWER":"science"},{"LOWER":"tools"}]}
 {"label":"SKILL|data-sharing","pattern":[{"LOWER":"data"},{"LOWER":"sharing"}]}
@@ -550,7 +559,7 @@
 {"label":"SKILL|decomposition-method-constraint-satisfaction","pattern":[{"LOWER":"decomposition"},{"LOWER":"method"},{"LOWER":"(constraint"},{"LOWER":"satisfaction)"}]}
 {"label":"SKILL|dedicated-cloud-hosting","pattern":[{"LOWER":"dedicated"},{"LOWER":"cloud"},{"LOWER":"hosting"}]}
 {"label":"SKILL|deductive-database","pattern":[{"LOWER":"deductive"},{"LOWER":"database"}]}
-{"label":"SKILL|deep-learning","pattern":[{"LOWER":"deep"},{"LOWER":"learning"}]}
+{"label":"Industry Knowledge","pattern":[{"LOWER":"deep"},{"LOWER":"learning"}]}
 {"label":"Industry Knowledge","pattern":[{"LOWER":"defect"},{"LOWER":"analysis"}]}
 {"label":"SKILL|dempstershafer-theory","pattern":[{"LOWER":"dempster\u2013shafer"},{"LOWER":"theory"}]}
 {"label":"SKILL|denial-of-service-attack","pattern":[{"LOWER":"denial-of-service"},{"LOWER":"attack"}]}
@@ -562,7 +571,8 @@
 {"label":"SKILL|deployment","pattern":[{"LOWER":"deployment"}]}
 {"label":"SKILL|deployment-as-a-service","pattern":[{"LOWER":"deployment"},{"LOWER":"as"},{"LOWER":"a"},{"LOWER":"service"}]}
 {"label":"SKILL|description-logic","pattern":[{"LOWER":"description"},{"LOWER":"logic"}]}
-{"label":"SKILL|design","pattern":[{"LOWER":"design"}]}
+{"label":"Industry Knowledge","pattern":[{"LOWER":"design"}]}
+{"label":"Interpersonal Skill","pattern":[{"LOWER":"design"},{"LOWER":"thinking"}]}
 {"label":"SKILL|design-for-testing","pattern":[{"LOWER":"design"},{"LOWER":"for"},{"LOWER":"testing"}]}
 {"label":"SKILL|detection-theory","pattern":[{"LOWER":"detection"},{"LOWER":"theory"}]}
 {"label":"SKILL|deterministic-automaton","pattern":[{"LOWER":"deterministic"},{"LOWER":"automaton"}]}
@@ -598,8 +608,8 @@
 {"label":"SKILL|distributed-memory","pattern":[{"LOWER":"distributed"},{"LOWER":"memory"}]}
 {"label":"SKILL|distributed-object","pattern":[{"LOWER":"distributed"},{"LOWER":"object"}]}
 {"label":"SKILL|divide-and-conquer-algorithms","pattern":[{"LOWER":"divide"},{"LOWER":"and"},{"LOWER":"conquer"},{"LOWER":"algorithms"}]}
-{"label":"SKILL|django","pattern":[{"LOWER":"django"}]}
-{"label":"SKILL|django-rest-framework","pattern":[{"LOWER":"django"},{"LOWER":"rest"},{"LOWER":"framework"}]}
+{"label":"Tools & Technologies","pattern":[{"LOWER":"django"}]}
+{"label":"Tools & Technologies","pattern":[{"LOWER":"django"},{"LOWER":"rest"},{"LOWER":"framework"}]}
 {"label":"SKILL|dns-management","pattern":[{"LOWER":"dns"},{"LOWER":"management"}]}
 {"label":"SKILL|dnsimple","pattern":[{"LOWER":"dnsimple"}]}
 {"label":"Tools & Technologies","pattern":[{"LOWER":"docker"}]}
@@ -629,7 +639,7 @@
 {"label":"Tools & Technologies","pattern":[{"LOWER":"dropbox"}]}
 {"label":"SKILL|dropwizard","pattern":[{"LOWER":"dropwizard"}]}
 {"label":"SKILL|druid","pattern":[{"LOWER":"druid"}]}
-{"label":"SKILL|drupal","pattern":[{"LOWER":"drupal"}]}
+{"label":"Tools & Technologies","pattern":[{"LOWER":"drupal"}]}
 {"label":"SKILL|duplicate-content","pattern":[{"LOWER":"duplicate"},{"LOWER":"content"}]}
 {"label":"SKILL|durability","pattern":[{"LOWER":"durability"}]}
 {"label":"SKILL|dyn","pattern":[{"LOWER":"dyn"}]}
@@ -656,13 +666,13 @@
 {"label":"SKILL|electronic-engineering","pattern":[{"LOWER":"electronic"},{"LOWER":"engineering"}]}
 {"label":"Tools & Technologies","pattern":[{"LOWER":"elixir"}]}
 {"label":"SKILL|elm","pattern":[{"LOWER":"elm"}]}
-{"label":"SKILL|emacs","pattern":[{"LOWER":"emacs"}]}
+{"label":"Tools & Technologies","pattern":[{"LOWER":"emacs"}]}
 {"label":"SKILL|email-marketing","pattern":[{"LOWER":"email"},{"LOWER":"marketing"}]}
 {"label":"SKILL|email-testing","pattern":[{"LOWER":"email"},{"LOWER":"testing"}]}
 {"label":"SKILL|embedded-system","pattern":[{"LOWER":"embedded"},{"LOWER":"system"}]}
 {"label":"SKILL|ember","pattern":[{"LOWER":"ember"}]}
-{"label":"SKILL|ember.js","pattern":[{"LOWER":"ember.js"}]}
-{"label":"SKILL|ember.js","pattern":[{"LOWER":"ember"},{"LOWER":"js"}]}
+{"label":"Tools & Technologies","pattern":[{"LOWER":"ember.js"}]}
+{"label":"Tools & Technologies","pattern":[{"LOWER":"ember"},{"LOWER":"js"}]}
 {"label":"SKILL|emoji","pattern":[{"LOWER":"emoji"}]}
 {"label":"SKILL|emotion","pattern":[{"LOWER":"emotion"}]}
 {"label":"SKILL|emotion-recognition","pattern":[{"LOWER":"emotion"},{"LOWER":"recognition"}]}
@@ -674,6 +684,7 @@
 {"label":"SKILL|engineering","pattern":[{"LOWER":"engineering"}]}
 {"label":"SKILL|engineering-drawing","pattern":[{"LOWER":"engineering"},{"LOWER":"drawing"}]}
 {"label":"SKILL|engineering-ethics","pattern":[{"LOWER":"engineering"},{"LOWER":"ethics"}]}
+{"label":"Interpersonal Skill","pattern":[{"LOWER":"employee"},{"LOWER":"communications"}]}
 {"label":"SKILL|ensemble-learning","pattern":[{"LOWER":"ensemble"},{"LOWER":"learning"}]}
 {"label":"SKILL|enterprise-information-security-architecture","pattern":[{"LOWER":"enterprise"},{"LOWER":"information"},{"LOWER":"security"},{"LOWER":"architecture"}]}
 {"label":"SKILL|enterprise-system","pattern":[{"LOWER":"enterprise"},{"LOWER":"system"}]}
@@ -687,7 +698,7 @@
 {"label":"SKILL|errors-in-variables-models","pattern":[{"LOWER":"errors-in-variables"},{"LOWER":"models"}]}
 {"label":"SKILL|errors-in-variables-models","pattern":[{"LOWER":"errors"},{"LOWER":"in"},{"LOWER":"variables models"}]}
 {"label":"Tools & Technologies","pattern":[{"TEXT":"ES6"}]}
-{"label":"SKILL|eslint","pattern":[{"LOWER":"eslint"}]}
+{"label":"Tools & Technologies","pattern":[{"LOWER":"eslint"}]}
 {"label":"SKILL|espace","pattern":[{"TEXT":"ESPACE"}]}
 {"label":"SKILL|etcd","pattern":[{"LOWER":"etcd"}]}
 {"label":"SKILL|ethereum","pattern":[{"LOWER":"ethereum"}]}
@@ -695,14 +706,15 @@
 {"label":"SKILL|euclidean-distance","pattern":[{"LOWER":"euclidean"},{"LOWER":"distance"}]}
 {"label":"SKILL|eureka","pattern":[{"LOWER":"eureka"}]}
 {"label":"SKILL|evolutionary-algorithm","pattern":[{"LOWER":"evolutionary"},{"LOWER":"algorithm"}]}
+{"label":"Interpersonal Skill","pattern":[{"LOWER":"executive"},{"LOWER":"coaching"}]}
 {"label":"SKILL|exact-algorithm","pattern":[{"LOWER":"exact"},{"LOWER":"algorithm"}]}
 {"label":"SKILL|exception-monitoring","pattern":[{"LOWER":"exception"},{"LOWER":"monitoring"}]}
 {"label":"SKILL|expander-graph","pattern":[{"LOWER":"expander"},{"LOWER":"graph"}]}
 {"label":"SKILL|expectationmaximization-algorithm","pattern":[{"LOWER":"expectation\u2013maximization"},{"LOWER":"algorithm"}]}
 {"label":"SKILL|expert-system","pattern":[{"LOWER":"expert"},{"LOWER":"system"}]}
 {"label":"SKILL|exploratory-data-analysis","pattern":[{"LOWER":"exploratory"},{"LOWER":"data"},{"LOWER":"analysis"}]}
-{"label":"SKILL|expressjs","pattern":[{"LOWER":"express"},{"LOWER":"js"}]}
-{"label":"SKILL|expressjs","pattern":[{"LOWER":"expressjs"}]}
+{"label":"Tools & Technologies","pattern":[{"LOWER":"express"},{"LOWER":"js"}]}
+{"label":"Tools & Technologies","pattern":[{"LOWER":"expressjs"}]}
 {"label":"SKILL|external-data-representation","pattern":[{"LOWER":"external"},{"LOWER":"data"},{"LOWER":"representation"}]}
 {"label":"SKILL|eye-movement","pattern":[{"LOWER":"eye"},{"LOWER":"movement"}]}
 {"label":"SKILL|eye-tracking","pattern":[{"LOWER":"eye"},{"LOWER":"tracking"}]}
@@ -730,7 +742,7 @@
 {"label":"SKILL|field-of-view","pattern":[{"LOWER":"field"},{"LOWER":"of"},{"LOWER":"view"}]}
 {"label":"SKILL|field-programmable-gate-array","pattern":[{"LOWER":"field-programmable"},{"LOWER":"gate"},{"LOWER":"array"}]}
 {"label":"SKILL|field-programmable-gate-array","pattern":[{"LOWER":"field"},{"LOWER":"programmable gate array"}]}
-{"label":"SKILL|figma","pattern":[{"LOWER":"figma"}]}
+{"label":"Tools & Technologies","pattern":[{"LOWER":"figma"}]}
 {"label":"SKILL|figure-of-merit","pattern":[{"LOWER":"figure"},{"LOWER":"of"},{"LOWER":"merit"}]}
 {"label":"SKILL|file-format","pattern":[{"LOWER":"file"},{"LOWER":"format"}]}
 {"label":"SKILL|file-storage","pattern":[{"LOWER":"file"},{"LOWER":"storage"}]}
@@ -747,7 +759,7 @@
 {"label":"SKILL|finite-state-machine","pattern":[{"LOWER":"finite-state"},{"LOWER":"machine"}]}
 {"label":"SKILL|finite-state-machine","pattern":[{"LOWER":"finite"},{"LOWER":"state machine"}]}
 {"label":"SKILL|firebase","pattern":[{"LOWER":"firebase"}]}
-{"label":"SKILL|firefox","pattern":[{"LOWER":"firefox"}]}
+{"label":"Tools & Technologies","pattern":[{"LOWER":"firefox"}]}
 {"label":"SKILL|first-class","pattern":[{"LOWER":"first"},{"LOWER":"class"}]}
 {"label":"SKILL|first-order-logic","pattern":[{"LOWER":"first-order"},{"LOWER":"logic"}]}
 {"label":"SKILL|first-order-logic","pattern":[{"LOWER":"first"},{"LOWER":"order logic"}]}
@@ -761,7 +773,7 @@
 {"label":"SKILL|flow-type","pattern":[{"LOWER":"flow"},{"LOWER":"type"}]}
 {"label":"SKILL|fluentd","pattern":[{"LOWER":"fluentd"}]}
 {"label":"SKILL|flurry","pattern":[{"LOWER":"flurry"}]}
-{"label":"SKILL|flutter","pattern":[{"LOWER":"flutter"}]}
+{"label":"Tools & Technologies","pattern":[{"LOWER":"flutter"}]}
 {"label":"SKILL|flux","pattern":[{"LOWER":"flux"}]}
 {"label":"SKILL|flyway","pattern":[{"LOWER":"flyway"}]}
 {"label":"SKILL|folksonomy","pattern":[{"LOWER":"folksonomy"}]}
@@ -787,8 +799,8 @@
 {"label":"SKILL|front-end-frameworks","pattern":[{"LOWER":"front"},{"LOWER":"end frameworks"}]}
 {"label":"SKILL|front-end-package-manager","pattern":[{"LOWER":"front"},{"LOWER":"end"},{"LOWER":"package"},{"LOWER":"manager"}]}
 {"label":"SKILL|frontend","pattern":[{"TEXT":"front-end"}]}
-{"label":"SKILL|frontend","pattern":"front-end"}
-{"label":"SKILL|backend","pattern":"back-end"}
+{"label":"Industry Knowledge","pattern":"front-end"}
+{"label":"Industry Knowledge","pattern":"back-end"}
 {"label":"SKILL|fullstory","pattern":[{"LOWER":"fullstory"}]}
 {"label":"SKILL|functional-dependency","pattern":[{"LOWER":"functional"},{"LOWER":"dependency"}]}
 {"label":"SKILL|functional-programming","pattern":[{"LOWER":"functional"},{"LOWER":"programming"}]}
@@ -864,7 +876,7 @@
 {"label":"SKILL|google-tag-manager","pattern":[{"LOWER":"google"},{"LOWER":"tag"},{"LOWER":"manager"}]}
 {"label":"SKILL|gradient-descent","pattern":[{"LOWER":"gradient"},{"LOWER":"descent"}]}
 {"label":"SKILL|gradle","pattern":[{"LOWER":"gradle"}]}
-{"label":"SKILL|grafana","pattern":[{"LOWER":"grafana"}]}
+{"label":"Tools & Technologies","pattern":[{"LOWER":"grafana"}]}
 {"label":"SKILL|grails","pattern":[{"LOWER":"grails"}]}
 {"label":"SKILL|grape","pattern":[{"LOWER":"grape"}]}
 {"label":"SKILL|graph-databases","pattern":[{"LOWER":"graph"},{"LOWER":"databases"}]}
@@ -935,6 +947,15 @@
 {"label":"SKILL|hosted-blogging-platforms","pattern":[{"LOWER":"hosted"},{"LOWER":"blogging"},{"LOWER":"platforms"}]}
 {"label":"SKILL|hotjar","pattern":[{"LOWER":"hotjar"}]}
 {"label":"SKILL|hough-transform","pattern":[{"LOWER":"hough"},{"LOWER":"transform"}]}
+{"label":"Industry Knowledge","pattern":[{"LOWER":"hr"},{"LOWER":"consulting"}]}
+{"label":"Industry Knowledge","pattern":[{"LOWER":"hr"},{"LOWER":"strategy"}]}
+{"label":"Industry Knowledge","pattern":[{"LOWER":"hr"},{"LOWER":"transformation"}]}
+{"label":"Industry Knowledge","pattern":[{"LOWER":"hr"},{"LOWER":"policies"}]}
+{"label":"Interpersonal Skill","pattern":[{"LOWER":"hr"},{"LOWER":"metrics"}]}
+{"label":"Tools & Technologies","pattern":[{"LOWER":"human"},{"LOWER":"resource"},{"LOWER":"information"},{"LOWER":"system"}]}
+{"label":"Tools & Technologies","pattern":[{"LOWER":"human"},{"LOWER":"resource"},{"LOWER":"management"},{"LOWER":"system"}]}
+{"label":"Tools & Technologies","pattern":[{"TEXT":"hris"}]}
+{"label":"Tools & Technologies","pattern":[{"TEXT":"hrms"}]}
 {"label":"Tools & Technologies","pattern":[{"TEXT":"HTML"}]}
 {"label":"Tools & Technologies","pattern":[{"TEXT":"HTML5"}]}
 {"label":"SKILL|http","pattern":[{"TEXT":"HTTP"}]}
@@ -1117,6 +1138,10 @@
 {"label":"SKILL|latex","pattern":[{"LOWER":"latex"}]}
 {"label":"SKILL|layout-engine","pattern":[{"LOWER":"layout"},{"LOWER":"engine"}]}
 {"label":"SKILL|leaflet","pattern":[{"LOWER":"leaflet"}]}
+{"label":"Industry Knowledge","pattern":[{"LOWER":"learning"},{"LOWER":"management"}]}
+{"label":"Tools & Technologies","pattern":[{"LOWER":"learning"},{"LOWER":"management"},{"LOWER":"system"}]}
+{"label":"Tools & Technologies","pattern":[{"LOWER":"learning"},{"LOWER":"management"},{"LOWER":"systems"}]}
+{"label":"Industry Knowledge","pattern":[{"LOWER":"hr"},{"LOWER":"transformation"}]}
 {"label":"SKILL|least-squares","pattern":[{"LOWER":"least"},{"LOWER":"squares"}]}
 {"label":"SKILL|legal-information-retrieval","pattern":[{"LOWER":"legal"},{"LOWER":"information"},{"LOWER":"retrieval"}]}
 {"label":"SKILL|lets-encrypt","pattern":[{"LOWER":"let's"},{"LOWER":"encrypt"}]}
@@ -1425,15 +1450,15 @@
 {"label":"SKILL|open-postgresql-monitoring","pattern":[{"LOWER":"open"},{"LOWER":"postgresql"},{"LOWER":"monitoring"}]}
 {"label":"SKILL|open-source-cloud","pattern":[{"LOWER":"open"},{"LOWER":"source"},{"LOWER":"cloud"}]}
 {"label":"SKILL|open-source-service-discovery","pattern":[{"LOWER":"open"},{"LOWER":"source"},{"LOWER":"service"},{"LOWER":"discovery"}]}
-{"label":"SKILL|opencv","pattern":[{"LOWER":"opencv"}]}
-{"label":"SKILL|opengl","pattern":[{"LOWER":"opengl"}]}
+{"label":"Tools & Technologies","pattern":[{"LOWER":"opencv"}]}
+{"label":"Tools & Technologies","pattern":[{"LOWER":"opengl"}]}
 {"label":"SKILL|openlayers","pattern":[{"LOWER":"openlayers"}]}
 {"label":"SKILL|openresty","pattern":[{"LOWER":"openresty"}]}
 {"label":"Tools & Technologies","pattern":[{"LOWER":"openshift"}]}
 {"label":"Tools & Technologies","pattern":[{"LOWER":"openstack"}]}
 {"label":"Tools & Technologies","pattern":[{"LOWER":"opensuse"}]}
-{"label":"SKILL|operating-system","pattern":[{"LOWER":"operating"},{"LOWER":"system"}]}
-{"label":"SKILL|operating-systems","pattern":[{"LOWER":"operating"},{"LOWER":"systems"}]}
+{"label":"Tools & Technologies","pattern":[{"LOWER":"operating"},{"LOWER":"system"}]}
+{"label":"Tools & Technologies","pattern":[{"LOWER":"operating"},{"LOWER":"systems"}]}
 {"label":"SKILL|operational-transformation","pattern":[{"LOWER":"operational"},{"LOWER":"transformation"}]}
 {"label":"SKILL|operations-management","pattern":[{"LOWER":"operations"},{"LOWER":"management"}]}
 {"label":"SKILL|operations-research","pattern":[{"LOWER":"operations"},{"LOWER":"research"}]}
@@ -1447,6 +1472,8 @@
 {"label":"SKILL|optimization-problem","pattern":[{"LOWER":"optimization"},{"LOWER":"problem"}]}
 {"label":"SKILL|optimizely","pattern":[{"LOWER":"optimizely"}]}
 {"label":"SKILL|oracle","pattern":[{"LOWER":"oracle"}]}
+{"label":"Interpersonal Skill","pattern":[{"LOWER":"organizational"},{"LOWER":"development"}]}
+{"label":"Interpersonal Skill","pattern":[{"LOWER":"organizational"},{"LOWER":"analysis"}]}
 {"label":"SKILL|outlier","pattern":[{"LOWER":"outlier"}]}
 {"label":"SKILL|overlay-network","pattern":[{"LOWER":"overlay"},{"LOWER":"network"}]}
 {"label":"SKILL|ovh","pattern":[{"TEXT":"OVH"}]}
@@ -1556,8 +1583,7 @@
 {"label":"SKILL|programming--code-analytics","pattern":[{"LOWER":"programming"},{"LOWER":"&"},{"LOWER":"code"},{"LOWER":"analytics"}]}
 {"label":"SKILL|programming-language","pattern":[{"LOWER":"programming"},{"LOWER":"language"}]}
 {"label":"SKILL|programming-paradigm","pattern":[{"LOWER":"programming"},{"LOWER":"paradigm"}]}
-{"label":"SKILL|project-management","pattern":[{"LOWER":"project"},{"LOWER":"management"}]}
-{"label":"SKILL|project-management","pattern":[{"LOWER":"project"},{"LOWER":"management"}]}
+{"label":"Industry Knowledge","pattern":[{"LOWER":"project"},{"LOWER":"management"}]}
 {"label":"SKILL|prolog","pattern":[{"LOWER":"prolog"}]}
 {"label":"Tools & Technologies","pattern":[{"LOWER":"prometheus"}]}
 {"label":"SKILL|propagation-delay","pattern":[{"LOWER":"propagation"},{"LOWER":"delay"}]}
@@ -1749,11 +1775,11 @@
 {"label":"SKILL|secure-communication","pattern":[{"LOWER":"secure"},{"LOWER":"communication"}]}
 {"label":"SKILL|secure-multi-party-computation","pattern":[{"LOWER":"secure"},{"LOWER":"multi-party"},{"LOWER":"computation"}]}
 {"label":"SKILL|secure-multi-party-computation","pattern":[{"LOWER":"secure multi"},{"LOWER":"party computation"}]}
-{"label":"SKILL|security","pattern":[{"LOWER":"security"}]}
+{"label":"Industry Knowledge","pattern":[{"LOWER":"security"}]}
 {"label":"SKILL|seesaw","pattern":[{"LOWER":"seesaw"}]}
 {"label":"SKILL|segment","pattern":[{"LOWER":"segment"}]}
 {"label":"SKILL|segmentation","pattern":[{"LOWER":"segmentation"}]}
-{"label":"SKILL|selenium","pattern":[{"LOWER":"selenium"}]}
+{"label":"Tools & Technologies","pattern":[{"LOWER":"selenium"}]}
 {"label":"SKILL|self-hosted-blogging--cms","pattern":[{"LOWER":"self-hosted"},{"LOWER":"blogging"},{"LOWER":"/"},{"LOWER":"cms"}]}
 {"label":"SKILL|self-hosted-blogging--cms","pattern":[{"LOWER":"self-hosted blogging "},{"LOWER":" cms"}]}
 {"label":"SKILL|self-hosted-blogging--cms","pattern":[{"LOWER":"self"},{"LOWER":"hosted blogging / cms"}]}
@@ -1815,7 +1841,7 @@
 {"label":"SKILL|skeleton","pattern":[{"LOWER":"skeleton"}]}
 {"label":"SKILL|skeleton-computer-programming","pattern":[{"LOWER":"skeleton"},{"LOWER":"(computer"},{"LOWER":"programming)"}]}
 {"label":"SKILL|sketch","pattern":[{"LOWER":"sketch"}]}
-{"label":"SKILL|skype","pattern":[{"LOWER":"skype"}]}
+{"label":"Tools & Technologies","pattern":[{"LOWER":"skype"}]}
 {"label":"Tools & Technologies","pattern":[{"LOWER":"slack"}]}
 {"label":"SKILL|sliding-window-protocol","pattern":[{"LOWER":"sliding"},{"LOWER":"window"},{"LOWER":"protocol"}]}
 {"label":"SKILL|slim","pattern":[{"LOWER":"slim"}]}
@@ -1831,14 +1857,14 @@
 {"label":"SKILL|socket.io","pattern":[{"LOWER":"socket.io"}]}
 {"label":"SKILL|socket.io","pattern":[{"LOWER":"socket"},{"LOWER":"io"}]}
 {"label":"SKILL|softlayer","pattern":[{"LOWER":"softlayer"}]}
-{"label":"SKILL|software","pattern":[{"LOWER":"software"}]}
+{"label":"Industry Knowledge","pattern":[{"LOWER":"software"}]}
 {"label":"Industry Knowledge","pattern":[{"LOWER":"software"},{"LOWER":"systems"}]}
 {"label":"SKILL|software-agent","pattern":[{"LOWER":"software"},{"LOWER":"agent"}]}
 {"label":"SKILL|software-defined-radio","pattern":[{"LOWER":"software-defined"},{"LOWER":"radio"}]}
 {"label":"SKILL|software-defined-radio","pattern":[{"LOWER":"software"},{"LOWER":"defined radio"}]}
 {"label":"SKILL|software-engineering","pattern":[{"LOWER":"software"},{"LOWER":"engineering"}]}
 {"label":"SKILL|solid-modeling","pattern":[{"LOWER":"solid"},{"LOWER":"modeling"}]}
-{"label":"SKILL|solr","pattern":[{"LOWER":"solr"}]}
+{"label":"Tools & Technologies","pattern":[{"LOWER":"solr"}]}
 {"label":"SKILL|sonar","pattern":[{"LOWER":"sonar"}]}
 {"label":"SKILL|sonarqube","pattern":[{"LOWER":"sonarqube"}]}
 {"label":"SKILL|sonatype-nexus","pattern":[{"LOWER":"sonatype"},{"LOWER":"nexus"}]}
@@ -1865,15 +1891,15 @@
 {"label":"SKILL|sphinx","pattern":[{"LOWER":"sphinx"}]}
 {"label":"SKILL|spread-spectrum","pattern":[{"LOWER":"spread"},{"LOWER":"spectrum"}]}
 {"label":"SKILL|spreadsheets-as-a-backend","pattern":[{"LOWER":"spreadsheets"},{"LOWER":"as"},{"LOWER":"a"},{"LOWER":"backend"}]}
-{"label":"SKILL|spreadsheets-online","pattern":[{"LOWER":"spreadsheets"},{"LOWER":"online"}]}
+{"label":"Tools & Technologies","pattern":[{"LOWER":"spreadsheets"},{"LOWER":"online"}]}
 {"label":"SKILL|spree","pattern":[{"LOWER":"spree"}]}
 {"label":"SKILL|spring","pattern":[{"LOWER":"spring"}]}
-{"label":"SKILL|spring-boot","pattern":[{"LOWER":"spring-boot"}]}
-{"label":"SKILL|spring-boot","pattern":[{"LOWER":"spring"},{"LOWER":"boot"}]}
-{"label":"SKILL|spring-boot","pattern":[{"LOWER":"spring"},{"LOWER":"boot"}]}
-{"label":"SKILL|spring-cloud","pattern":[{"LOWER":"spring"},{"LOWER":"cloud"}]}
+{"label":"Tools & Technologies","pattern":[{"LOWER":"spring-boot"}]}
+{"label":"Tools & Technologies","pattern":[{"LOWER":"spring"},{"LOWER":"boot"}]}
+{"label":"Tools & Technologies","pattern":[{"LOWER":"spring"},{"LOWER":"boot"}]}
+{"label":"Tools & Technologies","pattern":[{"LOWER":"spring"},{"LOWER":"cloud"}]}
 {"label":"Tools & Technologies","pattern":[{"TEXT":"SQL"}]}
-{"label":"SKILL|sql-database-as-a-service","pattern":[{"LOWER":"sql"},{"LOWER":"database"},{"LOWER":"as"},{"LOWER":"a"},{"LOWER":"service"}]}
+{"label":"Tools & Technologies","pattern":[{"LOWER":"sql"},{"LOWER":"database"},{"LOWER":"as"},{"LOWER":"a"},{"LOWER":"service"}]}
 {"label":"Tools & Technologies","pattern":[{"LOWER":"sqlalchemy"}]}
 {"label":"Tools & Technologies","pattern":[{"LOWER":"sqlite"}]}
 {"label":"SKILL|squarespace","pattern":[{"LOWER":"squarespace"}]}
@@ -1938,12 +1964,13 @@
 {"label":"SKILL|system-integration","pattern":[{"LOWER":"system"},{"LOWER":"integration"}]}
 {"label":"SKILL|system-on-a-chip","pattern":[{"LOWER":"system"},{"LOWER":"on"},{"LOWER":"a"},{"LOWER":"chip"}]}
 {"label":"SKILL|system-testing","pattern":[{"LOWER":"system"},{"LOWER":"testing"}]}
-{"label":"SKILL|systems-engineering","pattern":[{"LOWER":"systems"},{"LOWER":"engineering"}]}
+{"label":"Industry Knowledge","pattern":[{"LOWER":"systems"},{"LOWER":"engineering"}]}
 {"label":"SKILL|systems-management","pattern":[{"LOWER":"systems"},{"LOWER":"management"}]}
 {"label":"SKILL|table-information","pattern":[{"LOWER":"table"},{"LOWER":"(information)"}]}
-{"label":"SKILL|tableau","pattern":[{"LOWER":"tableau"}]}
+{"label":"Tools & Technologies","pattern":[{"LOWER":"tableau"}]}
 {"label":"SKILL|tabu-search","pattern":[{"LOWER":"tabu"},{"LOWER":"search"}]}
-{"label":"SKILL|tailwind-css","pattern":[{"LOWER":"tailwind"},{"LOWER":"css"}]}
+{"label":"Tools & Technologies","pattern":[{"LOWER":"tailwind"},{"LOWER":"css"}]}
+{"label":"Interpersonal Skill","pattern":[{"LOWER":"talent"},{"LOWER":"management"}]}
 {"label":"SKILL|task-management","pattern":[{"LOWER":"task"},{"LOWER":"management"}]}
 {"label":"SKILL|teamcity","pattern":[{"LOWER":"teamcity"}]}
 {"label":"SKILL|technological-change","pattern":[{"LOWER":"technological"},{"LOWER":"change"}]}
@@ -1956,10 +1983,9 @@
 {"label":"SKILL|template-matching","pattern":[{"LOWER":"template"},{"LOWER":"matching"}]}
 {"label":"SKILL|templating-languages--extensions","pattern":[{"LOWER":"templating"},{"LOWER":"languages"},{"LOWER":"&"},{"LOWER":"extensions"}]}
 {"label":"SKILL|temporal-database","pattern":[{"LOWER":"temporal"},{"LOWER":"database"}]}
-{"label":"SKILL|tensorflow","pattern":[{"LOWER":"tensorflow"}]}
-{"label":"SKILL|tensorflow","pattern":[{"LOWER":"tensorflow"}]}
+{"label":"Tools & Technologies","pattern":[{"LOWER":"tensorflow"}]}
 {"label":"SKILL|terminal","pattern":[{"LOWER":"terminal"}]}
-{"label":"SKILL|terraform","pattern":[{"LOWER":"terraform"}]}
+{"label":"Tools & Technologies","pattern":[{"LOWER":"terraform"}]}
 {"label":"SKILL|testflight","pattern":[{"LOWER":"testflight"}]}
 {"label":"SKILL|testing","pattern":[{"LOWER":"testing"}]}
 {"label":"SKILL|testing-frameworks","pattern":[{"LOWER":"testing"},{"LOWER":"frameworks"}]}
@@ -2015,14 +2041,14 @@
 {"label":"SKILL|triangulation-social-science","pattern":[{"LOWER":"triangulation"},{"LOWER":"(social"},{"LOWER":"science)"}]}
 {"label":"SKILL|turing-machine","pattern":[{"LOWER":"turing"},{"LOWER":"machine"}]}
 {"label":"SKILL|twilio","pattern":[{"LOWER":"twilio"}]}
-{"label":"SKILL|twitter","pattern":[{"LOWER":"twitter"}]}
+{"label":"Tools & Technologies","pattern":[{"LOWER":"twitter"}]}
 {"label":"SKILL|type-inference","pattern":[{"LOWER":"type"},{"LOWER":"inference"}]}
 {"label":"SKILL|type-theory","pattern":[{"LOWER":"type"},{"LOWER":"theory"}]}
-{"label":"SKILL|typeform","pattern":[{"LOWER":"typeform"}]}
-{"label":"SKILL|typescript","pattern":[{"LOWER":"typescript"}]}
+{"label":"Tools & Technologies","pattern":[{"LOWER":"typeform"}]}
+{"label":"Tools & Technologies","pattern":[{"LOWER":"typescript"}]}
 {"label":"SKILL|ubiquitous-computing","pattern":[{"LOWER":"ubiquitous"},{"LOWER":"computing"}]}
-{"label":"SKILL|ubuntu","pattern":[{"LOWER":"ubuntu"}]}
-{"label":"SKILL|uglifyjs","pattern":[{"LOWER":"uglifyjs"}]}
+{"label":"Tools & Technologies","pattern":[{"LOWER":"ubuntu"}]}
+{"label":"Tools & Technologies","pattern":[{"LOWER":"uglifyjs"}]}
 {"label":"SKILL|uikit","pattern":[{"LOWER":"uikit"}]}
 {"label":"SKILL|uncertain-data","pattern":[{"LOWER":"uncertain"},{"LOWER":"data"}]}
 {"label":"SKILL|underscore","pattern":[{"LOWER":"underscore"}]}
@@ -2030,7 +2056,7 @@
 {"label":"SKILL|unified-medical-language-system","pattern":[{"LOWER":"unified"},{"LOWER":"medical"},{"LOWER":"language"},{"LOWER":"system"}]}
 {"label":"SKILL|unified-modeling-language","pattern":[{"LOWER":"unified"},{"LOWER":"modeling"},{"LOWER":"language"}]}
 {"label":"SKILL|unity","pattern":[{"LOWER":"unity"}]}
-{"label":"SKILL|unreal-engine","pattern":[{"LOWER":"unreal"},{"LOWER":"engine"}]}
+{"label":"Tools & Technologies","pattern":[{"LOWER":"unreal"},{"LOWER":"engine"}]}
 {"label":"SKILL|unsupervised-learning","pattern":[{"LOWER":"unsupervised"},{"LOWER":"learning"}]}
 {"label":"SKILL|uppy","pattern":[{"LOWER":"uppy"}]}
 {"label":"SKILL|uptime-robot","pattern":[{"LOWER":"uptime"},{"LOWER":"robot"}]}
@@ -2050,7 +2076,7 @@
 {"label":"SKILL|video-processing","pattern":[{"LOWER":"video"},{"LOWER":"processing"}]}
 {"label":"SKILL|video-quality","pattern":[{"LOWER":"video"},{"LOWER":"quality"}]}
 {"label":"SKILL|video-tracking","pattern":[{"LOWER":"video"},{"LOWER":"tracking"}]}
-{"label":"SKILL|vim","pattern":[{"LOWER":"vim"}]}
+{"label":"Tools & Technologies","pattern":[{"LOWER":"vim"}]}
 {"label":"SKILL|virtual-circuit","pattern":[{"LOWER":"virtual"},{"LOWER":"circuit"}]}
 {"label":"SKILL|virtual-machine","pattern":[{"LOWER":"virtual"},{"LOWER":"machine"}]}
 {"label":"SKILL|virtual-machine","pattern":[{"LOWER":"virtual"},{"LOWER":"machine"}]}
@@ -2074,13 +2100,13 @@
 {"label":"SKILL|vmware-vsphere","pattern":[{"LOWER":"vmware"},{"LOWER":"vsphere"}]}
 {"label":"SKILL|voice-and-sms","pattern":[{"LOWER":"voice"},{"LOWER":"and"},{"LOWER":"sms"}]}
 {"label":"SKILL|voice-over-ip","pattern":[{"LOWER":"voice"},{"LOWER":"over"},{"LOWER":"ip"}]}
-{"label":"SKILL|vue","pattern":[{"LOWER":"vue.js"}]}
-{"label":"SKILL|vue","pattern":[{"LOWER":"vue"},{"LOWER":"js"}]}
-{"label":"SKILL|vue.js","pattern":[{"LOWER":"vue.js"}]}
-{"label":"SKILL|vue.js","pattern":[{"LOWER":"vue"},{"LOWER":"js"}]}
-{"label":"SKILL|vuepress","pattern":[{"LOWER":"vuepress"}]}
-{"label":"SKILL|vuetify","pattern":[{"LOWER":"vuetify"}]}
-{"label":"SKILL|vuex","pattern":[{"LOWER":"vuex"}]}
+{"label":"Tools & Technologies","pattern":[{"LOWER":"vue.js"}]}
+{"label":"Tools & Technologies","pattern":[{"LOWER":"vue"},{"LOWER":"js"}]}
+{"label":"Tools & Technologies","pattern":[{"LOWER":"vue.js"}]}
+{"label":"Tools & Technologies","pattern":[{"LOWER":"vue"},{"LOWER":"js"}]}
+{"label":"Tools & Technologies","pattern":[{"LOWER":"vuepress"}]}
+{"label":"Tools & Technologies","pattern":[{"LOWER":"vuetify"}]}
+{"label":"Tools & Technologies","pattern":[{"LOWER":"vuex"}]}
 {"label":"SKILL|wagtail","pattern":[{"LOWER":"wagtail"}]}
 {"label":"SKILL|wakatime","pattern":[{"LOWER":"wakatime"}]}
 {"label":"SKILL|waste-management","pattern":[{"LOWER":"waste"},{"LOWER":"management"}]}
@@ -2103,10 +2129,10 @@
 {"label":"SKILL|web-starter-kit","pattern":[{"LOWER":"web"},{"LOWER":"starter"},{"LOWER":"kit"}]}
 {"label":"SKILL|webapp","pattern":[{"LOWER":"web"},{"LOWER":"app"}]}
 {"label":"SKILL|webflow","pattern":[{"LOWER":"webflow"}]}
-{"label":"SKILL|webpack","pattern":[{"LOWER":"webpack"}]}
+{"label":"Tools & Technologies","pattern":[{"LOWER":"webpack"}]}
 {"label":"SKILL|website-builder","pattern":[{"LOWER":"website"},{"LOWER":"builder"}]}
 {"label":"SKILL|website-monitoring","pattern":[{"LOWER":"website"},{"LOWER":"monitoring"}]}
-{"label":"SKILL|webstorm","pattern":[{"LOWER":"webstorm"}]}
+{"label":"Tools & Technologies","pattern":[{"LOWER":"webstorm"}]}
 {"label":"SKILL|weebly","pattern":[{"LOWER":"weebly"}]}
 {"label":"SKILL|wercker","pattern":[{"LOWER":"wercker"}]}
 {"label":"SKILL|wide-area-network","pattern":[{"LOWER":"wide"},{"LOWER":"area"},{"LOWER":"network"}]}
@@ -2127,6 +2153,7 @@
 {"label":"SKILL|wordnet","pattern":[{"LOWER":"wordnet"}]}
 {"label":"SKILL|wordplate","pattern":[{"LOWER":"wordplate"}]}
 {"label":"SKILL|wordpress","pattern":[{"LOWER":"wordpress"}]}
+{"label":"Industry Knowledge","pattern":[{"LOWER":"workforce"},{"LOWER":"planning"}]}
 {"label":"SKILL|workflow","pattern":[{"LOWER":"workflow"}]}
 {"label":"SKILL|workflow-manager","pattern":[{"LOWER":"workflow"},{"LOWER":"manager"}]}
 {"label":"SKILL|workload","pattern":[{"LOWER":"workload"}]}
@@ -2146,3 +2173,4 @@
 {"label":"SKILL|zoho-crm","pattern":[{"LOWER":"zoho"},{"LOWER":"crm"}]}
 {"label":"SKILL|zookeeper","pattern":[{"LOWER":"zookeeper"}]}
 {"label":"SKILL|ux","pattern":[{"LOWER":"user"},{"LOWER":"experience"}]}
+{"label":"Industry Knowledge","pattern":"CI/CD"}
