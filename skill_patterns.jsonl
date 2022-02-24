@@ -1173,8 +1173,8 @@
 {"label":"SKILL|lumen","pattern":[{"LOWER":"lumen"}]}
 {"label":"SKILL|lxc","pattern":[{"TEXT":"LXC"}]}
 {"label":"SKILL|lxd","pattern":[{"TEXT":"LXD"}]}
-{"label":"SKILL|machine-learning","pattern":[{"LOWER":"ml"}]}
-{"label":"SKILL|machine-learning","pattern":[{"LOWER":"machine"},{"LOWER":"learning"}]}
+{"label":"Industry Knowledge","pattern":[{"LOWER":"ml"}]}
+{"label":"Industry Knowledge","pattern":[{"LOWER":"machine"},{"LOWER":"learning"}]}
 {"label":"SKILL|machine-learning-as-a-service","pattern":[{"LOWER":"machine"},{"LOWER":"learning"},{"LOWER":"as"},{"LOWER":"a"},{"LOWER":"service"}]}
 {"label":"SKILL|machine-learning-tools","pattern":[{"LOWER":"machine"},{"LOWER":"learning"},{"LOWER":"tools"}]}
 {"label":"SKILL|machine-vision","pattern":[{"LOWER":"machine"},{"LOWER":"vision"}]}
@@ -1337,10 +1337,10 @@
 {"label":"SKILL|nats","pattern":[{"TEXT":"NATS"}]}
 {"label":"SKILL|natural-deduction","pattern":[{"LOWER":"natural"},{"LOWER":"deduction"}]}
 {"label":"SKILL|natural-language","pattern":[{"LOWER":"natural"},{"LOWER":"language"}]}
-{"label":"SKILL|natural-language-processing","pattern":[{"LOWER":"natural"},{"LOWER":"language"},{"LOWER":"processing"}]}
-{"label":"SKILL|natural-language-processing","pattern":[{"LOWER":"nlp"}]}
-{"label":"SKILL|natural-language-understanding","pattern":[{"LOWER":"natural"},{"LOWER":"language"},{"LOWER":"understanding"}]}
-{"label":"SKILL|natural-language-understanding","pattern":[{"LOWER":"nlu"}]}
+{"label":"Industry Knowledge","pattern":[{"LOWER":"natural"},{"LOWER":"language"},{"LOWER":"processing"}]}
+{"label":"Industry Knowledge","pattern":[{"LOWER":"nlp"}]}
+{"label":"Industry Knowledge","pattern":[{"LOWER":"natural"},{"LOWER":"language"},{"LOWER":"understanding"}]}
+{"label":"Industry Knowledge","pattern":[{"LOWER":"nlu"}]}
 {"label":"SKILL|navigation-system","pattern":[{"LOWER":"navigation"},{"LOWER":"system"}]}
 {"label":"Tools & Technologies","pattern":[{"LOWER":"neo4j"}]}
 {"label":"Tools & Technologies","pattern":[{"LOWER":"neovim"}]}
