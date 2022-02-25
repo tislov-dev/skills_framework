@@ -83,6 +83,7 @@
 {"label":"SKILL|analysis-of-covariance","pattern":[{"LOWER":"analysis"},{"LOWER":"of"},{"LOWER":"covariance"}]}
 {"label":"SKILL|analysis-of-variance","pattern":[{"LOWER":"analysis"},{"LOWER":"of"},{"LOWER":"variance"}]}
 {"label":"Industry Knowledge","pattern":[{"LOWER":"analytics"}]}
+{"label":"Interpersonal Skill","pattern":[{"LOWER":"analytical"},{"LOWER":"thinking"}]}
 {"label":"SKILL|analytics-integrator","pattern":[{"LOWER":"analytics"},{"LOWER":"integrator"}]}
 {"label":"Tools & Technologies","pattern":[{"LOWER":"android"}]}
 {"label":"Tools & Technologies","pattern":[{"LOWER":"android"},{"LOWER":"sdk"}]}
@@ -262,6 +263,7 @@
 {"label":"Industry Knowledge","pattern":[{"LOWER":"business"},{"LOWER":"process"}]}
 {"label":"Industry Knowledge","pattern":[{"LOWER":"business"},{"LOWER":"processes"}]}
 {"label":"SKILL|business-tools","pattern":[{"LOWER":"business"},{"LOWER":"tools"}]}
+{"label":"Industry Knowledge","pattern":[{"LOWER":"business"},{"LOWER":"strategy"}]}
 {"label":"Industry Knowledge","pattern":[{"LOWER":"business"},{"LOWER":"analysis"}]}
 {"label":"Industry Knowledge","pattern":[{"LOWER":"business"},{"LOWER":"transformation"}]}
 {"label":"Tools & Technologies","pattern":[{"TEXT":"C++"}]}
@@ -535,7 +537,7 @@
 {"label":"SKILL|data-transmission","pattern":[{"LOWER":"data"},{"LOWER":"transmission"}]}
 {"label":"SKILL|data-type","pattern":[{"LOWER":"data"},{"LOWER":"type"}]}
 {"label":"SKILL|data-validation","pattern":[{"LOWER":"data"},{"LOWER":"validation"}]}
-{"label":"SKILL|data-visualization","pattern":[{"LOWER":"data"},{"LOWER":"visualization"}]}
+{"label":"Industry Knowledge","pattern":[{"LOWER":"data"},{"LOWER":"visualization"}]}
 {"label":"SKILL|data-warehouse","pattern":[{"LOWER":"data"},{"LOWER":"warehouse"}]}
 {"label":"SKILL|database","pattern":[{"LOWER":"database"}]}
 {"label":"SKILL|database-design","pattern":[{"LOWER":"database"},{"LOWER":"design"}]}
@@ -578,7 +580,7 @@
 {"label":"SKILL|deterministic-automaton","pattern":[{"LOWER":"deterministic"},{"LOWER":"automaton"}]}
 {"label":"SKILL|devdocs","pattern":[{"LOWER":"devdocs"}]}
 {"label":"SKILL|devise","pattern":[{"LOWER":"devise"}]}
-{"label":"SKILL|devops","pattern":[{"LOWER":"devops"}]}
+{"label":"Industry Knowledge","pattern":[{"LOWER":"devops"}]}
 {"label":"SKILL|diagram","pattern":[{"LOWER":"diagram"}]}
 {"label":"SKILL|digital-filter","pattern":[{"LOWER":"digital"},{"LOWER":"filter"}]}
 {"label":"SKILL|digital-radio","pattern":[{"LOWER":"digital"},{"LOWER":"radio"}]}
@@ -707,6 +709,7 @@
 {"label":"SKILL|euclidean-distance","pattern":[{"LOWER":"euclidean"},{"LOWER":"distance"}]}
 {"label":"SKILL|eureka","pattern":[{"LOWER":"eureka"}]}
 {"label":"SKILL|evolutionary-algorithm","pattern":[{"LOWER":"evolutionary"},{"LOWER":"algorithm"}]}
+{"label":"Interpersonal Skill","pattern":[{"LOWER":"coaching"}]}
 {"label":"Interpersonal Skill","pattern":[{"LOWER":"executive"},{"LOWER":"coaching"}]}
 {"label":"SKILL|exact-algorithm","pattern":[{"LOWER":"exact"},{"LOWER":"algorithm"}]}
 {"label":"SKILL|exception-monitoring","pattern":[{"LOWER":"exception"},{"LOWER":"monitoring"}]}
@@ -851,6 +854,7 @@
 {"label":"SKILL|gogs","pattern":[{"LOWER":"gogs"}]}
 {"label":"SKILL|goodness-of-fit","pattern":[{"LOWER":"goodness"},{"LOWER":"of"},{"LOWER":"fit"}]}
 {"label":"SKILL|google","pattern":[{"LOWER":"google"}]}
+{"label":"Tools & Technologies","pattern":[{"LOWER":"google"},{"LOWER":"cloud"},{"LOWER":"platform"}]}
 {"label":"Tools & Technologies","pattern":[{"LOWER":"google"},{"LOWER":"analytics"}]}
 {"label":"Tools & Technologies","pattern":[{"LOWER":"google"},{"LOWER":"app"},{"LOWER":"engine"}]}
 {"label":"Tools & Technologies","pattern":[{"LOWER":"google"},{"LOWER":"app"},{"LOWER":"maker"}]}
@@ -955,6 +959,8 @@
 {"label":"Interpersonal Skill","pattern":[{"LOWER":"hr"},{"LOWER":"metrics"}]}
 {"label":"Tools & Technologies","pattern":[{"LOWER":"human"},{"LOWER":"resource"},{"LOWER":"information"},{"LOWER":"system"}]}
 {"label":"Tools & Technologies","pattern":[{"LOWER":"human"},{"LOWER":"resource"},{"LOWER":"management"},{"LOWER":"system"}]}
+{"label":"Industry Knowledge","pattern":[{"LOWER":"human"},{"LOWER":"resource"},{"LOWER":"management"}]}
+{"label":"Industry Knowledge","pattern":[{"LOWER":"hr"},{"LOWER":"management"}]}
 {"label":"Tools & Technologies","pattern":[{"TEXT":"hris"}]}
 {"label":"Tools & Technologies","pattern":[{"TEXT":"hrms"}]}
 {"label":"Tools & Technologies","pattern":[{"TEXT":"HTML"}]}
@@ -1094,7 +1100,7 @@
 {"label":"SKILL|karhunenlove-theorem","pattern":[{"LOWER":"karhunen\u2013lo\u00e8ve"},{"LOWER":"theorem"}]}
 {"label":"SKILL|karma","pattern":[{"LOWER":"karma"}]}
 {"label":"SKILL|kendo-ui","pattern":[{"LOWER":"kendo"},{"LOWER":"ui"}]}
-{"label":"SKILL|keras","pattern":[{"LOWER":"keras"}]}
+{"label":"Tools & Technologies","pattern":[{"LOWER":"keras"}]}
 {"label":"SKILL|kernel-linear-algebra","pattern":[{"LOWER":"kernel"},{"LOWER":"(linear"},{"LOWER":"algebra)"}]}
 {"label":"SKILL|key-exchange","pattern":[{"LOWER":"key"},{"LOWER":"exchange"}]}
 {"label":"SKILL|key-lock","pattern":[{"LOWER":"key"},{"LOWER":"(lock)"}]}
@@ -1119,7 +1125,7 @@
 {"label":"SKILL|koa","pattern":[{"LOWER":"koa"}]}
 {"label":"SKILL|koding","pattern":[{"LOWER":"koding"}]}
 {"label":"SKILL|kong","pattern":[{"LOWER":"kong"}]}
-{"label":"SKILL|kotlin","pattern":[{"LOWER":"kotlin"}]}
+{"label":"Tools & Technologies","pattern":[{"LOWER":"kotlin"}]}
 {"label":"Tools & Technologies","pattern":[{"LOWER":"kubernetes"}]}
 {"label":"SKILL|kullbackleibler-divergence","pattern":[{"LOWER":"kullback\u2013leibler"},{"LOWER":"divergence"}]}
 {"label":"SKILL|lambda-calculus","pattern":[{"LOWER":"lambda"},{"LOWER":"calculus"}]}
@@ -1205,7 +1211,7 @@
 {"label":"SKILL|lottie","pattern":[{"LOWER":"lottie"}]}
 {"label":"SKILL|low-pass-filter","pattern":[{"LOWER":"low-pass"},{"LOWER":"filter"}]}
 {"label":"SKILL|low-pass-filter","pattern":[{"LOWER":"low"},{"LOWER":"pass filter"}]}
-{"label":"SKILL|lua","pattern":[{"LOWER":"lua"}]}
+{"label":"Tools & Technologies","pattern":[{"LOWER":"lua"}]}
 {"label":"SKILL|lucene","pattern":[{"LOWER":"lucene"}]}
 {"label":"SKILL|lumen","pattern":[{"LOWER":"lumen"}]}
 {"label":"SKILL|lxc","pattern":[{"TEXT":"LXC"}]}
@@ -1217,7 +1223,7 @@
 {"label":"SKILL|machine-vision","pattern":[{"LOWER":"machine"},{"LOWER":"vision"}]}
 {"label":"SKILL|macos","pattern":[{"LOWER":"macos"}]}
 {"label":"SKILL|magento","pattern":[{"LOWER":"magento"}]}
-{"label":"SKILL|mailchimp","pattern":[{"LOWER":"mailchimp"}]}
+{"label":"Tools & Technologies","pattern":[{"LOWER":"mailchimp"}]}
 {"label":"SKILL|mailgun","pattern":[{"LOWER":"mailgun"}]}
 {"label":"SKILL|mailjet","pattern":[{"LOWER":"mailjet"}]}
 {"label":"SKILL|managed-memcache","pattern":[{"LOWER":"managed"},{"LOWER":"memcache"}]}
@@ -1227,7 +1233,7 @@
 {"label":"SKILL|mapbox","pattern":[{"LOWER":"mapbox"}]}
 {"label":"SKILL|mapping-apis","pattern":[{"LOWER":"mapping"},{"LOWER":"apis"}]}
 {"label":"SKILL|marathon","pattern":[{"LOWER":"marathon"}]}
-{"label":"SKILL|mariadb","pattern":[{"LOWER":"mariadb"}]}
+{"label":"Tools & Technologies","pattern":[{"LOWER":"mariadb"}]}
 {"label":"SKILL|marine-engineering","pattern":[{"LOWER":"marine"},{"LOWER":"engineering"}]}
 {"label":"SKILL|marionette","pattern":[{"LOWER":"marionette"}]}
 {"label":"SKILL|markdown","pattern":[{"LOWER":"markdown"}]}
@@ -1281,6 +1287,7 @@
 {"label":"SKILL|microframeworks-backend","pattern":[{"LOWER":"microframeworks"},{"LOWER":"(backend)"}]}
 {"label":"SKILL|microprocessor","pattern":[{"LOWER":"microprocessor"}]}
 {"label":"SKILL|microservices-tools","pattern":[{"LOWER":"microservices"},{"LOWER":"tools"}]}
+{"label":"Industry Knowledge","pattern":[{"LOWER":"microservices"}]}
 {"label":"SKILL|microsoft-azure","pattern":[{"LOWER":"microsoft"},{"LOWER":"azure"}]}
 {"label":"SKILL|microsoft-bot-framework","pattern":[{"LOWER":"microsoft"},{"LOWER":"bot"},{"LOWER":"framework"}]}
 {"label":"SKILL|microsoft-iis","pattern":[{"LOWER":"microsoft"},{"LOWER":"iis"}]}
@@ -1515,6 +1522,7 @@
 {"label":"SKILL|peer-to-peer","pattern":[{"LOWER":"peer"},{"LOWER":"to"},{"LOWER":"peer"}]}
 {"label":"SKILL|performance-metric","pattern":[{"LOWER":"performance"},{"LOWER":"metric"}]}
 {"label":"SKILL|performance-monitoring","pattern":[{"LOWER":"performance"},{"LOWER":"monitoring"}]}
+{"label":"Industry Knowledge","pattern":[{"LOWER":"performance"},{"LOWER":"management"}]}
 {"label":"SKILL|performance-prediction","pattern":[{"LOWER":"performance"},{"LOWER":"prediction"}]}
 {"label":"Tools & Technologies","pattern":[{"LOWER":"perl"}]}
 {"label":"Tools & Technologies","pattern":[{"LOWER":"perl"},{"LOWER":"6"}]}
@@ -1643,6 +1651,7 @@
 {"label":"SKILL|rdf","pattern":[{"TEXT":"RDF"}]}
 {"label":"SKILL|reachability","pattern":[{"LOWER":"reachability"}]}
 {"label":"Tools & Technologies","pattern":[{"TEXT":"React"}]}
+{"label":"Tools & Technologies","pattern":[{"LOWER":"reactjs"}]}
 {"label":"Tools & Technologies","pattern":[{"LOWER":"react"},{"LOWER":"hot"},{"LOWER":"loader"}]}
 {"label":"Tools & Technologies","pattern":[{"LOWER":"react"},{"LOWER":"native"}]}
 {"label":"Tools & Technologies","pattern":[{"LOWER":"react"},{"LOWER":"navigation"}]}
@@ -1969,6 +1978,7 @@
 {"label":"SKILL|system-testing","pattern":[{"LOWER":"system"},{"LOWER":"testing"}]}
 {"label":"Industry Knowledge","pattern":[{"LOWER":"systems"},{"LOWER":"engineering"}]}
 {"label":"SKILL|systems-management","pattern":[{"LOWER":"systems"},{"LOWER":"management"}]}
+{"label":"Interpersonal Skill","pattern":[{"LOWER":"systems"},{"LOWER":"thinking"}]}
 {"label":"SKILL|table-information","pattern":[{"LOWER":"table"},{"LOWER":"(information)"}]}
 {"label":"Tools & Technologies","pattern":[{"LOWER":"tableau"}]}
 {"label":"SKILL|tabu-search","pattern":[{"LOWER":"tabu"},{"LOWER":"search"}]}
@@ -2141,13 +2151,13 @@
 {"label":"SKILL|wide-area-network","pattern":[{"LOWER":"wide"},{"LOWER":"area"},{"LOWER":"network"}]}
 {"label":"SKILL|wiener-filter","pattern":[{"LOWER":"wiener"},{"LOWER":"filter"}]}
 {"label":"SKILL|wimax","pattern":[{"LOWER":"wimax"}]}
-{"label":"SKILL|windows","pattern":[{"LOWER":"windows"}]}
+{"label":"Tools & Technologies","pattern":[{"LOWER":"windows"}]}
 {"label":"SKILL|wireframing","pattern":[{"LOWER":"wireframing"}]}
 {"label":"SKILL|wireless","pattern":[{"LOWER":"wireless"}]}
 {"label":"SKILL|wireless-ad-hoc-network","pattern":[{"LOWER":"wireless"},{"LOWER":"ad"},{"LOWER":"hoc"},{"LOWER":"network"}]}
 {"label":"SKILL|wireless-network","pattern":[{"LOWER":"wireless"},{"LOWER":"network"}]}
 {"label":"SKILL|wireless-sensor-network","pattern":[{"LOWER":"wireless"},{"LOWER":"sensor"},{"LOWER":"network"}]}
-{"label":"SKILL|wix","pattern":[{"LOWER":"wix"}]}
+{"label":"Tools & Technologies","pattern":[{"LOWER":"wix"}]}
 {"label":"SKILL|woocommerce","pattern":[{"LOWER":"woocommerce"}]}
 {"label":"SKILL|woopra","pattern":[{"LOWER":"woopra"}]}
 {"label":"SKILL|word-error-rate","pattern":[{"LOWER":"word"},{"LOWER":"error"},{"LOWER":"rate"}]}
@@ -2155,25 +2165,31 @@
 {"label":"SKILL|word-sense-disambiguation","pattern":[{"LOWER":"word"},{"LOWER":"sense disambiguation"}]}
 {"label":"SKILL|wordnet","pattern":[{"LOWER":"wordnet"}]}
 {"label":"SKILL|wordplate","pattern":[{"LOWER":"wordplate"}]}
-{"label":"SKILL|wordpress","pattern":[{"LOWER":"wordpress"}]}
+{"label":"Tools & Technologies","pattern":[{"LOWER":"wordpress"}]}
 {"label":"Industry Knowledge","pattern":[{"LOWER":"workforce"},{"LOWER":"planning"}]}
 {"label":"SKILL|workflow","pattern":[{"LOWER":"workflow"}]}
 {"label":"SKILL|workflow-manager","pattern":[{"LOWER":"workflow"},{"LOWER":"manager"}]}
 {"label":"SKILL|workload","pattern":[{"LOWER":"workload"}]}
 {"label":"SKILL|world-wide-web","pattern":[{"LOWER":"world"},{"LOWER":"wide"},{"LOWER":"web"}]}
-{"label":"SKILL|xamarin","pattern":[{"LOWER":"xamarin"}]}
+{"label":"Tools & Technologies","pattern":[{"LOWER":"xamarin"}]}
 {"label":"SKILL|xcode","pattern":[{"LOWER":"xcode"}]}
-{"label":"SKILL|xml","pattern":[{"TEXT":"XML"}]}
-{"label":"SKILL|yarn","pattern":[{"LOWER":"yarn"}]}
+{"label":"Tools & Technologies","pattern":[{"TEXT":"XML"}]}
+{"label":"Tools & Technologies","pattern":[{"LOWER":"yarn"}]}
 {"label":"SKILL|yeoman","pattern":[{"LOWER":"yeoman"}]}
 {"label":"SKILL|yii","pattern":[{"LOWER":"yii"}]}
 {"label":"SKILL|zend-framework","pattern":[{"LOWER":"zend"},{"LOWER":"framework"}]}
 {"label":"SKILL|zendesk","pattern":[{"LOWER":"zendesk"}]}
 {"label":"SKILL|zenefits","pattern":[{"LOWER":"zenefits"}]}
-{"label":"SKILL|zeplin","pattern":[{"LOWER":"zeplin"}]}
+{"label":"Tools & Technologies","pattern":[{"LOWER":"zeplin"}]}
 {"label":"SKILL|zepto","pattern":[{"LOWER":"zepto"}]}
 {"label":"SKILL|zeromq","pattern":[{"LOWER":"zeromq"}]}
-{"label":"SKILL|zoho-crm","pattern":[{"LOWER":"zoho"},{"LOWER":"crm"}]}
-{"label":"SKILL|zookeeper","pattern":[{"LOWER":"zookeeper"}]}
+{"label":"Tools & Technologies","pattern":[{"LOWER":"zoho"},{"LOWER":"crm"}]}
+{"label":"Tools & Technologies","pattern":[{"LOWER":"zookeeper"}]}
 {"label":"SKILL|ux","pattern":[{"LOWER":"user"},{"LOWER":"experience"}]}
 {"label":"Industry Knowledge","pattern":"CI/CD"}
+{"label":"Interpersonal Skill","pattern":[{"LOWER":"effective"},{"LOWER":"communications"}]}
+{"label":"Interpersonal Skill","pattern":[{"LOWER":"innovation"}]}
+{"label":"Interpersonal Skill","pattern":[{"LOWER":"leadership"}]}
+{"label":"Interpersonal Skill","pattern":[{"LOWER":"problem"},{"LOWER":"solving"}]}
+{"label":"Industry Knowledge","pattern":[{"LOWER":"budgeting"}]}
+{"label":"Industry Knowledge","pattern":[{"LOWER":"succession"},{"LOWER":"planning"}]}
