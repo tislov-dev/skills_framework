@@ -895,7 +895,6 @@
 {"label":"SKILL|grails","pattern":[{"LOWER":"grails"}]}
 {"label":"SKILL|grape","pattern":[{"LOWER":"grape"}]}
 {"label":"SKILL|graph-databases","pattern":[{"LOWER":"graph"},{"LOWER":"databases"}]}
-{"label":"SKILL|graphic-design","pattern":[{"LOWER":"graphic"},{"LOWER":"design"}]}
 {"label":"SKILL|graphical-model","pattern":[{"LOWER":"graphical"},{"LOWER":"model"}]}
 {"label":"SKILL|graphical-user-interface","pattern":[{"LOWER":"graphical"},{"LOWER":"user"},{"LOWER":"interface"}]}
 {"label":"SKILL|graphite","pattern":[{"LOWER":"graphite"}]}
@@ -978,10 +977,10 @@
 {"label":"Tools & Technologies","pattern":[{"LOWER":"human"},{"LOWER":"resource"},{"LOWER":"management"},{"LOWER":"system"}]}
 {"label":"Industry Knowledge","pattern":[{"LOWER":"human"},{"LOWER":"resource"},{"LOWER":"management"}]}
 {"label":"Industry Knowledge","pattern":[{"LOWER":"hr"},{"LOWER":"management"}]}
-{"label":"Tools & Technologies","pattern":[{"TEXT":"hris"}]}
-{"label":"Tools & Technologies","pattern":[{"TEXT":"hrms"}]}
-{"label":"Tools & Technologies","pattern":[{"TEXT":"HTML"}]}
-{"label":"Tools & Technologies","pattern":[{"TEXT":"HTML5"}]}
+{"label":"Tools & Technologies","pattern":[{"LOWER":"hris"}]}
+{"label":"Tools & Technologies","pattern":[{"LOWER":"hrms"}]}
+{"label":"Tools & Technologies","pattern":[{"LOWER":"HTML"}]}
+{"label":"Tools & Technologies","pattern":[{"LOWER":"HTML5"}]}
 {"label":"SKILL|http","pattern":[{"TEXT":"HTTP"}]}
 {"label":"SKILL|hubspot","pattern":[{"LOWER":"hubspot"}]}
 {"label":"SKILL|hugo","pattern":[{"LOWER":"hugo"}]}
@@ -1026,15 +1025,15 @@
 {"label":"SKILL|inference","pattern":[{"LOWER":"inference"}]}
 {"label":"Tools & Technologies","pattern":[{"LOWER":"influxdb"}]}
 {"label":"SKILL|infobox","pattern":[{"LOWER":"infobox"}]}
-{"label":"SKILL|information-discovery","pattern":[{"LOWER":"information"},{"LOWER":"discovery"}]}
-{"label":"SKILL|information-extraction","pattern":[{"LOWER":"information"},{"LOWER":"extraction"}]}
+{"label":"Other Skill","pattern":[{"LOWER":"information"},{"LOWER":"discovery"}]}
+{"label":"Other Skill","pattern":[{"LOWER":"information"},{"LOWER":"extraction"}]}
 {"label":"SKILL|information-filtering-system","pattern":[{"LOWER":"information"},{"LOWER":"filtering"},{"LOWER":"system"}]}
 {"label":"SKILL|information-flow-information-theory","pattern":[{"LOWER":"information"},{"LOWER":"flow"},{"LOWER":"(information"},{"LOWER":"theory)"}]}
-{"label":"SKILL|information-integration","pattern":[{"LOWER":"information"},{"LOWER":"integration"}]}
-{"label":"SKILL|information-management","pattern":[{"LOWER":"information"},{"LOWER":"management"}]}
+{"label":"Other Skill","pattern":[{"LOWER":"information"},{"LOWER":"integration"}]}
+{"label":Industry Knowledge","pattern":[{"LOWER":"information"},{"LOWER":"management"}]}
 {"label":"SKILL|information-model","pattern":[{"LOWER":"information"},{"LOWER":"model"}]}
 {"label":"SKILL|information-overload","pattern":[{"LOWER":"information"},{"LOWER":"overload"}]}
-{"label":"SKILL|information-retrieval","pattern":[{"LOWER":"information"},{"LOWER":"retrieval"}]}
+{"label":"Other Skill","pattern":[{"LOWER":"information"},{"LOWER":"retrieval"}]}
 {"label":"SKILL|information-retrieval-applications","pattern":[{"LOWER":"information"},{"LOWER":"retrieval"},{"LOWER":"applications"}]}
 {"label":"SKILL|information-retrieval-query-language","pattern":[{"LOWER":"information"},{"LOWER":"retrieval"},{"LOWER":"query"},{"LOWER":"language"}]}
 {"label":"SKILL|information-seeking","pattern":[{"LOWER":"information"},{"LOWER":"seeking"}]}
@@ -1113,7 +1112,7 @@
 {"label":"Tools & Technologies","pattern":[{"LOWER":"kafka"}]}
 {"label":"SKILL|kalman-filter","pattern":[{"LOWER":"kalman"},{"LOWER":"filter"}]}
 {"label":"SKILL|kanban-for-github-issues","pattern":[{"LOWER":"kanban"},{"LOWER":"for"},{"LOWER":"github"},{"LOWER":"issues"}]}
-{"label":"SKILL|kanban-tool","pattern":[{"LOWER":"kanban"},{"LOWER":"tool"}]}
+{"label":"Tools & Technologies","pattern":[{"LOWER":"kanban"},{"LOWER":"tool"}]}
 {"label":"SKILL|karhunenlove-theorem","pattern":[{"LOWER":"karhunen\u2013lo\u00e8ve"},{"LOWER":"theorem"}]}
 {"label":"SKILL|karma","pattern":[{"LOWER":"karma"}]}
 {"label":"SKILL|kendo-ui","pattern":[{"LOWER":"kendo"},{"LOWER":"ui"}]}
@@ -2462,3 +2461,29 @@
 {"label":"Other Skill","pattern":[{"LOWER":"expense"},{"LOWER":"reports"}]}
 {"label":"Other Skill","pattern":[{"LOWER":"experimental"},{"LOWER":"design"}]}
 {"label":"Industry Knowledge","pattern":[{"LOWER":"corporate"},{"LOWER":"social"},{"LOWER":"responsibility"}]}
+{"label":"Other Skill","pattern":[{"LOWER":"administrative"},{"LOWER":"functions"}]}
+{"label":"Other Skill","pattern":[{"LOWER":"career"},{"LOWER":"management"}]}
+{"label":"Other Skill","pattern":[{"TEXT":"cross-team"},{"LOWER":"integration"}]}
+{"label":"Interpersonal Skill","pattern":[{"LOWER":"cultural"},{"LOWER":"awareness"}]}
+{"label":"Industry Knowledge","pattern":[{"LOWER":"budget"},{"LOWER":"management"}]}
+{"label":"Other Skill","pattern":[{"LOWER":"candidate"},{"LOWER":"interviewing"}]}
+{"label":"Other Skill","pattern":[{"LOWER":"automation"},{"LOWER":"tools"}]}
+{"label":"Other Skill","pattern":[{"LOWER":"global"},{"LOWER":"perspective"}]}
+{"label":"Other Skill","pattern":[{"LOWER":"industry"},{"LOWER":"knowledge"}]}
+{"label":"Industry Knowledge","pattern":[{"LOWER":"graphic"},{"LOWER":"design"}]}
+{"label":"Industry Knowledge","pattern":[{"LOWER":"legal"},{"LOWER":"compliance"}]}
+{"label":"Other Skill","pattern":[{"LOWER":"benefits"},{"LOWER":"strategies"}]}
+{"label":"Industry Knowledge","pattern":[{"LOWER":"content"},{"LOWER":"marketing"}]}
+{"label":"Other Skill","pattern":[{"LOWER":"value"},{"LOWER":"propositions"}]}
+{"label":"Industry Knowledge","pattern":[{"LOWER":"corporate"},{"LOWER":"communications"}]}
+{"label":"Other Skill","pattern":[{"LOWER":"hr"},{"LOWER":"legal"}]}
+{"label":"Other Skill","pattern":[{"LOWER":"regulatory"},{"LOWER":"environment"}]}
+{"label":"Industry Knowledge","pattern":[{"LOWER":"kanban"}]}
+{"label":"Other Skill","pattern":[{"LOWER":"customer"},{"LOWER":"accounts"}]}
+{"label":"Interpersonal Skill","pattern":[{"LOWER":"career"},{"LOWER":"development"}]}
+{"label":"Other Skill","pattern":[{"LOWER":"customer"},{"LOWER":"complaint"},{"LOWER":"resolution"}]}
+{"label":"Interpersonal Skill","pattern":[{"LOWER":"labor"},{"LOWER":"relations"}]}
+{"label":"Industry Knowledge","pattern":[{"LOWER":"e"},{"TEXT":"-"},{"LOWER":"learning"}]}
+{"label":"Industry Knowledge","pattern":"e-learning"}
+{"label":"Industry Knowledge","pattern":"E-learning"}
+
