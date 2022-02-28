@@ -1030,7 +1030,7 @@
 {"label":"SKILL|information-filtering-system","pattern":[{"LOWER":"information"},{"LOWER":"filtering"},{"LOWER":"system"}]}
 {"label":"SKILL|information-flow-information-theory","pattern":[{"LOWER":"information"},{"LOWER":"flow"},{"LOWER":"(information"},{"LOWER":"theory)"}]}
 {"label":"Other Skill","pattern":[{"LOWER":"information"},{"LOWER":"integration"}]}
-{"label":Industry Knowledge","pattern":[{"LOWER":"information"},{"LOWER":"management"}]}
+{"label":"Industry Knowledge","pattern":[{"LOWER":"information"},{"LOWER":"management"}]}
 {"label":"SKILL|information-model","pattern":[{"LOWER":"information"},{"LOWER":"model"}]}
 {"label":"SKILL|information-overload","pattern":[{"LOWER":"information"},{"LOWER":"overload"}]}
 {"label":"Other Skill","pattern":[{"LOWER":"information"},{"LOWER":"retrieval"}]}
