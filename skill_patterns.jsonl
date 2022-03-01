@@ -18,7 +18,7 @@
 {"label":"Interpersonal Skill","pattern":[{"LOWER":"acting"}]}
 {"label":"Interpersonal Skill","pattern":[{"LOWER":"active"},{"LOWER":"listening"}]}
 {"label":"SKILL|active-appearance-model","pattern":[{"LOWER":"active"},{"LOWER":"appearance"},{"LOWER":"model"}]}
-{"label":"SKILL|active-database","pattern":[{"LOWER":"active"},{"LOWER":"database"}]}
+{"label":"Tools & Technologies","pattern":[{"LOWER":"active"},{"LOWER":"database"}]}
 {"label":"SKILL|active-networking","pattern":[{"LOWER":"active"},{"LOWER":"networking"}]}
 {"label":"SKILL|active-shape-model","pattern":[{"LOWER":"active"},{"LOWER":"shape"},{"LOWER":"model"}]}
 {"label":"SKILL|activemq","pattern":[{"LOWER":"activemq"}]}
@@ -207,7 +207,7 @@
 {"label":"SKILL|beta-by-crashlytics","pattern":[{"LOWER":"beta"},{"LOWER":"by"},{"LOWER":"crashlytics"}]}
 {"label":"SKILL|beta-testing--mobile-app-distribution","pattern":[{"LOWER":"beta"},{"LOWER":"testing"},{"LOWER":"/"},{"LOWER":"mobile"},{"LOWER":"app"},{"LOWER":"distribution"}]}
 {"label":"SKILL|beta-testing--mobile-app-distribution","pattern":[{"LOWER":"beta testing "},{"LOWER":" mobile app distribution"}]}
-{"label":"SKILL|bibliographic-database","pattern":[{"LOWER":"bibliographic"},{"LOWER":"database"}]}
+{"label":"Tools & Technologies","pattern":[{"LOWER":"bibliographic"},{"LOWER":"database"}]}
 {"label":"SKILL|bibliometrics","pattern":[{"LOWER":"bibliometrics"}]}
 {"label":"Industry Knowledge","pattern":[{"LOWER":"big"},{"LOWER":"data"},{"LOWER":"systems"}]}
 {"label":"Industry Knowledge","pattern":[{"LOWER":"big"},{"LOWER":"data"}]}
@@ -216,7 +216,7 @@
 {"label":"SKILL|big-data-tools","pattern":[{"LOWER":"big"},{"LOWER":"data"},{"LOWER":"tools"}]}
 {"label":"SKILL|binary-search-tree","pattern":[{"LOWER":"binary"},{"LOWER":"search"},{"LOWER":"tree"}]}
 {"label":"SKILL|biochemical-engineering","pattern":[{"LOWER":"biochemical"},{"LOWER":"engineering"}]}
-{"label":"SKILL|biological-database","pattern":[{"LOWER":"biological"},{"LOWER":"database"}]}
+{"label":"Tools & Technologies","pattern":[{"LOWER":"biological"},{"LOWER":"database"}]}
 {"label":"SKILL|biomedical-engineering","pattern":[{"LOWER":"biomedical"},{"LOWER":"engineering"}]}
 {"label":"SKILL|biometrics","pattern":[{"LOWER":"biometrics"}]}
 {"label":"Tools & Technologies","pattern":[{"LOWER":"bitbucket"}]}
@@ -454,7 +454,7 @@
 {"label":"SKILL|corner-detection","pattern":[{"LOWER":"corner"},{"LOWER":"detection"}]}
 {"label":"SKILL|correctness","pattern":[{"LOWER":"correctness"}]}
 {"label":"SKILL|correlation-coefficient","pattern":[{"LOWER":"correlation"},{"LOWER":"coefficient"}]}
-{"label":"SKILL|cost-database","pattern":[{"LOWER":"cost"},{"LOWER":"database"}]}
+{"label":"Tools & Technologies","pattern":[{"LOWER":"cost"},{"LOWER":"database"}]}
 {"label":"Tools & Technologies","pattern":[{"LOWER":"couchbase"}]}
 {"label":"Tools & Technologies","pattern":[{"LOWER":"couchdb"}]}
 {"label":"SKILL|coveralls","pattern":[{"LOWER":"coveralls"}]}
@@ -548,12 +548,12 @@
 {"label":"SKILL|data-validation","pattern":[{"LOWER":"data"},{"LOWER":"validation"}]}
 {"label":"Industry Knowledge","pattern":[{"LOWER":"data"},{"LOWER":"visualization"}]}
 {"label":"SKILL|data-warehouse","pattern":[{"LOWER":"data"},{"LOWER":"warehouse"}]}
-{"label":"SKILL|database","pattern":[{"LOWER":"database"}]}
+{"label":"Tools & Technologies","pattern":[{"LOWER":"database"}]}
 {"label":"SKILL|database-design","pattern":[{"LOWER":"database"},{"LOWER":"design"}]}
 {"label":"SKILL|database-security","pattern":[{"LOWER":"database"},{"LOWER":"security"}]}
 {"label":"SKILL|database-tools","pattern":[{"LOWER":"database"},{"LOWER":"tools"}]}
 {"label":"SKILL|database-transaction","pattern":[{"LOWER":"database"},{"LOWER":"transaction"}]}
-{"label":"SKILL|databases","pattern":[{"LOWER":"databases"}]}
+{"label":"Tools & Technologies","pattern":[{"LOWER":"databases"}]}
 {"label":"SKILL|datadog","pattern":[{"LOWER":"datadog"}]}
 {"label":"SKILL|datalog","pattern":[{"LOWER":"datalog"}]}
 {"label":"SKILL|dcos","pattern":[{"TEXT":"DC/OS"}]}
@@ -615,7 +615,7 @@
 {"label":"SKILL|distributed-computing","pattern":[{"LOWER":"distributed"},{"LOWER":"computing"}]}
 {"label":"SKILL|distributed-computing-environment","pattern":[{"LOWER":"distributed"},{"LOWER":"computing"},{"LOWER":"environment"}]}
 {"label":"SKILL|distributed-data-store","pattern":[{"LOWER":"distributed"},{"LOWER":"data"},{"LOWER":"store"}]}
-{"label":"SKILL|distributed-database","pattern":[{"LOWER":"distributed"},{"LOWER":"database"}]}
+{"label":"Tools & Technologies","pattern":[{"LOWER":"distributed"},{"LOWER":"database"}]}
 {"label":"SKILL|distributed-file-system","pattern":[{"LOWER":"distributed"},{"LOWER":"file"},{"LOWER":"system"}]}
 {"label":"SKILL|distributed-memory","pattern":[{"LOWER":"distributed"},{"LOWER":"memory"}]}
 {"label":"SKILL|distributed-object","pattern":[{"LOWER":"distributed"},{"LOWER":"object"}]}
@@ -894,7 +894,7 @@
 {"label":"Tools & Technologies","pattern":[{"LOWER":"grafana"}]}
 {"label":"SKILL|grails","pattern":[{"LOWER":"grails"}]}
 {"label":"SKILL|grape","pattern":[{"LOWER":"grape"}]}
-{"label":"SKILL|graph-databases","pattern":[{"LOWER":"graph"},{"LOWER":"databases"}]}
+{"label":"Tools & Technologies","pattern":[{"LOWER":"graph"},{"LOWER":"databases"}]}
 {"label":"SKILL|graphical-model","pattern":[{"LOWER":"graphical"},{"LOWER":"model"}]}
 {"label":"SKILL|graphical-user-interface","pattern":[{"LOWER":"graphical"},{"LOWER":"user"},{"LOWER":"interface"}]}
 {"label":"SKILL|graphite","pattern":[{"LOWER":"graphite"}]}
@@ -1012,8 +1012,8 @@
 {"label":"Tools & Technologies","pattern":[{"LOWER":"immutable.js"}]}
 {"label":"Tools & Technologies","pattern":[{"LOWER":"immutable"},{"LOWER":"js"}]}
 {"label":"Tools & Technologies","pattern":[{"LOWER":"impala"}]}
-{"label":"SKILL|in-memory-databases","pattern":[{"LOWER":"in-memory"},{"LOWER":"databases"}]}
-{"label":"SKILL|in-memory-databases","pattern":[{"LOWER":"in"},{"LOWER":"memory databases"}]}
+{"label":"Tools & Technologies","pattern":[{"LOWER":"in-memory"},{"LOWER":"databases"}]}
+{"label":"Tools & Technologies","pattern":[{"LOWER":"in"},{"LOWER":"memory databases"}]}
 {"label":"SKILL|incapsula","pattern":[{"LOWER":"incapsula"}]}
 {"label":"SKILL|incremental-learning","pattern":[{"LOWER":"incremental"},{"LOWER":"learning"}]}
 {"label":"SKILL|indentation","pattern":[{"LOWER":"indentation"}]}
@@ -1255,7 +1255,7 @@
 {"label":"SKILL|marionette","pattern":[{"LOWER":"marionette"}]}
 {"label":"SKILL|markdown","pattern":[{"LOWER":"markdown"}]}
 {"label":"Industry Knowledge","pattern":[{"LOWER":"market"},{"LOWER":"research"}]}
-{"label":"SKILL|marketing","pattern":[{"LOWER":"marketing"}]}
+{"label":"Industry Knowledge","pattern":[{"LOWER":"marketing"}]}
 {"label":"SKILL|marketing-automation","pattern":[{"LOWER":"marketing"},{"LOWER":"automation"}]}
 {"label":"SKILL|markov-chain","pattern":[{"LOWER":"markov"},{"LOWER":"chain"}]}
 {"label":"SKILL|markup-language","pattern":[{"LOWER":"markup"},{"LOWER":"language"}]}
@@ -1327,7 +1327,7 @@
 {"label":"SKILL|mobile-backend","pattern":[{"LOWER":"mobile"},{"LOWER":"backend"}]}
 {"label":"SKILL|mobile-computing","pattern":[{"LOWER":"mobile"},{"LOWER":"computing"}]}
 {"label":"SKILL|mobile-continuous-integration","pattern":[{"LOWER":"mobile"},{"LOWER":"continuous"},{"LOWER":"integration"}]}
-{"label":"SKILL|mobile-database","pattern":[{"LOWER":"mobile"},{"LOWER":"database"}]}
+{"label":"Tools & Technologies","pattern":[{"LOWER":"mobile"},{"LOWER":"database"}]}
 {"label":"SKILL|mobile-error-monitoring","pattern":[{"LOWER":"mobile"},{"LOWER":"error"},{"LOWER":"monitoring"}]}
 {"label":"SKILL|mobile-prototyping--interaction-design-tools","pattern":[{"LOWER":"mobile"},{"LOWER":"prototyping"},{"LOWER":"&"},{"LOWER":"interaction"},{"LOWER":"design"},{"LOWER":"tools"}]}
 {"label":"SKILL|mobile-push-messaging","pattern":[{"LOWER":"mobile"},{"LOWER":"push"},{"LOWER":"messaging"}]}
@@ -1379,7 +1379,7 @@
 {"label":"SKILL|multidimensional-scaling","pattern":[{"LOWER":"multidimensional"},{"LOWER":"scaling"}]}
 {"label":"SKILL|multilevel-model","pattern":[{"LOWER":"multilevel"},{"LOWER":"model"}]}
 {"label":"SKILL|multimedia","pattern":[{"LOWER":"multimedia"}]}
-{"label":"SKILL|multimedia-database","pattern":[{"LOWER":"multimedia"},{"LOWER":"database"}]}
+{"label":"Tools & Technologies","pattern":[{"LOWER":"multimedia"},{"LOWER":"database"}]}
 {"label":"SKILL|multimodal-search","pattern":[{"LOWER":"multimodal"},{"LOWER":"search"}]}
 {"label":"SKILL|multiprocessing","pattern":[{"LOWER":"multiprocessing"}]}
 {"label":"SKILL|multisearch","pattern":[{"LOWER":"multisearch"}]}
@@ -1497,7 +1497,7 @@
 {"label":"SKILL|optical-transfer-function","pattern":[{"LOWER":"optical"},{"LOWER":"transfer"},{"LOWER":"function"}]}
 {"label":"SKILL|optimization-problem","pattern":[{"LOWER":"optimization"},{"LOWER":"problem"}]}
 {"label":"SKILL|optimizely","pattern":[{"LOWER":"optimizely"}]}
-{"label":"SKILL|oracle","pattern":[{"LOWER":"oracle"}]}
+{"label":"Tools & Technologies","pattern":[{"LOWER":"oracle"}]}
 {"label":"Interpersonal Skill","pattern":[{"LOWER":"organizational"},{"LOWER":"development"}]}
 {"label":"Industry Knowledge","pattern":[{"LOWER":"organizational"},{"LOWER":"design"}]}
 {"label":"Interpersonal Skill","pattern":[{"LOWER":"organizational"},{"LOWER":"analysis"}]}
@@ -1729,7 +1729,7 @@
 {"label":"SKILL|regular-expression","pattern":[{"LOWER":"regular"},{"LOWER":"expression"}]}
 {"label":"SKILL|regular-language","pattern":[{"LOWER":"regular"},{"LOWER":"language"}]}
 {"label":"SKILL|reinforcement-learning","pattern":[{"LOWER":"reinforcement"},{"LOWER":"learning"}]}
-{"label":"SKILL|relational-database","pattern":[{"LOWER":"relational"},{"LOWER":"database"}]}
+{"label":"Tools & Technologies","pattern":[{"LOWER":"relational"},{"LOWER":"database"}]}
 {"label":"SKILL|relative-record-data-set","pattern":[{"LOWER":"relative"},{"LOWER":"record"},{"LOWER":"data"},{"LOWER":"set"}]}
 {"label":"SKILL|relay","pattern":[{"LOWER":"relay"}]}
 {"label":"SKILL|release","pattern":[{"LOWER":"release"}]}
@@ -1898,7 +1898,7 @@
 {"label":"SKILL|software-agent","pattern":[{"LOWER":"software"},{"LOWER":"agent"}]}
 {"label":"SKILL|software-defined-radio","pattern":[{"LOWER":"software-defined"},{"LOWER":"radio"}]}
 {"label":"SKILL|software-defined-radio","pattern":[{"LOWER":"software"},{"LOWER":"defined radio"}]}
-{"label":"SKILL|software-engineering","pattern":[{"LOWER":"software"},{"LOWER":"engineering"}]}
+{"label":"Industry Knowledge","pattern":[{"LOWER":"software"},{"LOWER":"engineering"}]}
 {"label":"SKILL|solid-modeling","pattern":[{"LOWER":"solid"},{"LOWER":"modeling"}]}
 {"label":"Tools & Technologies","pattern":[{"LOWER":"solr"}]}
 {"label":"SKILL|sonar","pattern":[{"LOWER":"sonar"}]}
@@ -2001,7 +2001,7 @@
 {"label":"SKILL|syntax","pattern":[{"LOWER":"syntax"}]}
 {"label":"SKILL|synthetic-aperture-radar","pattern":[{"LOWER":"synthetic"},{"LOWER":"aperture"},{"LOWER":"radar"}]}
 {"label":"SKILL|synthetic-data","pattern":[{"LOWER":"synthetic"},{"LOWER":"data"}]}
-{"label":"SKILL|system-integration","pattern":[{"LOWER":"system"},{"LOWER":"integration"}]}
+{"label":"Industry Knowledge","pattern":[{"LOWER":"system"},{"LOWER":"integration"}]}
 {"label":"SKILL|system-on-a-chip","pattern":[{"LOWER":"system"},{"LOWER":"on"},{"LOWER":"a"},{"LOWER":"chip"}]}
 {"label":"SKILL|system-testing","pattern":[{"LOWER":"system"},{"LOWER":"testing"}]}
 {"label":"Industry Knowledge","pattern":[{"LOWER":"systems"},{"LOWER":"engineering"}]}
@@ -2024,7 +2024,7 @@
 {"label":"SKILL|telephony","pattern":[{"LOWER":"telephony"}]}
 {"label":"SKILL|template-matching","pattern":[{"LOWER":"template"},{"LOWER":"matching"}]}
 {"label":"SKILL|templating-languages--extensions","pattern":[{"LOWER":"templating"},{"LOWER":"languages"},{"LOWER":"&"},{"LOWER":"extensions"}]}
-{"label":"SKILL|temporal-database","pattern":[{"LOWER":"temporal"},{"LOWER":"database"}]}
+{"label":"Tools & Technologies","pattern":[{"LOWER":"temporal"},{"LOWER":"database"}]}
 {"label":"Tools & Technologies","pattern":[{"LOWER":"tensorflow"}]}
 {"label":"SKILL|terminal","pattern":[{"LOWER":"terminal"}]}
 {"label":"Tools & Technologies","pattern":[{"LOWER":"terraform"}]}
@@ -2543,3 +2543,85 @@
 {"label":"Other Skill","pattern":[{"LOWER":"predictive"},{"LOWER":"models"}]}
 {"label":"Industry Knowledge","pattern":[{"LOWER":"technical"},{"LOWER":"support"}]}
 {"label":"Other Skill","pattern":[{"LOWER":"new"},{"LOWER":"employee"},{"LOWER":"orientation"}]}
+{"label":"Industry Knowledge","pattern":[{"LOWER":"order"},{"LOWER":"management"}]}
+{"label":"Other Skill","pattern":[{"LOWER":"service"},{"LOWER":"design"}]}
+{"label":"Industry Knowledge","pattern":[{"LOWER":"psychology"}]}
+{"label":"Industry Knowledge","pattern":[{"LOWER":"simple"},{"LOWER":"network"},{"LOWER":"management"},{"LOWER":"protocol"}]}
+{"label":"Industry Knowledge","pattern":[{"LOWER":"simple"},{"LOWER":"network"},{"LOWER":"management"},{"LOWER":"protocol"},{"TEXT":"(SNMP)"}]}
+{"label":"Other Skill","pattern":[{"LOWER":"media"},{"LOWER":"strategy"}]}
+{"label":"Industry Knowledge","pattern":[{"LOWER":"management"},{"LOWER":"consulting"}]}
+{"label":"Industry Knowledge","pattern":[{"LOWER":"quality"},{"LOWER":"management"}]}
+{"label":"Other Skill","pattern":[{"LOWER":"number"},{"LOWER":"theory"}]}
+{"label":"Other Skill","pattern":[{"LOWER":"understanding"},{"LOWER":"customer"},{"LOWER":"needs"}]}
+{"label":"Industry Knowledge","pattern":[{"LOWER":"social"},{"LOWER":"enterpreneurship"}]}
+{"label":"Industry Knowledge","pattern":[{"LOWER":"variance"},{"LOWER":"analysis"}]}
+{"label":"Other Skill","pattern":[{"LOWER":"presenting"},{"LOWER":"solutions"}]}
+{"label":"Interpersonal Skill","pattern":[{"LOWER":"mediation"}]}
+{"label":"Industry Knowledge","pattern":[{"LOWER":"probability"}]}
+{"label":"Industry Knowledge","pattern":[{"LOWER":"algebra"}]}
+{"label":"Other Skill","pattern":[{"LOWER":"vr"}]}
+{"label":"Other Skill","pattern":[{"LOWER":"wellbeing"}]}
+{"label":"Other Skill","pattern":[{"LOWER":"social"},{"LOWER":"media"},{"LOWER":"platforms"}]}
+{"label":"Other Skill","pattern":[{"LOWER":"systems"},{"LOWER":"development"}]}
+{"label":"Tools & Technologies","pattern":[{"LOWER":"software"},{"LOWER":"as"},{"LOWER":"a"},{"LOWER":"service"}]}
+{"label":"Tools & Technologies","pattern":[{"LOWER":"software"},{"LOWER":"as"},{"LOWER":"a"},{"LOWER":"service"},{"TEXT":"(SAAS)"}]}
+{"label":"Other Skill","pattern":[{"LOWER":"order"},{"LOWER":"correction"}]}
+{"label":"Industry Knowledge","pattern":[{"LOWER":"office"},{"LOWER":"administration"}]}
+{"label":"Other Skill","pattern":[{"LOWER":"talent"},{"LOWER":"acquisition"}]}
+{"label":"Other Skill","pattern":[{"LOWER":"office"},{"LOWER":"management"}]}
+{"label":"Other Skill","pattern":[{"LOWER":"project"},{"LOWER":"administration"}]}
+{"label":"Industry Knowledge","pattern":[{"LOWER":"process"},{"LOWER":"engineering"}]}
+{"label":"Industry Knowledge","pattern":[{"LOWER":"mathematics"}]}
+{"label":"Industry Knowledge","pattern":[{"LOWER":"maths"}]}
+{"label":"Tools & Technologies","pattern":[{"LOWER":"spreadsheets"}]}
+{"label":"Industry Knowledge","pattern":[{"LOWER":"team"},{"LOWER":"management"}]}
+{"label":"Other Skill","pattern":[{"LOWER":"office"},{"LOWER":"supply"},{"LOWER":"ordering"}]}
+{"label":"Other Skill","pattern":[{"LOWER":"marketing"},{"LOWER":"event"},{"LOWER":"development"}]}
+{"label":"Tools & Technologies","pattern":[{"LOWER":"microsoft"},{"LOWER":"sharepoint"}]}
+{"label":"Tools & Technologies","pattern":[{"LOWER":"ms"},{"LOWER":"sharepoint"}]}
+{"label":"Industry Knowledge","pattern":[{"LOWER":"online"},{"LOWER":"research"}]}
+{"label":"Other Skill","pattern":[{"LOWER":"technical"},{"LOWER":"excellence"}]}
+{"label":"Other Skill","pattern":[{"LOWER":"process"},{"LOWER":"thinking"}]}
+{"label":"Other Skill","pattern":[{"LOWER":"technical"},{"LOWER":"sales"},{"LOWER":"strategy"}]}
+{"label":"Industry Knowledge","pattern":[{"LOWER":"marketing"},{"LOWER":"management"}]}
+{"label":"Industry Knowledge","pattern":[{"LOWER":"technical"},{"LOWER":"writing"}]}
+{"label":"Other Skill","pattern":[{"LOWER":"sticky"},{"LOWER":"learning"}]}
+{"label":"Industry Knowledge","pattern":[{"LOWER":"proofreading"}]}
+{"label":"Industry Knowledge","pattern":[{"LOWER":"storyboarding"}]}
+{"label":"Tools & Technologies","pattern":[{"LOWER":"prototyping"}]}
+{"label":"Tools & Technologies","pattern":[{"LOWER":"microsoft"},{"LOWER":"access"}]}
+{"label":"Tools & Technologies","pattern":[{"LOWER":"ms"},{"LOWER":"access"}]}
+{"label":"Other Skill","pattern":[{"LOWER":"psychology"},{"LOWER":"business"}]}
+{"label":"Other Skill","pattern":[{"LOWER":"public"},{"LOWER":"relations"},{"LOWER":"campaigns"}]}
+{"label":"Other Skill","pattern":[{"LOWER":"model"},{"LOWER":"building"}]}
+{"label":"Other Skill","pattern":[{"LOWER":"organizational"},{"LOWER":"talent"}]}
+{"label":"Interpersonal Skill","pattern":[{"LOWER":"strategic"},{"LOWER":"partnerships"}]}
+{"label":"Other Skill","pattern":[{"LOWER":"overcoming"},{"LOWER":"objections"}]}
+{"label":"Industry Knowledge","pattern":[{"LOWER":"product"},{"LOWER":"marketing"}]}
+{"label":"Other Skill","pattern":[{"LOWER":"strategic"},{"LOWER":"positioning"}]}
+{"label":"Industry Knowledge","pattern":[{"LOWER":"product"},{"LOWER":"sales"}]}
+{"label":"Industry Knowledge","pattern":[{"LOWER":"rapid"},{"LOWER":"prototyping"}]}
+{"label":"Industry Knowledge","pattern":[{"LOWER":"program"},{"LOWER":"administration"}]}
+{"label":"Other Skill","pattern":[{"LOWER":"product"},{"LOWER":"testing"}]}
+{"label":"Other Skill","pattern":[{"LOWER":"ultralearning"}]}
+{"label":"Industry Knowledge","pattern":[{"LOWER":"multimedia"}]}
+{"label":"Other Skill","pattern":[{"LOWER":"program"},{"LOWER":"delivery"}]}
+{"label":"Other Skill","pattern":[{"LOWER":"value"},{"LOWER":"selling"}]}
+{"label":"Other Skill","pattern":[{"LOWER":"order"},{"LOWER":"processing"}]}
+{"label":"Industry Knowledge","pattern":[{"LOWER":"invoice"},{"LOWER":"processing"}]}
+{"label":"Industry Knowledge","pattern":[{"LOWER":"vendor"},{"LOWER":"management"}]}
+{"label":"Industry Knowledge","pattern":[{"LOWER":"survey"},{"LOWER":"design"}]}
+{"label":"Industry Knowledge","pattern":[{"LOWER":"video"},{"LOWER":"editing"}]}
+{"label":"Other Skill","pattern":[{"LOWER":"survey"},{"LOWER":"research"}]}
+{"label":"Industry Knowledge","pattern":[{"LOWER":"performance"},{"LOWER":"management"}]}
+{"label":"Other Skill","pattern":[{"LOWER":"survey"},{"LOWER":"validation"}]}
+{"label":"Other Skill","pattern":[{"LOWER":"request"},{"LOWER":"for"},{"LOWER":"proposal"}]}
+{"label":"Other Skill","pattern":[{"LOWER":"request"},{"LOWER":"for"},{"LOWER":"proposal"},{"TEXT":"(RFP)"}]}
+{"label":"Other Skill","pattern":[{"LOWER":"rfp"}]}
+{"label":"Other Skill","pattern":[{"LOWER":"sustainability"},{"LOWER":"consulting"}]}
+{"label":"Industry Knowledge","pattern":[{"LOWER":"web"},{"LOWER":"development"}]}
+{"label":"Industry Knowledge","pattern":[{"LOWER":"program"},{"LOWER":"evaluation"}]}
+{"label":"Tools & Technologies","pattern":[{"LOWER":"work"},{"LOWER":"fusion"}]}
+{"label":"Tools & Technologies","pattern":[{"LOWER":"workfusion"}]}
+{"label":"Other Skill","pattern":[{"LOWER":"system"},{"LOWER":"integration"},{"LOWER":"sales"}]}
+{"label":"Other Skill","pattern":[{"LOWER":"meeting"},{"LOWER":"deadlines"}]}
