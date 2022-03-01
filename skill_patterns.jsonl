@@ -1163,6 +1163,7 @@
 {"label":"SKILL|leaflet","pattern":[{"LOWER":"leaflet"}]}
 {"label":"Industry Knowledge","pattern":[{"LOWER":"learning"},{"LOWER":"management"}]}
 {"label":"Tools & Technologies","pattern":[{"LOWER":"learning"},{"LOWER":"management"},{"LOWER":"system"}]}
+{"label":"Tools & Technologies","pattern":[{"LOWER":"learning"},{"LOWER":"management"},{"LOWER":"system"},{"Text":"(LMS)"}]}
 {"label":"Tools & Technologies","pattern":[{"LOWER":"learning"},{"LOWER":"management"},{"LOWER":"systems"}]}
 {"label":"Industry Knowledge","pattern":[{"LOWER":"hr"},{"LOWER":"transformation"}]}
 {"label":"SKILL|least-squares","pattern":[{"LOWER":"least"},{"LOWER":"squares"}]}
@@ -2486,4 +2487,59 @@
 {"label":"Industry Knowledge","pattern":[{"LOWER":"e"},{"TEXT":"-"},{"LOWER":"learning"}]}
 {"label":"Industry Knowledge","pattern":"e-learning"}
 {"label":"Industry Knowledge","pattern":"E-learning"}
-
+{"label":"Other Skill","pattern":[{"LOWER":"decision"},{"LOWER":"support"}]}
+{"label":"Tools & Technologies","pattern":[{"LOWER":"degreed"}]}
+{"label":"Other Skill","pattern":[{"LOWER":"management"},{"LOWER":"training"}]}
+{"label":"Industry Knowledge","pattern":[{"LOWER":"emerging"},{"LOWER":"technologies"}]}
+{"label":"Other Skill","pattern":[{"LOWER":"environmental"},{"LOWER":"sustainability"}]}
+{"label":"Other Skill","pattern":[{"LOWER":"cybersecurity"},{"LOWER":"strategy"}]}
+{"label":"Industry Knowledge","pattern":[{"LOWER":"appointment"},{"LOWER":"setting"}]}
+{"label":"Other Skill","pattern":[{"LOWER":"growth"},{"LOWER":"strategies"}]}
+{"label":"Other Skill","pattern":[{"LOWER":"data"},{"LOWER":"governance"}]}
+{"label":"Other Skill","pattern":[{"LOWER":"quantum"},{"LOWER":"computing"}]}
+{"label":"Tools & Technologies","pattern":[{"LOWER":"workday"}]}
+{"label":"Tools & Technologies","pattern":[{"LOWER":"slido"}]}
+{"label":"Tools & Technologies","pattern":[{"LOWER":"matlab"}]}
+{"label":"Other Skill","pattern":[{"LOWER":"results"},{"LOWER":"orientation"}]}
+{"label":"Other Skill","pattern":[{"LOWER":"territory"},{"LOWER":"management"}]}
+{"label":"Interpersonal Skill","pattern":[{"LOWER":"personal"},{"LOWER":"development"}]}
+{"label":"Interpersonal Skill","pattern":[{"LOWER":"multitasking"}]}
+{"label":"Interpersonal Skill","pattern":"multi-tasking"}
+{"label":"Other Skill","pattern":[{"LOWER":"taking"},{"LOWER":"messages"}]}
+{"label":"Industry Knowledge","pattern":[{"LOWER":"photography"}]}
+{"label":"Industry Knowledge","pattern":[{"LOWER":"technical"},{"LOWER":"sales"}]}
+{"label":"Tools & Technologies","pattern":[{"LOWER":"pig"}]}
+{"label":"Other Skill","pattern":[{"LOWER":"meeting"},{"LOWER":"management"}]}
+{"label":"Tools & Technologies","pattern":[{"LOWER":"uipath"}]}
+{"label":"Other Skill","pattern":[{"LOWER":"sales"},{"LOWER":"engineering"}]}
+{"label":"Other Skill","pattern":[{"LOWER":"reporting"}]}
+{"label":"Other Skill","pattern":[{"LOWER":"market"},{"LOWER":"trend"}]}
+{"label":"Industry Knowledge","pattern":[{"LOWER":"network"},{"LOWER":"engineering"}]}
+{"label":"Other Skill","pattern":[{"LOWER":"technical"},{"LOWER":"demonstrations"}]}
+{"label":"Industry Knowledge","pattern":[{"LOWER":"project"},{"LOWER":"management"},{"LOWER":"office"}]}
+{"label":"Industry Knowledge","pattern":[{"LOWER":"project"},{"LOWER":"management"},{"LOWER":"office"},{"TEXT":"(PMO)"}]}
+{"label":"Industry Knowledge","pattern":[{"LOWER":"pmo"}]}
+{"label":"Other Skill","pattern":[{"LOWER":"project"},{"LOWER":"scope"},{"LOWER":"definition"}]}
+{"label":"Other Skill","pattern":[{"LOWER":"pmp"}]}
+{"label":"Industry Knowledge","pattern":[{"LOWER":"trade"},{"LOWER":"shows"}]}
+{"label":"Industry Knowledge","pattern":[{"LOWER":"trade"},{"LOWER":"show"}]}
+{"label":"Tools & Technologies","pattern":[{"TEXT":"Go"}]}
+{"label":"Other Skill","pattern":[{"LOWER":"sales"},{"LOWER":"trainings"}]}
+{"label":"Other Skill","pattern":[{"LOWER":"sales"},{"LOWER":"training"}]}
+{"label":"Other Skill","pattern":[{"LOWER":"overcoming"},{"LOWER":"resistance"}]}
+{"label":"Tools & Technologies","pattern":[{"LOWER":"Go"}]}
+{"label":"Other Skill","pattern":[{"LOWER":"saving"},{"LOWER":"money"}]}
+{"label":"Other Skill","pattern":[{"LOWER":"payment"},{"LOWER":"processing"}]}
+{"label":"Other Skill","pattern":[{"LOWER":"scenario"},{"LOWER":"planning"}]}
+{"label":"Other Skill","pattern":[{"LOWER":"marketing"},{"LOWER":"analytics"}]}
+{"label":"Other Skill","pattern":[{"LOWER":"workshop"},{"LOWER":"facilitation"}]}
+{"label":"Other Skill","pattern":[{"LOWER":"script"},{"LOWER":"writing"}]}
+{"label":"Other Skill","pattern":[{"LOWER":"scriptwriting"}]}
+{"label":"Industry Knowledge","pattern":[{"LOWER":"order"},{"LOWER":"management"}]}
+{"label":"Other Skill","pattern":[{"LOWER":"secretarial"},{"LOWER":"skills"}]}
+{"label":"Other Skill","pattern":[{"LOWER":"mathematical"},{"LOWER":"analysis"}]}
+{"label":"Other Skill","pattern":[{"LOWER":"predictive"},{"LOWER":"modeling"}]}
+{"label":"Other Skill","pattern":[{"LOWER":"technical"},{"LOWER":"presentations"}]}
+{"label":"Other Skill","pattern":[{"LOWER":"predictive"},{"LOWER":"models"}]}
+{"label":"Industry Knowledge","pattern":[{"LOWER":"technical"},{"LOWER":"support"}]}
+{"label":"Other Skill","pattern":[{"LOWER":"new"},{"LOWER":"employee"},{"LOWER":"orientation"}]}
