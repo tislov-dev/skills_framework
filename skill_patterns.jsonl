@@ -2553,7 +2553,7 @@
 {"label":"Industry Knowledge","pattern":[{"LOWER":"quality"},{"LOWER":"management"}]}
 {"label":"Other Skill","pattern":[{"LOWER":"number"},{"LOWER":"theory"}]}
 {"label":"Other Skill","pattern":[{"LOWER":"understanding"},{"LOWER":"customer"},{"LOWER":"needs"}]}
-{"label":"Industry Knowledge","pattern":[{"LOWER":"social"},{"LOWER":"enterpreneurship"}]}
+{"label":"Industry Knowledge","pattern":[{"LOWER":"social"},{"LOWER":"entrepreneurship"}]}
 {"label":"Industry Knowledge","pattern":[{"LOWER":"variance"},{"LOWER":"analysis"}]}
 {"label":"Other Skill","pattern":[{"LOWER":"presenting"},{"LOWER":"solutions"}]}
 {"label":"Interpersonal Skill","pattern":[{"LOWER":"mediation"}]}
@@ -2625,3 +2625,7 @@
 {"label":"Tools & Technologies","pattern":[{"LOWER":"workfusion"}]}
 {"label":"Other Skill","pattern":[{"LOWER":"system"},{"LOWER":"integration"},{"LOWER":"sales"}]}
 {"label":"Other Skill","pattern":[{"LOWER":"meeting"},{"LOWER":"deadlines"}]}
+{"label":"Industry Knowledge","pattern":[{"LOWER":"system"},{"LOWER":"design"}]}
+{"label":"Other Skill","pattern":[{"LOWER":"system"},{"LOWER":"leadership"}]}
+{"label":"Other Skill","pattern":[{"LOWER":"resource"},{"LOWER":"coordination"}]}
+
