@@ -965,6 +965,7 @@
 {"label":"Industry Knowledge","pattern":[{"LOWER":"human"},{"LOWER":"resources"},{"TEXT":"(HR)"}]}
 {"label":"Industry Knowledge","pattern":[{"LOWER":"hr"},{"LOWER":"consulting"}]}
 {"label":"Industry Knowledge","pattern":[{"LOWER":"human"},{"LOWER":"resource"},{"LOWER":"consulting"}]}
+{"label":"Industry Knowledge","pattern":[{"LOWER":"human"},{"LOWER":"resources"},{"LOWER":"consulting"}]}
 {"label":"Industry Knowledge","pattern":[{"LOWER":"hr"},{"LOWER":"strategy"}]}
 {"label":"Industry Knowledge","pattern":[{"LOWER":"human"},{"LOWER":"resource"},{"LOWER":"strategy"}]}
 {"label":"Industry Knowledge","pattern":[{"LOWER":"hr"},{"LOWER":"transformation"}]}
@@ -1542,6 +1543,7 @@
 {"label":"SKILL|performance-metric","pattern":[{"LOWER":"performance"},{"LOWER":"metric"}]}
 {"label":"SKILL|performance-monitoring","pattern":[{"LOWER":"performance"},{"LOWER":"monitoring"}]}
 {"label":"Industry Knowledge","pattern":[{"LOWER":"performance"},{"LOWER":"management"}]}
+{"label":"Other Skill","pattern":[{"LOWER":"performance"},{"LOWER":"measurement"}]}
 {"label":"SKILL|performance-prediction","pattern":[{"LOWER":"performance"},{"LOWER":"prediction"}]}
 {"label":"Tools & Technologies","pattern":[{"LOWER":"perl"}]}
 {"label":"Tools & Technologies","pattern":[{"LOWER":"perl"},{"LOWER":"6"}]}
@@ -1819,8 +1821,8 @@
 {"label":"SKILL|self-hosted-blogging--cms","pattern":[{"LOWER":"self-hosted"},{"LOWER":"blogging"},{"LOWER":"/"},{"LOWER":"cms"}]}
 {"label":"SKILL|self-hosted-blogging--cms","pattern":[{"LOWER":"self-hosted blogging "},{"LOWER":" cms"}]}
 {"label":"SKILL|self-hosted-blogging--cms","pattern":[{"LOWER":"self"},{"LOWER":"hosted blogging / cms"}]}
-{"label":"SKILL|self-management","pattern":[{"LOWER":"self-management"}]}
-{"label":"SKILL|self-management","pattern":[{"LOWER":"self"},{"LOWER":"management"}]}
+{"label":"Other Skill","pattern":[{"LOWER":"self-management"}]}
+{"label":"Other Skill","pattern":[{"LOWER":"self"},{"LOWER":"management"}]}
 {"label":"SKILL|self-organization","pattern":[{"LOWER":"self-organization"}]}
 {"label":"SKILL|self-organization","pattern":[{"LOWER":"self"},{"LOWER":"organization"}]}
 {"label":"SKILL|semantic-computing","pattern":[{"LOWER":"semantic"},{"LOWER":"computing"}]}
@@ -2334,6 +2336,7 @@
 {"label":"Other Skill","pattern":[{"LOWER":"curating"},{"LOWER":"learning"},{"LOWER":"content"}]}
 {"label":"Other Skill","pattern":[{"LOWER":"flexibility"},{"LOWER":"and"},{"LOWER":"adaptability"}]}
 {"label":"Industry Knowledge","pattern":[{"LOWER":"key"},{"LOWER":"performance"},{"LOWER":"indicators"}]}
+{"label":"Industry Knowledge","pattern":[{"LOWER":"key"},{"LOWER":"performance"},{"LOWER":"indicators"},{"TEXT":"(KPIs)"}]}
 {"label":"Industry Knowledge","pattern":[{"LOWER":"kpis"}]}
 {"label":"Industry Knowledge","pattern":[{"LOWER":"event"},{"LOWER":"planning"}]}
 {"label":"Other Skill","pattern":[{"LOWER":"establishing"},{"LOWER":"trust"}]}
@@ -2397,10 +2400,10 @@
 {"label":"Other Skill","pattern":[{"LOWER":"market"},{"LOWER":"dynamics"}]}
 {"label":"Other Skill","pattern":[{"LOWER":"sales"},{"LOWER":"opportunities"}]}
 {"label":"Interpersonal Skill","pattern":[{"LOWER":"partner"},{"LOWER":"relationship"},{"LOWER":"management"}]}
-{"label":"Other Skill","pattern":"Self-management"}
+{"label":"Other Skill","pattern":"Self-Management"}
 {"label":"Other Skill","pattern":[{"LOWER":"visual"},{"LOWER":"design"}]}
 {"label":"Industry Knowledge","pattern":[{"LOWER":"technology"},{"LOWER":"sales"}]}
-{"label":"Industry Knowledge","pattern":[{"LOWER":"neural"},{"LOWER":"netowrks"}]}
+{"label":"Industry Knowledge","pattern":[{"LOWER":"neural"},{"LOWER":"networks"}]}
 {"label":"Industry Knowledge","pattern":[{"LOWER":"neural"},{"LOWER":"network"}]}
 {"label":"Industry Knowledge","pattern":[{"LOWER":"root"},{"LOWER":"cause"},{"LOWER":"analysis"}]}
 {"label":"Other Skill","pattern":[{"LOWER":"storytelling"}]}
@@ -2433,7 +2436,7 @@
 {"label":"Other Skill","pattern":[{"LOWER":"survey"},{"LOWER":"analysis"}]}
 {"label":"Other Skill","pattern":[{"LOWER":"sales"},{"LOWER":"support"}]}
 {"label":"Industry Knowledge","pattern":[{"LOWER":"portfolio"},{"LOWER":"management"}]}
-{"label":"Other Skill","pattern":[{"LOWER":"meeting"},{"LOWER":"faciliation"}]}
+{"label":"Other Skill","pattern":[{"LOWER":"meeting"},{"LOWER":"facilitation"}]}
 {"label":"Other Skill","pattern":[{"LOWER":"operational"},{"LOWER":"functions"}]}
 {"label":"Other Skill","pattern":[{"LOWER":"manage"},{"LOWER":"services"}]}
 {"label":"Other Skill","pattern":[{"LOWER":"marketing"},{"LOWER":"communications"}]}
@@ -2464,7 +2467,7 @@
 {"label":"Industry Knowledge","pattern":[{"LOWER":"corporate"},{"LOWER":"social"},{"LOWER":"responsibility"}]}
 {"label":"Other Skill","pattern":[{"LOWER":"administrative"},{"LOWER":"functions"}]}
 {"label":"Other Skill","pattern":[{"LOWER":"career"},{"LOWER":"management"}]}
-{"label":"Other Skill","pattern":[{"TEXT":"cross-team"},{"LOWER":"integration"}]}
+{"label":"Other Skill","pattern":[{"TEXT":"Cross-Team"},{"LOWER":"integration"}]}
 {"label":"Interpersonal Skill","pattern":[{"LOWER":"cultural"},{"LOWER":"awareness"}]}
 {"label":"Industry Knowledge","pattern":[{"LOWER":"budget"},{"LOWER":"management"}]}
 {"label":"Other Skill","pattern":[{"LOWER":"candidate"},{"LOWER":"interviewing"}]}
@@ -2628,4 +2631,13 @@
 {"label":"Industry Knowledge","pattern":[{"LOWER":"system"},{"LOWER":"design"}]}
 {"label":"Other Skill","pattern":[{"LOWER":"system"},{"LOWER":"leadership"}]}
 {"label":"Other Skill","pattern":[{"LOWER":"resource"},{"LOWER":"coordination"}]}
+{"label":"Other Skill","pattern":[{"LOWER":"compensation"},{"LOWER":"management"}]}
+{"label":"Other Skill","pattern":[{"LOWER":"business"},{"LOWER":"systems"},{"LOWER":"analysis"}]}
+{"label":"Other Skill","pattern":[{"LOWER":"staffing"},{"TEXT":"&"},{"LOWER":"recruiting"}]}
+{"label":"Other Skill","pattern":[{"LOWER":"technical"},{"LOWER":"project"},{"LOWER":"management"}]}
+{"label":"Other Skill","pattern":[{"LOWER":"strengths"},{"LOWER":"based"},{"LOWER":"learning"}]}
+{"label":"Industry Knowledge","pattern":[{"LOWER":"systems"},{"LOWER":"analysis"}]}
+{"label":"Industry Knowledge","pattern":[{"LOWER":"recruiting"}]}
+{"label":"Industry Knowledge","pattern":[{"LOWER":"logistics"},{"LOWER":"management"}]}
+{"label":"Interpersonal Skill","pattern":[{"LOWER":"customer"},{"LOWER":"support"}]}
 
