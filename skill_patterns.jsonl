@@ -149,7 +149,7 @@
 {"label":"SKILL|asynchronous-transfer-mode","pattern":[{"LOWER":"asynchronous"},{"LOWER":"transfer"},{"LOWER":"mode"}]}
 {"label":"SKILL|atom","pattern":[{"LOWER":"atom"}]}
 {"label":"SKILL|audio-signal","pattern":[{"LOWER":"audio"},{"LOWER":"signal"}]}
-{"label":"SKILL|augmented-reality","pattern":[{"LOWER":"augmented"},{"LOWER":"reality"}]}
+{"label":"Industry Knowledge","pattern":[{"LOWER":"augmented"},{"LOWER":"reality"}]}
 {"label":"SKILL|aurelia","pattern":[{"LOWER":"aurelia"}]}
 {"label":"SKILL|auth0","pattern":[{"LOWER":"auth0"}]}
 {"label":"SKILL|authentication","pattern":[{"LOWER":"authentication"}]}
@@ -165,6 +165,8 @@
 {"label":"SKILL|ava","pattern":[{"TEXT":"AVA"}]}
 {"label":"Tools & Technologies","pattern":[{"LOWER":"awesome"},{"LOWER":"lists"}]}
 {"label":"Tools & Technologies","pattern":[{"LOWER":"amazon"},{"LOWER":"web"},{"LOWER":"services"}]}
+{"label":"Tools & Technologies","pattern":[{"LOWER":"amazon"},{"LOWER":"web"},{"LOWER":"services"},{"TEXT":"(aws)"}]}
+{"label":"Tools & Technologies","pattern":[{"LOWER":"amazon"},{"LOWER":"web"},{"LOWER":"services"},{"TEXT":"(AWS)"}]}
 {"label":"Tools & Technologies","pattern":[{"LOWER":"aws"}]}
 {"label":"Tools & Technologies","pattern":[{"LOWER":"aws"},{"LOWER":"cloudformation"}]}
 {"label":"Tools & Technologies","pattern":[{"LOWER":"aws"},{"LOWER":"codebuild"}]}
@@ -220,10 +222,10 @@
 {"label":"SKILL|biomedical-engineering","pattern":[{"LOWER":"biomedical"},{"LOWER":"engineering"}]}
 {"label":"SKILL|biometrics","pattern":[{"LOWER":"biometrics"}]}
 {"label":"Tools & Technologies","pattern":[{"LOWER":"bitbucket"}]}
-{"label":"SKILL|bitcoin","pattern":[{"LOWER":"bitcoin"}]}
+{"label":"Tools & Technologies","pattern":[{"LOWER":"bitcoin"}]}
 {"label":"SKILL|bitrise","pattern":[{"LOWER":"bitrise"}]}
 {"label":"SKILL|blind-signal-separation","pattern":[{"LOWER":"blind"},{"LOWER":"signal"},{"LOWER":"separation"}]}
-{"label":"SKILL|blockchain","pattern":[{"LOWER":"blockchain"}]}
+{"label":"Tools & Technologies","pattern":[{"LOWER":"blockchain"}]}
 {"label":"SKILL|body-text","pattern":[{"LOWER":"body"},{"LOWER":"text"}]}
 {"label":"SKILL|boolean-algebra","pattern":[{"LOWER":"boolean"},{"LOWER":"algebra"}]}
 {"label":"SKILL|boolean-expression","pattern":[{"LOWER":"boolean"},{"LOWER":"expression"}]}
@@ -471,6 +473,7 @@
 {"label":"SKILL|critical-path-method","pattern":[{"LOWER":"critical"},{"LOWER":"path"},{"LOWER":"method"}]}
 {"label":"SKILL|critical-section","pattern":[{"LOWER":"critical"},{"LOWER":"section"}]}
 {"label":"Tools & Technologies","pattern":[{"TEXT":"CRM"}]}
+{"label":"Tools & Technologies","pattern":[{"LOWER":"crm"},{"LOWER":"software"}]}
 {"label":"SKILL|cross-correlation","pattern":[{"LOWER":"cross-correlation"}]}
 {"label":"SKILL|cross-correlation","pattern":[{"LOWER":"cross"},{"LOWER":"correlation"}]}
 {"label":"SKILL|cross-platform-desktop-development","pattern":[{"LOWER":"cross-platform"},{"LOWER":"desktop"},{"LOWER":"development"}]}
@@ -530,7 +533,7 @@
 {"label":"SKILL|data-pre-processing","pattern":[{"LOWER":"data"},{"LOWER":"pre-processing"}]}
 {"label":"SKILL|data-pre-processing","pattern":[{"LOWER":"data pre"},{"LOWER":"processing"}]}
 {"label":"SKILL|data-processing","pattern":[{"LOWER":"data"},{"LOWER":"processing"}]}
-{"label":"SKILL|data-quality","pattern":[{"LOWER":"data"},{"LOWER":"quality"}]}
+{"label":"Other Skill","pattern":[{"LOWER":"data"},{"LOWER":"quality"}]}
 {"label":"SKILL|data-reduction","pattern":[{"LOWER":"data"},{"LOWER":"reduction"}]}
 {"label":"SKILL|data-retrieval","pattern":[{"LOWER":"data"},{"LOWER":"retrieval"}]}
 {"label":"Industry Knowledge","pattern":[{"LOWER":"data"},{"LOWER":"science"}]}
@@ -559,14 +562,15 @@
 {"label":"SKILL|dcos","pattern":[{"TEXT":"DC/OS"}]}
 {"label":"SKILL|dcos","pattern":[{"LOWER":"dc"},{"LOWER":"os"}]}
 {"label":"SKILL|deadlock","pattern":[{"LOWER":"deadlock"}]}
-{"label":"SKILL|debian","pattern":[{"LOWER":"debian"}]}
+{"label":"Tools & Technologies","pattern":[{"LOWER":"debian"}]}
 {"label":"SKILL|debugging","pattern":[{"LOWER":"debugging"}]}
 {"label":"SKILL|decidability","pattern":[{"LOWER":"decidability"}]}
 {"label":"SKILL|decision-problem","pattern":[{"LOWER":"decision"},{"LOWER":"problem"}]}
 {"label":"Interpersonal Skill","pattern":[{"LOWER":"decision"},{"LOWER":"making"}]}
 {"label":"SKILL|decision-rule","pattern":[{"LOWER":"decision"},{"LOWER":"rule"}]}
 {"label":"SKILL|decision-support-system","pattern":[{"LOWER":"decision"},{"LOWER":"support"},{"LOWER":"system"}]}
-{"label":"SKILL|decision-tree","pattern":[{"LOWER":"decision"},{"LOWER":"tree"}]}
+{"label":"Other Skill","pattern":[{"LOWER":"decision"},{"LOWER":"tree"}]}
+{"label":"Other Skill","pattern":[{"LOWER":"decision"},{"LOWER":"trees"}]}
 {"label":"SKILL|deco","pattern":[{"LOWER":"deco"}]}
 {"label":"SKILL|decomposition-method-constraint-satisfaction","pattern":[{"LOWER":"decomposition"},{"LOWER":"method"},{"LOWER":"(constraint"},{"LOWER":"satisfaction)"}]}
 {"label":"SKILL|dedicated-cloud-hosting","pattern":[{"LOWER":"dedicated"},{"LOWER":"cloud"},{"LOWER":"hosting"}]}
@@ -694,7 +698,7 @@
 {"label":"SKILL|encryption","pattern":[{"LOWER":"encryption"}]}
 {"label":"SKILL|engagementlifecycle-marketing","pattern":[{"LOWER":"engagement/lifecycle"},{"LOWER":"marketing"}]}
 {"label":"SKILL|engagementlifecycle-marketing","pattern":[{"LOWER":"engagement"},{"LOWER":"lifecycle marketing"}]}
-{"label":"SKILL|engineering","pattern":[{"LOWER":"engineering"}]}
+{"label":"Industry Knowledge","pattern":[{"LOWER":"engineering"}]}
 {"label":"SKILL|engineering-drawing","pattern":[{"LOWER":"engineering"},{"LOWER":"drawing"}]}
 {"label":"SKILL|engineering-ethics","pattern":[{"LOWER":"engineering"},{"LOWER":"ethics"}]}
 {"label":"Interpersonal Skill","pattern":[{"LOWER":"employee"},{"LOWER":"communications"}]}
@@ -1061,7 +1065,9 @@
 {"label":"SKILL|intercom","pattern":[{"LOWER":"intercom"}]}
 {"label":"SKILL|interconnection","pattern":[{"LOWER":"interconnection"}]}
 {"label":"SKILL|international-trade","pattern":[{"LOWER":"international"},{"LOWER":"trade"}]}
-{"label":"SKILL|internet-of-things","pattern":[{"LOWER":"internet"},{"LOWER":"of"},{"LOWER":"things"}]}
+{"label":"Industry Knowledge","pattern":[{"LOWER":"internet"},{"LOWER":"of"},{"LOWER":"things"}]}
+{"label":"Industry Knowledge","pattern":[{"LOWER":"internet"},{"LOWER":"of"},{"LOWER":"things"},{"TEXT":"(IoT)"}]}
+{"label":"Industry Knowledge","pattern":[{"LOWER":"iot"}]}
 {"label":"SKILL|internet-of-things-hardware","pattern":[{"LOWER":"internet"},{"LOWER":"of"},{"LOWER":"things"},{"LOWER":"hardware"}]}
 {"label":"SKILL|internet-privacy","pattern":[{"LOWER":"internet"},{"LOWER":"privacy"}]}
 {"label":"SKILL|internet-protocol-suite","pattern":[{"LOWER":"internet"},{"LOWER":"protocol"},{"LOWER":"suite"}]}
@@ -2031,7 +2037,7 @@
 {"label":"SKILL|terminal","pattern":[{"LOWER":"terminal"}]}
 {"label":"Tools & Technologies","pattern":[{"LOWER":"terraform"}]}
 {"label":"SKILL|testflight","pattern":[{"LOWER":"testflight"}]}
-{"label":"SKILL|testing","pattern":[{"LOWER":"testing"}]}
+{"label":"Industry Knowledge","pattern":[{"LOWER":"testing"}]}
 {"label":"SKILL|testing-frameworks","pattern":[{"LOWER":"testing"},{"LOWER":"frameworks"}]}
 {"label":"SKILL|text-box","pattern":[{"LOWER":"text"},{"LOWER":"box"}]}
 {"label":"SKILL|text-editor","pattern":[{"LOWER":"text"},{"LOWER":"editor"}]}
@@ -2326,6 +2332,8 @@
 {"label":"Other Skill","pattern":[{"LOWER":"credibility"},{"LOWER":"and"},{"LOWER":"trust"}]}
 {"label":"Other Skill","pattern":[{"LOWER":"administrative"},{"LOWER":"support"}]}
 {"label":"Industry Knowledge","pattern":[{"LOWER":"financial"},{"LOWER":"management"}]}
+{"label":"Industry Knowledge","pattern":[{"LOWER":"financial"},{"LOWER":"analysis"}]}
+{"label":"Industry Knowledge","pattern":[{"LOWER":"financial"},{"LOWER":"statements"}]}
 {"label":"Industry Knowledge","pattern":[{"LOWER":"cost"},{"LOWER":"control"}]}
 {"label":"Industry Knowledge","pattern":[{"LOWER":"troubleshooting"}]}
 {"label":"Other Skill","pattern":[{"LOWER":"troubleshooting"},{"LOWER":"technical"},{"LOWER":"issues"}]}
@@ -2640,4 +2648,107 @@
 {"label":"Industry Knowledge","pattern":[{"LOWER":"recruiting"}]}
 {"label":"Industry Knowledge","pattern":[{"LOWER":"logistics"},{"LOWER":"management"}]}
 {"label":"Interpersonal Skill","pattern":[{"LOWER":"customer"},{"LOWER":"support"}]}
-
+{"label":"Other Skill","pattern":[{"LOWER":"networking"}]}
+{"label":"Industry Knowledge","pattern":[{"LOWER":"social"},{"LOWER":"media"},{"LOWER":"strategy"}]}
+{"label":"Other Skill","pattern":[{"LOWER":"network"},{"LOWER":"configuration"}]}
+{"label":"Other Skill","pattern":[{"LOWER":"system"},{"LOWER":"configuration"}]}
+{"label":"Other Skill","pattern":"System/Network Configuration"}
+{"label":"Other Skill","pattern":[{"LOWER":"applied"},{"LOWER":"mathematics"}]}
+{"label":"Industry Knowledge","pattern":[{"LOWER":"continuous"},{"LOWER":"improvement"}]}
+{"label":"Other Skill","pattern":[{"LOWER":"business"},{"LOWER":"data"},{"LOWER":"analysis"}]}
+{"label":"Interpersonal Skill","pattern":[{"LOWER":"community"},{"LOWER":"development"}]}
+{"label":"Industry Knowledge","pattern":[{"LOWER":"cross"},{"TEXT":"-"},{"LOWER":"selling"}]}
+{"label":"Other Skill","pattern":[{"LOWER":"cross"},{"LOWER":"sell"}]}
+{"label":"Other Skill","pattern":[{"LOWER":"customer"},{"LOWER":"focus"}]}
+{"label":"Other Skill","pattern":[{"LOWER":"digital"},{"LOWER":"architechture"}]}
+{"label":"Industry Knowledge","pattern":[{"LOWER":"learning"},{"LOWER":"and"},{"LOWER":"development"}]}
+{"label":"Industry Knowledge","pattern":[{"LOWER":"learning"},{"TEXT":"&"},{"LOWER":"development"}]}
+{"label":"Other Skill","pattern":[{"LOWER":"ad"},{"LOWER":"hoc"},{"LOWER":"analysis"}]}
+{"label":"Other Skill","pattern":[{"LOWER":"ad"},{"LOWER":"hoc"},{"LOWER":"reporting"}]}
+{"label":"Industry Knowledge","pattern":[{"LOWER":"information"},{"LOWER":"systems"}]}
+{"label":"Industry Knowledge","pattern":[{"LOWER":"community"},{"LOWER":"service"}]}
+{"label":"Industry Knowledge","pattern":[{"LOWER":"cloud"},{"LOWER":"computing"}]}
+{"label":"Other Skill","pattern":[{"LOWER":"compensation"},{"LOWER":"administration"}]}
+{"label":"Other Skill","pattern":[{"LOWER":"leadership"},{"LOWER":"programs"}]}
+{"label":"Other Skill","pattern":[{"LOWER":"edtech"}]}
+{"label":"Industry Knowledge","pattern":[{"LOWER":"education"}]}
+{"label":"Industry Knowledge","pattern":[{"LOWER":"branding"}]}
+{"label":"Other Skill","pattern":[{"LOWER":"compensation"},{"LOWER":"strategies"}]}
+{"label":"Other Skill","pattern":[{"LOWER":"cisco"},{"LOWER":"security"}]}
+{"label":"Other Skill","pattern":[{"LOWER":"ideation"}]}
+{"label":"Industry Knowledge","pattern":[{"LOWER":"competitive"},{"LOWER":"analysis"}]}
+{"label":"Interpersonal Skill","pattern":[{"LOWER":"customer"},{"LOWER":"interaction"}]}
+{"label":"Other Skill","pattern":[{"LOWER":"budget"},{"LOWER":"analysis"}]}
+{"label":"Other Skill","pattern":[{"LOWER":"complex"},{"LOWER":"sales"}]}
+{"label":"Other Skill","pattern":[{"LOWER":"infrastructure"},{"LOWER":"change"}]}
+{"label":"Other Skill","pattern":[{"LOWER":"interactive"},{"LOWER":"marketing}]}
+{"label":"Industry Knowledge","pattern":[{"LOWER":"concept"},{"LOWER":"development"}]}
+{"label":"Interpersonal Skill","pattern":[{"LOWER":"interviewing"}]}
+{"label":"Other Skill","pattern":[{"LOWER":"conference"},{"LOWER":"coordination"}]}
+{"label":"Other Skill","pattern":[{"LOWER":"issue"},{"LOWER":"resolution"}]}
+{"label":"Interpersonal Skill","pattern":[{"LOWER":"empathy"}]}
+{"label":"Industry Knowledge","pattern":[{"LOWER":"data"},{"LOWER":"entry"}]}
+{"label":"Interpersonal Skill","pattern":[{"LOWER":"conflict"},{"LOWER":"resolution"}]}
+{"label":"Other Skill","pattern":[{"LOWER":"conscious"},{"LOWER":"culture"}]}
+{"label":"Other Skill","pattern":[{"LOWER":"leading"},{"LOWER":"change"}]}
+{"label":"Industry Knowledge","pattern":[{"LOWER":"consultative"},{"LOWER":"selling"}]}
+{"label":"Other Skill","pattern":[{"LOWER":"learning"},{"LOWER":"evaluation"}]}
+{"label":"Industry Knowledge","pattern":[{"LOWER":"data"},{"LOWER":"warehousing"}]}
+{"label":"Industry Knowledge","pattern":[{"LOWER":"business"},{"LOWER":"process"},{"LOWER":"design"}]}
+{"label":"Interpersonal Skill","pattern":[{"LOWER":"employee"},{"LOWER":"training"}]}
+{"label":"Other Skill","pattern":[{"LOWER":"employment"},{"LOWER":"law"}]}
+{"label":"Industry Knowledge","pattern":[{"LOWER":"blended"},{"LOWER":"learning"}]}
+{"label":"Other Skill","pattern":[{"LOWER":"engineering"},{"LOWER":"consultation"}]}
+{"label":"Other Skill","pattern":[{"LOWER":"content"},{"LOWER":"syndication"}]}
+{"label":"Other Skill","pattern":[{"LOWER":"adaptive"},{"LOWER":"learning"}]}
+{"label":"Other Skill","pattern":[{"LOWER":"content"},{"LOWER":"testing"}]}
+{"label":"Other Skill","pattern":[{"LOWER":"branding"},{"LOWER":"strategy"}]}
+{"label":"Other Skill","pattern":[{"LOWER":"basic"},{"LOWER":"research"}]}
+{"label":"Other Skill","pattern":[{"LOWER":"cisco"},{"LOWER":"networking"},{"LOWER":"fundamentals"}]}
+{"label":"Industry Knowledge","pattern":[{"LOWER":"human"},{"LOWER":"resource"},{"LOWER":"development"}]}
+{"label":"Industry Knowledge","pattern":[{"LOWER":"human"},{"LOWER":"resources"},{"LOWER":"development"}]}
+{"label":"Industry Knowledge","pattern":[{"LOWER":"hr"},{"LOWER":"development"}]}
+{"label":"Other Skill","pattern":[{"LOWER":"behavior"},{"LOWER":"analysis"}]}
+{"label":"Industry Knowledge","pattern":[{"LOWER":"benefits"},{"LOWER":"administration"}]}
+{"label":"Other Skill","pattern":[{"LOWER":"algorithm"},{"LOWER":"development"}]}
+{"label":"Other Skill","pattern":[{"LOWER":"executive"},{"LOWER":"communications"}]}
+{"label":"Industry Knowledge","pattern":[{"LOWER":"information"},{"LOWER":"architechture"}]}
+{"label":"Other Skill","pattern":[{"LOWER":"executive"},{"LOWER":"compensation"}]}
+{"label":"Other Skill","pattern":[{"LOWER":"calendaring"}]}
+{"label":"Industry Knowledge","pattern":[{"LOWER":"information"},{"LOWER":"technology"},{"LOWER":"infrastructure"},{"LOWER":"library"}]}
+{"label":"Industry Knowledge","pattern":[{"LOWER":"information"},{"LOWER":"technology"},{"LOWER":"infrastructure"},{"LOWER":"library"},{"TEXT":"(ITIL)"}]}
+{"label":"Industry Knowledge","pattern":[{"LOWER":"campaign"},{"LOWER":"management"}]}
+{"label":"Other Skill","pattern":[{"LOWER":"campus"},{"LOWER":"recruiting"}]}
+{"label":"Industry Knowledge","pattern":[{"LOWER":"cybersecurity"}]}
+{"label":"Industry Knowledge","pattern":[{"LOWER":"cyber"},{"LOWER":"security"}]}
+{"label":"Industry Knowledge","pattern":[{"LOWER":"extract"},{"LOWER":"transform"},{"LOWER":"and"},{"LOWER":"load"}]}
+{"label":"Industry Knowledge","pattern":[{"LOWER":"extract"},{"LOWER":"transform"},{"LOWER":"load"}]}
+{"label":"Industry Knowledge","pattern":[{"LOWER":"etl"}]}
+{"label":"Industry Knowledge","pattern":"Extract, Transform, Load"}
+{"label":"Industry Knowledge","pattern":[{"LOWER":"internal"},{"LOWER":"communications"}]}
+{"label":"Other Skill","pattern":[{"LOWER":"courseware"},{"LOWER":"development"}]}
+{"label":"Other Skill","pattern":[{"LOWER":"Interpersonal"},{"LOWER":"relationships"}]}
+{"label":"Other Skill","pattern":[{"LOWER":"facilitation"},{"LOWER":"techniques"}]}
+{"label":"Other Skill","pattern":[{"LOWER":"creative"},{"LOWER":"design"}]}
+{"label":"Other Skill","pattern":[{"LOWER":"job"},{"LOWER":"analysis"}]}
+{"label":"Industry Knowledge","pattern":[{"LOWER":"cloud"},{"LOWER":"security"}]}
+{"label":"Industry Knowledge","pattern":"L&D"}
+{"label":"Interpersonal Skill","pattern":[{"LOWER":"creative"},{"LOWER":"thinking"}]}
+{"label":"Industry Knowledge","pattern":[{"LOWER":"creative"},{"LOWER":"writing"}]}
+{"label":"Interpersonal Skill","pattern":[{"LOWER":"collaborating"},{"LOWER":"globally"}]}
+{"label":"Other Skill","pattern":[{"LOWER":"future"},{"LOWER":"of"},{"LOWER":"learning"}]}
+{"label":"Other Skill","pattern":[{"LOWER":"gamification"}]}
+{"label":"Other Skill","pattern":[{"LOWER":"general"},{"LOWER":"office"},{"LOWER":"duties"}]}
+{"label":"Other Skill","pattern":[{"LOWER":"candidate"},{"LOWER":"screening"}]}
+{"label":"Other Skill","pattern":[{"LOWER":"candidate"},{"LOWER":"sourcing"}]}
+{"label":"Other Skill","pattern":[{"LOWER":"learning"},{"LOWER":"curation"}]}
+{"label":"Industry Knowledge","pattern":"Go-to-Market Strategy"}
+{"label":"Industry Knowledge","pattern":"go-to-market Strategy"}
+{"label":"Industry Knowledge","pattern":"Go-to-market Strategy"}
+{"label":"Industry Knowledge","pattern":[{"LOWER":"data"},{"LOWER":"structures"}]}
+{"label":"Other Skill","pattern":[{"LOWER":"goal"},{"LOWER":"setting"}]}
+{"label":"Other Skill","pattern":[{"LOWER":"legal"},{"LOWER":"documentation"}]}
+{"label":"Industry Knowledge","pattern":[{"LOWER":"crisis"},{"LOWER":"management"}]}
+{"label":"Industry Knowledge","pattern":[{"LOWER":"logistics"},{"LOWER":"planning"}]}
+{"label":"Other Skill","pattern":[{"LOWER":"capability"},{"LOWER":"development"}]}
+{"label":"Industry Knowledge","pattern":[{"LOWER":"anthropology"}]}
