@@ -2681,7 +2681,7 @@
 {"label":"Other Skill","pattern":[{"LOWER":"budget"},{"LOWER":"analysis"}]}
 {"label":"Other Skill","pattern":[{"LOWER":"complex"},{"LOWER":"sales"}]}
 {"label":"Other Skill","pattern":[{"LOWER":"infrastructure"},{"LOWER":"change"}]}
-{"label":"Other Skill","pattern":[{"LOWER":"interactive"},{"LOWER":"marketing}]}
+{"label":"Other Skill","pattern":[{"LOWER":"interactive"},{"LOWER":"marketing"}]}
 {"label":"Industry Knowledge","pattern":[{"LOWER":"concept"},{"LOWER":"development"}]}
 {"label":"Interpersonal Skill","pattern":[{"LOWER":"interviewing"}]}
 {"label":"Other Skill","pattern":[{"LOWER":"conference"},{"LOWER":"coordination"}]}
