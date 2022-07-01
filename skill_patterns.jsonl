@@ -260,7 +260,6 @@
 {"label":"SKILL|built-in-self-test","pattern":[{"LOWER":"built-in"},{"LOWER":"self-test"}]}
 {"label":"SKILL|built-in-self-test","pattern":[{"LOWER":"built"},{"LOWER":"in self"},{"LOWER":"test"}]}
 {"label":"Tools & Technologies","pattern":[{"LOWER":"bulma"}]}
-{"label":"Industry Knowledge","pattern":[{"LOWER":"business"}]}
 {"label":"Interpersonal Skill","pattern":[{"LOWER":"business"},{"LOWER":"acumen"}]}
 {"label":"Other Skill","pattern":[{"LOWER":"business"},{"LOWER":"case"},{"LOWER":"analysis"}]}
 {"label":"Industry Knowledge","pattern":[{"LOWER":"business"},{"LOWER":"administration"}]}
@@ -1578,7 +1577,6 @@
 {"label":"SKILL|plagiarism-detection","pattern":[{"LOWER":"plagiarism"},{"LOWER":"detection"}]}
 {"label":"SKILL|platform-as-a-service","pattern":[{"LOWER":"platform"},{"LOWER":"as"},{"LOWER":"a"},{"LOWER":"service"}]}
 {"label":"SKILL|platform-as-a-service-tools","pattern":[{"LOWER":"platform"},{"LOWER":"as"},{"LOWER":"a"},{"LOWER":"service"},{"LOWER":"tools"}]}
-{"label":"SKILL|play","pattern":[{"LOWER":"play"}]}
 {"label":"Tools & Technologies","pattern":[{"LOWER":"plotly"}]}
 {"label":"SKILL|point-location","pattern":[{"LOWER":"point"},{"LOWER":"location"}]}
 {"label":"SKILL|point-spread-function","pattern":[{"LOWER":"point"},{"LOWER":"spread"},{"LOWER":"function"}]}
@@ -1994,7 +1992,6 @@
 {"label":"SKILL|superset","pattern":[{"LOWER":"superset"}]}
 {"label":"SKILL|supervised-learning","pattern":[{"LOWER":"supervised"},{"LOWER":"learning"}]}
 {"label":"SKILL|supervisory-control","pattern":[{"LOWER":"supervisory"},{"LOWER":"control"}]}
-{"label":"SKILL|support","pattern":[{"LOWER":"support"}]}
 {"label":"SKILL|support-sales-and-marketing","pattern":[{"LOWER":"support,"},{"LOWER":"sales,"},{"LOWER":"and"},{"LOWER":"marketing"}]}
 {"label":"SKILL|support-vector-machine","pattern":[{"LOWER":"support"},{"LOWER":"vector"},{"LOWER":"machine"}]}
 {"label":"SKILL|surge","pattern":[{"LOWER":"surge"}]}
