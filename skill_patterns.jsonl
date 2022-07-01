@@ -1,7 +1,6 @@
 {"label":"Tools & Technologies","pattern":[{"TEXT":".NET"}]}
 {"label":"Tools & Technologies","pattern":[{"LOWER":""},{"LOWER":"net"}]}
 {"label":"Tools & Technologies","pattern":[{"LOWER":"1password"}]}
-{"label":"SKILL|3d","pattern":[{"TEXT":"3D"}]}
 {"label":"SKILL|3d-reconstruction","pattern":[{"LOWER":"3d"},{"LOWER":"reconstruction"}]}
 {"label":"SKILL|aboutness","pattern":[{"LOWER":"aboutness"}]}
 {"label":"SKILL|abstract-data-type","pattern":[{"LOWER":"abstract"},{"LOWER":"data"},{"LOWER":"type"}]}
@@ -1064,7 +1063,7 @@
 {"label":"SKILL|intercom","pattern":[{"LOWER":"intercom"}]}
 {"label":"SKILL|interconnection","pattern":[{"LOWER":"interconnection"}]}
 {"label":"SKILL|international-trade","pattern":[{"LOWER":"international"},{"LOWER":"trade"}]}
-{"label":"Industry Knowledge","pattern":[{"LOWER":"internet"},{"LOWER":"of"},{"LOWER":"things"}]}
+{"label":"Industry Knowledge","pattern":[{"LOWER":play"internet"},{"LOWER":"of"},{"LOWER":"things"}]}
 {"label":"Industry Knowledge","pattern":[{"LOWER":"internet"},{"LOWER":"of"},{"LOWER":"things"},{"TEXT":"(IoT)"}]}
 {"label":"Industry Knowledge","pattern":[{"LOWER":"iot"}]}
 {"label":"SKILL|internet-of-things-hardware","pattern":[{"LOWER":"internet"},{"LOWER":"of"},{"LOWER":"things"},{"LOWER":"hardware"}]}
